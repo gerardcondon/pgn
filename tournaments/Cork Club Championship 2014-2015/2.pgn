@@ -1,0 +1,111 @@
+[Event "Cork Club Championship 2014-2015"]
+[Site "Cork, Ireland"]
+[Date "2014.12.05"]
+[TimeControl "5400+15"]
+[Round "2"]
+[White "Condon, Gerard"]
+[WhiteElo "0"]
+[Black "310"]
+[BlackElo "1108"]
+[Result "1-0"]
+
+1. e4 c5 2. c3 { c3 Sicilian. My standard move against the Sicilian. I play this
+for a similar reason I play the Scotch and French - choose the opening from the
+earliest move I can.}  2... e6 { Didn't expect this move. Was expecting Nf6 or
+d5.}  3. d4 { The main point of c3 is to plant a pawn on d4. Now if black
+takes, I take back with the c pawn.}  3... cxd4 4. cxd4 d5 { This is probably
+transposing back into a line from the 2. .. d5 variation.}  5. exd5 Qxd5 { not
+too sure about this line as the queen is exposed}  ( 5... exd5 { had wondered
+if he would go for this.} ) 6. Nc3 { Standard developing move. It attacks the
+queen and blocks the checks on the a5-e1 diagonal.}  6... Bb4 { this move
+develops his dark-squared bishop. It also pins the knight thus protecting the
+queen.}  7. Nf3 { defending the pawn in antipation of Nc6. was wondering if any
+Qa4+ stuff worked here but Nc6 would stop anythinbg like that}  ( 7. Qa4+ Nc6
+8. Bb5 Bxc3+ 9. bxc3 Qxg2 { This would be bad for me}  ) 7... Nf6 ( 7... Qe4+ {
+Looked at this due to Heisman's checks, capture, threats but Be2 would be fine
+here}  8. Be2 ) 8. a3 { Wanted to clarify the situation on the queenside. Think
+after this the bishop for knight trade is forced which I was happy about. I
+think the dark squared bishop would have been a good defender on the kingside.}
+ 8... Bxc3+ { I've started to read Chernev's Logical Chess - Move by Move and
+the first few games involve the winning side creating weaknesses in front of
+the opposing king and putting pieces on the holes created by pawn moves. I was
+hoping to do something similar after this trade. My intention was to force
+something like g6 and then the dark squared bishop would have been really
+strong. If the game hadn't ended like it did then this plan would have been
+fairly likely to come up. Probably the first decent bit of strategic chess
+thinking I've ever done in a long game!}  ( 8... Ba5 9. b4 Qc6 ( 9... Qd8 10.
+bxa5 ) 10. Bb5 ) 9. bxc3 { I've seen c and d pawns described as hanging pawns.
+Not sure if these are as one is protecting the other.}  9... O-O 10. Be2 { I
+wanted to get castled as soon as possible. I was aware that once the light
+squard bishop moves then the f3 knight can't move due to g2 pawn until I
+castled. I was afraid that if I moved the bishop to d3  (  where I wanted to
+put it  )  then I would be vulnerable to e5 - I wouldn't want to take dxe5 as
+then my queenside pawns would be isolated. Be2 was safer as the bishop is in no
+danger. Not sure if I was completely imagining things though.}  10... Ne4 $2 {
+I don't like this move at all. There was no need for it. I think he should have
+developed one of his minor pieces - Nc3 is the obvious move for me. Also this
+knight is getting dragged away from the kingside. The f6 knight is normally a
+really strong defensive piece. I don't know why you would mess with that.}  11.
+Qd3 { Defends the c pawn and develops the queen to a good square. Other options
+here were Qc2. That may have been better as it would have allowed me put the
+bishop on d3 and threaten h7. c4 is another option but it allows Qa5 which then
+will trade everything off on d2. At this stage I was thinking that I was going
+to get those pawns moving with c4 and d5 at some stage and blast the position
+open for the bishops but that never happened. Instead his knight came to c4 and
+stopped that.}  ( 11. Qc2 Nc6 12. O-O -- 13. Bd3 ) 11... Nc6 { Should have
+happened last move. My pawns on a3, c3 and d4 restrict this knight a great deal
+though.}  12. O-O { Got my king to safety.}  12... Nd6 { I didn't see this move
+coming at all. This is the third move for this knight. I think he would have
+been better off developing the bishop.}  13. Re1 { Was debating whether to
+develop this rook or the dark squared bishop. A rook definitely belongs on the
+semi-open e-file but I wasn't sure where to put the bishop.}  13... b5 { Again
+didn't expect this move. I think it's a weakness of mine at this stage that
+these queenside pawn moves are completely mysterious to me. I don't know when
+to make them or whether they are any good. Now that it was made I was looking
+to see if I could take the pawn. I'm attacking it twice and it's defended
+twice. If I could get the knight to move then I could have won it. I forgot
+that the knight could go to c4 and block it.}  14. Bf4 { I wanted to develop
+this piece and thought that this was the best square for it. Other options were
+to develop it to b2. I had thought that if I could get c4 and d5 in then I
+would have played b2. There is a threat here in that if I'm allowed take this
+knight then I can win the b pawn.}  ( 14. a4 { This was the other move that I
+considered. I tried to evaluate it but wasn't sure if it was good for me or
+not. I was worried that black could activate his pieces on the queenside and
+that clearing out the pawns here would allow the bishop to develop to a6 and
+the rook to b8 or c8. After my first game in this championship where I lost to
+knight forks, I was getting paranoid about the knights here and had visions of
+them jumping into the white position.}  14... bxa4 ( 14... a6 15. axb5 ( 15.
+Ba3 { This move was what I was hoping for but I think black has enough ways to
+avoid it.} ) 15... Nxb5 ) 15. Rxa4 { black has a passed a pawn but white should
+be able to create a central passed pawn}  ) 14... Nc4 { moving the knight away
+from the kingside. This was important as it removes one of the defenses to Ng5.
+Looking at where this knight moves it can go to b2 to attack the queen but I
+can reply with Qxb5.}  15. Ng5 { I was hoping to induce a pawn move in front of
+the king. My dark squared bishop would be really strong in those situations.
+When evaluating this I thought that black would have responded with Qf5 but I
+don't know if white would have much of an advantage after that. I spent a lot
+of time on this move. I saw that I had lots of pieces on the kingside where
+black really only has the queen. Based on Stenitz's principles I thought that I
+had the advantage here and so I had to attack before black could get his act
+together and I would lose the initiative.}  15... h6 $4 { wasn't expecting to
+get this gift}  ( 15... g6 { after the game we thought this was the best pawn
+move try for black}  16. Bf3 { I think this is a good follow up to Ng5 in most
+of the lines. The knight on c6 is a bit wobbly and the queen will need to move
+while still defending it. In a lot of these lines we managed to overload the
+queen and win material.}  16... Qd7 17. Ne4 { threatening Nf6+ so the queen has
+to move. The knight has lots of good squares - c5 is another one. Black is
+really weak on the dark squares. Bh6 is also threatened.}  17... Qd8 18. Bh6 {
+if black leaves the rook here then I pick up the exchange. if black moves the
+rook then I can play Bg5 and black now doesn't have f6.}  18... Re8 19. Bg5 Qc7
+20. Nf6+ { this also picks up the exchange.}  ) ( 15... f5 { this move weakens
+the e pawn}  16. Bf3 { the black queen is a bit short of squares and it needs
+to guard both the knight and the e6 pawn. I don't think the e6 pawn is
+defendable in these lines.}  16... Qd7 17. Nxe6 -- 18. Nc5 { the position is
+opening up and the bishops look really strong}  ) ( 15... Qf5 { I think this is
+the best move for black and was the one I spent time analyzing during the game.
+My opponent didn't seem too impressed with it after the game as it leaves his
+pawns in bits.}  16. Qxf5 { there must be something better than this capture. I
+think I have to try to keep the queens on here.}  16... exf5 17. Bf3 ( 17. Bxc4
+{ not sure if I'd go for this capture or not}  17... bxc4 ) 17... Bb7 { I
+wouldn't have been too happy in this situation. Black's knights guard a lot of
+entry squares for my rooks and bishops.}  ) 16. Qh7#  1-0

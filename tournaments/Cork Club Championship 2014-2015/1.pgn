@@ -1,0 +1,350 @@
+[Event "Cork Club Championship 2014-2015"]
+[Site "Cork, Ireland"]
+[Date "2014.10.25"]
+[TimeControl "5400+15"]
+[Round "1"]
+[White "370"]
+[WhiteElo "1450"]
+[Black "Condon, Gerard"]
+[BlackElo "0"]
+[Result "1-0"]
+
+{ This is my first game in the Cork Chess League. In fact it's really my first
+longer time control game ever really. Not used to the time control and wanted
+to see how I managed my time. My path to dethroning Magnus Carlsen starts here!
+} 1. e4 e6 2. d4 d5 { Standard French Defence. Earlier in the week I had
+started looking into the Advance French and managed to look a bit on the
+Tarrasch. Didn't have time to look at the Nc3 lines but what are the odds ...}
+3. Nc3 { Aargh!}  3... Nf6 { From what I'd seen of the Winawer - namely the
+Poisoned Pawn variation - I knew I wanted nothing to do with that. I knew a
+little about the classical lines of the French. Any time I've played Nc3 stuff
+before I've come a cropper on Kingside attacks - my pawns get wrecked, f6
+allows checks on the e8-h5 diagonal. So wanted to be vigilant against that.}
+4. Bg5 { Pinning the knight to the queen. White's next move is going to be e5
+so I need to be sure that I can move the knight away when that happens.}  4...
+Be7 { Breaking the pin on the knight. There are other variations that I know
+little to nothing about - McCutcheon and Burn. Not sure if they are any better
+than Be7 here.}  5. e5 { Attacking the knight and forcing it away from the
+kingside. This basically prevents me from castling short as my king would be a
+sitting duck without the knight on f6.}  5... Nfd7 { Have to move the knight
+here. Problem is that it blocks in the c8 bishop  (  even more than it was
+already blocked in!  )  . I wasn't able to get my queenside developed at all
+until the endgame. I haven't had this kind of issue to this extent with the
+Advance or Tarrasch variations. With the Nc3 lines l find that white's dark
+squared bishop can come out sooner  (  it's blocked in the Tarrasch  )  and I'm
+too busy dealing with the kingside to get developed and castled on the
+queenside.}  6. h4 { I didn't expect this move and wasn't too sure what to do
+here. I can win a pawn here by taking on g5 with the bishop and then the queen
+but I thought the downsides were far too great. The h file would be open for
+the white rook. The white knight could come into the game with temp by
+attacking my queen. White's own queen can also join in the attack. Lots of
+white's heavy pieces would be lining up against my kingside where I would have
+no pieces to defend. Also white's pawn on e5 would make rerouting the knight to
+the kingside close to impossible.}  6... a6 { My opponent didn't think that it
+was correct. He thought it was too slow and that Bb5 wasn't in his plans. I
+wan't concerned about the bishop move but what did worry me was the threat of
+the knight coming to d6 via b5. I've been hit a few times before with this
+knight maneuver after playing c5. Given that c5 is pretty much essential in the
+French I was willing to make the move to prepare for it.}  ( 6... Bxg5 7. hxg5
+Qxg5 { White has lots of open lines. The queen can come out on the d1-h5
+diagonal. The knight can develop. The rook is on an open file and the bishop
+can come to d3. Black has lost his dark squared bishop - typically his best
+piece in the French and is left with a locked in series of pieces on the
+queenside. This is well worth the investment of a pawn by white. Maybe this is
+holdable at a higher level but at my level, certainly not.}  ) ( 6... O-O {
+This is the line given by Ari Ziegler in the Chessbase Trainer Dvds. It looks
+dangerous but the idea is to castle and then counterattack in the centre with
+c5. I'm not sure I could play this move without knowing the full lines as white
+had some serious attacks there with Qg4 and Bd3. But if I did learn them then
+these lines would be fine.} ) 7. Bd3 $2 { I think this is a good move at some
+stage and this square is the best square for this bishop. However I'm not sure
+that this is the time to play this move. It leaves the d4 pawn undefended -
+white doesn't want to have to defend this with a knight as then he would be
+blocking in his queen. White's d pawn is at risk now if black plays c5. I don't
+think white wants to play dxc5 as this would allow black to recapture on c5
+with the d7 knight, allowing the c8 bishop to develop to d7. If, as in the
+game, white ignores this, then black can undermine white's pawn centre by
+taking on d4. One of the moves I was fearing in this position was Rh3 and then
+maybe to f3 or g3. I thought this could combine with the queen to bear down on
+f2.}  ( 7. Qg4 { This is the book move. White is threatening to take on e7 and
+then take my pawn on g7.}  7... Bxg5 { This is probably forced}  8. hxg5 c5 9.
+g6 f5 10. Qf4 h6 11. Nf3 { Not a great position for black but he still has
+chances for counterplay on the queenside. I think this is the most practical
+try for me as my moves are standard French moves Nc6, cxd4, Qb6 or Qa5.}  )
+7... c5 { It's what you do in the French. Standard pawn break. Black needs to
+generate counterplay and this is how to start. It attacks the d pawn and after
+this move, the knight can come to c6 without blocking the pawn.}  8. f4 {
+Typical move for white in the French, protecting the e pawn. This pawn can
+potentially be used as a battering ram and drive on to f5 and f6.}  8... Nc6 {
+Another standard French move and the logical follow up to c5. The knight is
+developed to a square which attacks d4. My plan is to undermine white's pawn
+centre and develop on the queenside while basically leaving the kingside to
+take care of itself. I don't think d4 is defendable now and if I choose I can
+swap off my c-pawn for the d-pawn}  ( { Computer suggests cxd4 which allows my
+Queen to come to a5 with check. Either white gives up castling rights or his
+queenside pawns get messed up. It doesn't seem that easy for white to get his
+pawn back. } 8... cxd4 9. Nce2 Qa5+ 10. Kf1 Bc5 ) 9. f5 $4 { I don't think this
+was correct. White's centre gets demolished now. I can take on d4 with the
+knight, preserving my c-pawn. The knight will protect e6 and threaten the f5
+pawn. White is losing these two pawns in the next few moves and will be left
+with an isolated e-pawn that probably will have a knight blockading the square
+in front of it. I think white needed to develop a piece instead. Either the
+queen or the knight would have been my choice.}  ( 9. Qh5 { Developing the
+queen would have been a useful move as now white could castle queenside with
+his rook on the same file as my queen. [Computer says no. cxd4 is a good
+response to this]}  9... Nxd4 10. O-O-O ) ( 9. Nf3 { Defends the d4 pawn but it
+does block in the queen.}  9... cxd4 10. Bxe7 { White has to trade this bishop
+to avoid losing it afer Qa5+ once the c3 knight moves.}  ( 10. Ne2 Qa5+ 11. Qd2
+Qxd2+ 12. Kxd2 Bb4+ { White's bishop on g5 is blocked in by his pawns so would
+be vulnerable to h6 if I could get the queen and bishop out of the way. This
+would be one way of doing that with checks on against the white king.}  ) 10...
+Qxe7 11. Ne2 Nb6 { Black can now play Bd7 and 0-0-0 to complete his
+development. If white takes on d4 with a knight I would have traded a pair of
+knights and reduced white's attack further. Qb4+ is also an option when white
+either has to trade off queens or leave his king in an insecure position.}  ) (
+{ The computer suggests this line for white. I would have been really happy to
+reach this position in the opening with black. } 9. dxc5 Nxc5 10. Bxe7 Qxe7 11.
+Qd2 Nxd3+ 12. cxd3 Bd7 { Black is solid and has a bishop - useful as the
+position opens up}  ) 9... Nxd4 $2 { I was really happy with this move. I've
+won a pawn and it threatens the f5 pawn. White can't really defend this pawn
+any more so must either do something with it or lose it. This move allows me to
+recapture with knight on e6 if fxe6. This would leave white with an IQP with
+knight blockading the pawn. Black is building up a strong central presence with
+pawns on c5 and d5 and is poised to wipe out white's central pawns. In a lot of
+these lines the computer does not recomend this capture. Instead it looks for a
+dxc5 followed by Qa5+ plan. The reason is that if white plays c3 to stop the
+check then black has dxc3.}  ( { Computer Line } 9... Bxg5 10. hxg5 cxd4 11.
+fxe6 Ndxe5 12. exf7+ Kxf7 13. Nce2 Qxg5 ) 10. fxe6 { Forced really. Otherwise I
+would have taken it with the knight. White could swap his light squared bishop
+for the knight and leave me with doubled pawns but I don't think they would
+have been too much of a weakness}  ( 10. f6 { White can't drive the pawn
+forward as he loses it.}  10... gxf6 11. Bxf6 Nxf6 12. exf6 Bxf6 ) ( 10. Qg4 {
+can't protect it with the queen}  10... Nxe5 11. Bxe7 Nxg4 12. Bxd8 Kxd8 )
+10... Nxe6 $4 { The e6 knight is looking really strong now and threatens the
+bishop on g5. I am giving up the d5 pawn here. I don't remember really seeing
+that at the time. I knew I the e5 pawn was threatened as I think I assumed that
+white would try to protect that instead of taking on d5. What do I know. the
+computer says this is a terrible move and throws away the advantage. Should
+have played Nxe5 instead.}  ( { I think the difference in this variation is
+that white's e pawn is gone whereas Nxe6 with best play from white allowed him
+to maintain that. } 10... Nxe5 11. exf7+ Nxf7 12. Bxe7 Qxe7+ 13. Nge2 O-O {
+Black has a major advantage in king safety and Bg4 is a major threat.}  ) 11.
+Nxd5 $2 { We discussed after the game whether it was better to take with the
+bishop first and draw the queen out to e7 and then take on d5 with the knight
+winning a tempo on the queen. This way black is forced to take on g5 with the
+bishop. It does open up the h file for the rook which may be why white chose
+this approach.}  ( { The computer disagreed with us and said that taking with
+the bishop first is a 1.5 pawn difference. } 11. Bxe7 Qxe7 12. Nxd5 Qd8 {
+Similar position to the game but white's rook is blocked in.}  13. Nf3 { This
+is the difference. White gets the tempo to play Nf3 protecting the e5 pawn.}  )
+11... Bxg5 $2 { The computer suggests that this is a blunder and that taking
+with the knight is the best move. Taking with the knight does allow for the
+bishop to come to e6 and drive white's knight away.}  ( 11... Nxg5 12. hxg5
+Nxe5 13. Nf3 Be6 14. Nxe7 Nxd3+ 15. cxd3 Qxe7 { This is a much better position
+that best play after Bxg5. I didn't even see the possibility of Nxg5 in the
+game. I was so focused on having that knight blockade the e pawn. As a capture
+it really should have made it on to my list of candidate moves. Also in the
+French I should be more aware of opportunites to active the light squared
+bishop.}  ) 12. hxg5 Nxe5 { I thought he would drop back with the bishop or
+protect the knight. Then my plan was to take the g pawn with the queen. With
+white's exposed king thought I would have been in good enough shape.}  13. Rxh7
+$4 { There's a line between sacrificing material and blundering material. I
+would argue that this move falls on the blundering side but my opponent would
+probably argue the contrary. I don't think that white gets compensation for the
+material that he gives away here and black can accept it, trade down more
+pieces and consolidate into a winning ending. I was one move away from doing
+that when I blundered but a stronger opponent would have dealt with that
+better. I think the best you say is that this move is a good practical try but
+can be refuted with good play.}  ( { Computer agrees that it's a bad sacrifice.
+Drops the evaluation of the position by 4 pawns. It recommends developing with
+Nf3. } 13. Nf3 Nxf3+ 14. Qxf3 Nd4 15. Qe4+ Be6 ) 13... Nxd3+ { This zwischenzug
+wins material. The light squared bishop is removed and the queen is drawn to d3
+to defend both the knight on d5 and the rook on h7. It can't do both so one
+must fall.}  ( 13... Rxh7 14. Bxh7 Nd4 ( 14... g6 $4 { Traps the bishop but I
+can't take it that easily. Also the dark squares around the king are very
+weak.} ) 15. Be4 Bf5 { Computer gives black a strong advantage here even though
+material is level due to black's strong attack. I think in a real game at my
+level I'd take the material over the attack.}  ) 14. Qxd3 Rxh7 15. g6 $4 {
+Great move. I didn't see this a few moves back and when he played it I spent
+ages thinking what to do next. I have the choice between keeping the rook or
+letting black take it in return for the d5 knight. I thought that the knight on
+d5 was really dangerous and wanted to get rid of it. Also I couldn't see a path
+to safety by trying to preserve the rook.}  ( 15. Qxh7 { The computer disagrees
+with me and says that g6 was a terrible move. Much better to take on h7 with
+the queen.}  15... Qxd5 { I would have played this kind of stuff. Computer says
+its not great.}  16. Qg8+ Ke7 17. Rd1 Qxg5 { My king is in the centre but I'm
+still holding things together. The knight is protecting g7 and e8. The bishop
+is being protected by the rook. If I can get in b5 and Bb7 then I should be
+fine. My queen is very active and should be able to check the white king at
+will so possibly useful for tactics.}  18. Kf1 b5 19. Nf3 Qe3 20. Qh7 Bb7 )
+15... fxg6 $2 { If I didn't take here and tried to keep the rook, I was worried
+that my king was too exposed after gxf7, Kxf7. In retrospect I wonder if I
+could just have moved my king to f8 in some of these lines and once the queens
+had come off the board, then take on f7.}  ( 15... Rh1 { Had to decide whether
+to keep the rook or win the knight. Thought his attack was too strong after
+this}  16. gxf7+ Kxf7 17. O-O-O Qg5+ 18. Kb1 Qxg2 ( 18... Nf4 $2 19. Rf1 ) (
+18... Bd7 $2 { Trying to develop my queenside pieces.}  19. Nb6 ) ( 18... b5 {
+Aiming to develop the bishop to b7}  19. Rf1+ Kg8 { Maybe this is alright?}  )
+19. Qf5+ Kg8 { Here is why I rejected the line but this is the wrong king move.
+The knight is coming in. Possibly the rook to d8 in some lines.}  ( 19... Ke8 {
+This is the correct king move - and now black is fine.} ) 20. Ne7+ Kh8 21. Ng6+
+) ( 15... Rh5 { Can the rook go here?}  16. gxf7+ Kxf7 ( 16... Kf8 { Could I
+get away with not taking the pawn in some variations? It protects from frontal
+checks. The knight is pinned to the queen. White's king is really exposed to
+Qa5+, Qh4+, Re5+.}  17. c4 Rxd5 18. cxd5 Nf4 19. Qe4 Qe7 20. Qxe7+ Kxe7 21.
+O-O-O Kxf7 22. Nf3 Kf6 { And I think I can round up that passed pawn after Be7,
+Rd8. The g pawn is loose.}  ) 17. Qf3+ { No}  ) 16. Qxg6+ Kf8 17. O-O-O $2 { I
+thought he was going to take the rook immediately and I would win the knight. I
+didn't see this move. I was a bit fortunate that I had the queen check. It's a
+bit odd that - castlign doesn't prevent the check - if the uncastled white king
+can be threatened by a queen check from d8 to h4, then the queenside castled
+king is vulnerable to a check on g5.}  ( { Computer gives this move } 17. Qxh7
+Qxd5 { White doesn't gain much from checking on h8 as it takes his queen out of
+the game. In this line he's prevented from castling so if Rd1 then his king is
+still exposed to checks from the black queen.}  18. Rd1 Qxg2 19. Ne2 b5 ) 17...
+Qg5+ { Thought if I could get the queens off the board then my extra material
+would count. Currently my extra rook is doing nothing on a8. Also my queen is
+lined up against his rook on d1 and is vulnerable to discovered attacks against
+it.}  18. Qxg5 Nxg5 19. Rf1+ Ke8 $4 { I'm a moron. This was one of the worst
+moves I've ever made - it's only surpassed by the even more idiotic knight fork
+later in the game. I completely missed white's next move. I did see that if I
+went to g8 then I was getting mated so I assumed that the other direction was
+fine. I didn't even see the danger from the knight fork. It was like I was so
+concentrated on the black kingside for most of the game that I wasn't even
+looking at the wider board. I only saw the two king moves and completely missed
+that I could have blocked with the knight. In future how do I stop these forks?
+I should check every move where the enemy knights can jump to and is that a
+fork. The is especially so once the knights cross the halfway line. In a 90
+minute game I should have the time to do this. I should check which pieces are
+on the same colour and if they can be forked. If in an endgame against a knight
+then I should keep the pieces on different colours. There are some simple
+forking distances. 1 or 3 squares between the pieces if they are on the same
+rook or file. 2 squares between the pieces if they are on the diagonal. The
+specific instance here is worth watching out for. If a knight gets to d5  (  b5
+ )  or e5  (  g5  )  then the rook on the long diagonal is vulnerable to a
+fork. From d5 the uncastled king can be forked with its rook. From e5 if
+castled long then the two rooks can be forked on f7. There are safe squares
+near a knight e.g. right adjacent to it. I should create a diagram of these to
+memorize.}  ( 19... Kg8 $4 20. Ne7+ Kh8 21. Rf8# ) ( 19... Nf7 $1 20. Nf3 g6 {
+This protects the knight. There are a lot of wrong options here and white is
+threatening a lot of knight forks. I think if I had survived move 19, I'd still
+have come a cropper around here.}  ( 20... Be6 $2 21. Nc7 ) ( 20... b5 $2 21.
+Ng5 ) ( 20... Kg8 21. Ne7+ Kf8 22. Ng6+ Ke8 ) 21. Ng5 Rg7 { And I think white's
+attack has run out of steam}  ) 20. Nc7+ $3 { I can't believe it.}  20... Kd8
+$2 { I was trying to trap the knight in the corner after Nxa8 but I think this
+is a bad move. My king gets stuck to the back rank along with the bishop. I was
+never near winning the knight and my rook ends up being kind of passive on the
+third rank.}  ( 20... Kd7 { Could I have trapped the knight? I don't know why I
+rejected this variation in the game. I thought maybe that my king was exposed
+to checks from the knight on b6 but now I see that I can get the king to c6.
+White's rook can't get to the 6th rank at the moment due to the g7 pawn.}  21.
+Nxa8 Kc6 22. Rf8 Be6 { I think this would have been better than the game
+continuation. My king, knight and bishop are active and my rook is poised to go
+somewhere. If I haven't trapped the knight then at least I've made it hard for
+it to escape.}  ) 21. Nxa8 Rh6 { I was trying to keep the knight blocked in but
+looking at it now I don't think that was the best plan aft Kd8. I think I
+should have concentrated on getting my bishop developed. Rh1 was better.}  22.
+Rf8+ { White plays really well for the next 20 moves or so. He completely
+outplayed me in this endgame. This move ensures that he has a really active
+rook.}  22... Kd7 23. Nf3 { Threatening to come to e5 with check. One knight
+was bad enough but two on my side of the board. I couldn't handle that!}  23...
+Nxf3 24. gxf3 Rf6 { Was hoping for an exchange of rooks. White isn't that
+stupid. My plan from here was to keep pawns on both sides of the board. I knew
+that with a bishop vs knight that was the plan.}  25. Rg8 g6 $2 { Had to keep
+this pawn}  ( 25... Rg6 { Computer gives this move and says its better by about
+half a pawn. My rook has more freedom along the g file. Can threaten his king
+and pawns.} ) 26. Rg7+ Kd8 27. Rg8+ Kd7 28. Rg7+ Kd8 { Was hoping white would
+repeat the position for a draw.}  29. Kd2 { I was afraid that white would march
+his king down the board while my pieces were stuck on the back rank.}  29...
+Bd7 { Should I have been more aggressive with the positioning of this bishop.
+Could it have gone to e6 or f5?}  ( 29... Be6 { Didn't see that this would also
+prevent Rg8+.}  30. Nb6 { My queenside pawns are weak though}  ) 30. Ke3 b5 $2
+{ I didn't know what to do with my queenside pawns. Still don't know what I
+should have donw. In the game white's pawns seemed a million miles way from
+anything I could threaten them with whereas mine were totally vulnerable.
+Standard advice in engame manuals is to put them on the opposite colour of your
+bishop but then they would be even more defenceless. Maybe could have tried for
+a a4, b5, c4 setup}  ( { This is the computer variation. The bishop is really
+good here, protecting a8 and also threatening the pawn on f3. } 30... Bc6 31.
+f4 Re6+ 32. Kd2 b5 ) 31. Rg8+ Be8 32. Rg7 Bd7 $2 { Preventing the knight coming
+to c7.}  ( 32... Bf7 { This was the better move. Now white's rook is in a spot
+of bother. He can't check me on g8 so I can get my king active.} ) 33. Rg8+ Ke7
+{ Again missed Nc7-Nd5 fork. Also missed that now with Nc7 Ra8 will win my
+pawn. Wonder if I had gone Be8 again it would have ended in a draw. I offered
+one around here but it was rejected.}  34. Nc7 Kf7 ( 34... Be6 { This would
+threaten the white rook and pretty much force the exchange of minor pieces.
+Otherwise after a rook move, the black bishop could take on a2.}  35. Nxe6 ( {
+Computer says I was on the wrong track with this as Ra8 is better for white }
+35. Ra8 Bxa2 36. b3 Bb1 37. Rxa6 Rxa6 38. Nxa6 Bxc2 39. Nxc5 Kd6 40. Ne4+ Ke5
+41. Nc5 ) 35... Rxe6+ 36. Kf4 Re2 37. Rxg6 Rxc2 38. Rxa6 Rxb2 ) 35. Rd8 Bf5 $2
+{ Protect the g6 pawn and try to get the bishop active.}  ( { Bac6 was
+necessary here to protect a8. It also gains a tempo by attacking f3 forcing
+white to move the pawn or lose it. } 35... Bc6 36. f4 a5 ) 36. c3 c4 $2 { Not
+sure about this move. Was trying to get my pawns into a chain where some at
+least were protected. I can't really move the rook as I'm waiting for white to
+take on a6.}  ( 36... Rc6 { Should have attacked the knight and driven it away.
+At the time I think I thought I couln't stop Ra8 but I'm not sure why.}  37.
+Nd5 Bb1 38. a3 Ba2 39. Nf4 ) 37. Ra8 Rd6 { Trying to get my rook active.
+Nothing else to do except wait for the take on a6.}  38. Rxa6 { I thought
+taking with the knight was better. Think white is better with a rook on the
+board.}  ( 38. Nxa6 Re6+ 39. Kf2 Re7 { To prevent Nc7.}  40. Nb4 ) 38... Rxa6 {
+Thought the exchange was good for me as now I have a knight vs bishop with
+pawns on both sides of the board. Hopefullly my bishop could hold things
+together.}  39. Nxa6 Ke7 40. Nc5 Kd6 { Trying to make my king active.}  41. Kd4
+Bc2 { Didn't see what other moves I had besides bishop moves. If I moved the g
+pawn forward then the knight could attack it.}  42. f4 Bf5 $2 ( 42... Bd1 {
+This move protects a4 after a4, bxa4. I didn't see a4 so didn't see that I
+needed to stay on this diagnonal.}  43. a4 bxa4 44. Kxc4 ) 43. a4 {
+Gut-wrenching. Now I would lose both of my queenside pawns. White must be
+winning here. Capture the pawns and then run his own pawns down the board.}
+43... bxa4 44. Kxc4 $2 { I think white started to go wrong about here. Taking
+the a pawn first was better as the knight could get back to the centre of the
+board in time. doing it the other way drags the king from the centre allowing
+my king to make inroads on the kingside.}  ( 44. Nxa4 Be6 45. Nb6 { and now the
+c pawn can't be defended.}  ) 44... Bc2 { Forcing the king to the b file if he
+wants to take my a pawn.}  45. Kb4 Kd5 { This is the problem for white. Now
+black's king is more centralised and if the knight moves, can go e4 and Kxf4.}
+46. Nxa4 $4 { The logical consequence of Kxc4, Kb4 but I think this has thrown
+away the win if it wasn't gone already. Now black takes the f pawn and the
+threat of the g pawn should see him draw.}  ( 46. c4+ Kd4 47. Nxa4 { and I
+think this is fairly terminal.}  ) 46... Ke4 { Was originally going to
+recapture with the bishop but then realised that taking the pieces off was a
+losing endgame for me. I had just been shown in a blitz game the previous week
+the power of the bishop vs the knight in these situations. I could create a
+passed pawn and white would have trouble getting the knight over to it. Also my
+bishop is strong enough to stop at least one of his pawns from queening so he
+will need to push both pawns while I only have to push a single pawn. In a race
+I would be faster. I thought that one case if white pushed his pawns would be
+if I sacced the bishop for a white pawn on c8 then white would need more than
+10 moves to make a queen. Thought I could get my pawn to be a queen in roughly
+that time. If white tries to stop me by moving the knight then he can't be
+pushing pawns and there's no threat of him queening. If the knight sacrifices
+itself for my pawn then my king and bishop should be able to stop the two pawns
+between them.}  47. Nc5+ Kxf4 { Now it's a pawn race. Both sides minor pieces
+can stop the other side's pawns from queening so this should be a draw.}  48.
+Ne6+ Kf5 $4 { Just avoid any more knight forks and we'll be fine. What's that
+you say?}  ( 48... Ke5 { Nearly any other king move would have drawn. White
+can't take the pawn with the knight because as soon as he threatens the pawn
+with the knight I move the pawn forward.}  49. Ng5 Kf4 50. Ne6+ Ke5 51. Nd4 Bd3
+52. Nf3+ Kf4 53. Nd4 g5 54. Ne6+ Kf5 55. Nxg5 Kxg5 56. c4 Kf4 57. c5 Ke5 58.
+Ka5 Kd5 { The bishop prevents the white king going to b5 so the black king can
+come to d5.}  59. b4 ( 59. Kb6 Kc4 60. c6 Kb3 61. c7 Bf5 { And the bishop
+prevents the c pawn from queening while the king stops the b pawn.}  ) 59...
+Kc6 60. Ka4 Bf1 ) 49. Nd4+ { As Oscar once said "to lose one piece to a knight
+fork may be regarded as a misfortune. To lose two looks like carelessness."
+What a disaster. This completely throws away the draw. I had 8 minutes left on
+the clock here with an increment and it should have been fine. It was my first
+experience with long time control and I was about an hour behind on the clock
+compared to my opponent. I was worried during the game about this but looking
+back I think my clock usage was fine. I think worrying about the clock made me
+play a bit too fast here. I should have taken more care with the knight. My
+opponent was marking the time I took at various intervals and I should probably
+have done that also. Will try that for the next game.}  49... Kf4 50. Nxc2 g5
+51. c4 g4 52. c5 g3 53. Ne1 { Gaining valuable time by forcing me to deal with
+the knight.}  53... Ke3 54. c6 Kf2 55. c7 Kxe1 56. c8=Q g2 57. Qe6+ { Black
+cannot stop the b pawn so all white has to do is trade the queen for the g
+pawn. My hopes depended on my opponent missing that.}  57... Kf2 58. Qf5+ ( 58.
+Qg4 g1=Q 59. Qxg1+ Kxg1 60. Kc4 { and wins for white}  ) 58... Kg3 59. Qe5+ Kf2
+60. Qf4+ Ke2 61. Qe4+ Kf2 62. Qd4+ Kf1 { Game:}  63. Qd3+ Kf2 64. Qd2+ Kg3 65.
+Qe1+ Kf3 { Should have gone to h2}  ( 65... Kh2 { This would have prolonged the
+game.}  66. Qh4+ Kg1 ) 66. Qg1 Kg3 67. Kc3 { And I resigned here.}   1-0
