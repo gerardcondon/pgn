@@ -1,0 +1,36 @@
+[Event "Cork Congress 2015"]
+[Site "Cork, Ireland"]
+[Date "2015.03.27"]
+[Round "3"]
+[White "Condon, Gerard"]
+[Black "419"]
+[Result "*"]
+[BlackElo "1586"]
+[ECO "C01"]
+[TimeControl "5400+15"]
+[WhiteElo "1509"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Nf6 5. Nc3 Be7 6. Nf3 O-O 7. Bd3 dxc4 8.
+Bxc4 Nbd7 9. O-O { [%clk 1:23:00]}  9... Nb6 10. Bb3 { [%clk 1:23:00]}  10...
+c6 11. Re1 { [%clk 1:21:00]}  11... h6 12. h3 { [%clk 1:17:00]}  12... Bf5 13.
+Bf4 { [%clk 1:14:00]}  13... Re8 14. Qd2 { [%clk 1:04:00]}  14... Nbd5 15. Ne5
+{ [%clk 0:39:00]}  15... Be6 16. Bg3 { [%clk 0:36:00]}  16... Bf8 17. Rad1 {
+[%clk 0:34:00]}  17... Kh8 18. Bc2 { [%clk 0:31:00]}  18... Qa5 19. Nxd5 {
+[%clk 0:28:00]}  19... Qxd2 20. Rxd2 { [%clk 0:28:00]}  20... Nxd5 21. Rde2 {
+[%clk 0:25:00]}  21... Bb4 22. Rc1 { [%clk 0:24:00]}  22... Ba5 23. a3 { [%clk
+0:22:00]}  23... Bb6 24. Rd2 { [%clk 0:21:00]}  24... Rad8 25. Bh4 { [%clk
+0:19:30]}  25... g5 26. Bg3 { [%clk 0:18:55]}  26... Ne7 27. Rcd1 { [%clk
+0:17:55]}  27... Kg7 28. f4 { [%clk 0:16:14]}  28... f6 29. Nf3 { [%clk
+0:14:27]}  29... Kf7 30. fxg5 { [%clk 0:14:04]}  30... hxg5 31. Bf2 { [%clk
+0:13:34]}  31... Bd5 32. Ne1 { [%clk 0:12:40]}  32... Ng6 33. Nd3 { [%clk
+0:10:45]}  33... Bc7 34. Re1 { [%clk 0:09:07]}  34... Nf4 35. Rxe8 { [%clk
+0:08:36]}  35... Rxe8 36. Nc5 { [%clk 0:08:22]}  36... b6 37. Nd3 { [%clk
+0:08:08]}  37... Nxg2 38. Bb3 { [%clk 0:06:58]}  38... Nf4 39. Bxd5+ { [%clk
+0:05:33]}  39... Nxd5 40. Kg2 { [%clk 0:05:32]}  40... Bf4 41. Nxf4 { [%clk
+0:04:43]}  41... Nxf4+ 42. Kg3 { [%clk 0:04:49]}  42... Re2 43. Rxe2 Nxe2+ 44.
+Kf3 Nf4 45. h4 Kg6 46. hxg5 fxg5 47. Kg4 Nd3 48. Be3 Nxb2 49. Bxg5 b5 50. Be7
+Kf7 51. Bc5 a6 52. Kf5 Nd3 53. Bd6 Nb2 54. Bc5 a5 55. Bb6 ( 55. d5 cxd5 ( 55...
+Nd3 56. dxc6 Nxc5 ( 56... Ke8 57. Bb6 a4 58. Ke6 Nf4+ 59. Kd6 Ng6 60. c7 ) 57.
+c7 ) 56. Ke5 b4 ( 56... Nd3+ 57. Kxd5 ) 57. axb4 axb4 58. Bxb4 Nd3+ 59. Kxd5
+Nxb4+ ) 55... b4 56. Bxa5 bxa3 57. Bc3 Nc4  *
+
