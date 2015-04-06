@@ -1,0 +1,39 @@
+[Event "Cork Congress 2015"]
+[Site "Cork, Ireland"]
+[Date "2015.03.27"]
+[Round "4"]
+[White "416"]
+[Black "Condon, Gerard"]
+[Result "*"]
+[BlackElo "1509"]
+[ECO "A11"]
+[TimeControl "5400+15"]
+[WhiteElo "1345"]
+
+1. c4 c6 2. d4 d6 3. e4 e5 4. d5 Nf6 5. Nc3 Be7 6. Be3 O-O { [%clk 1:29:00]}  7.
+Nge2 Bg4 { [%clk 1:26:00]}  8. f3 Bh5 { [%clk 1:25:00]}  9. Ng3 Bg6 { [%clk
+1:25:00]}  10. Bd3 Nbd7 { [%clk 1:23:00]}  11. b4 Qe8 { [%clk 1:20:00]}  12.
+Qa4 cxd5 { [%clk 1:17:00]}  13. cxd5 Rc8 { [%clk 1:16:00]}  14. Rc1 a6 { [%clk
+1:12:00]}  15. O-O Bd8 { [%clk 1:10:00]}  16. b5 Nc5 { [%clk 0:59:00]}  17.
+Bxc5 Rxc5 { [%clk 0:59:00]}  18. bxa6 Qxa4 { [%clk 0:49:00]}  19. Nxa4 Rxc1 {
+[%clk 0:48:00]}  20. Rxc1 bxa6 { [%clk 0:45:00]}  21. Bxa6 Ba5 { [%clk
+0:44:00]}  22. Bc4 Bd2 { [%clk 0:41:00]}  23. Rd1 Be3+ { [%clk 0:41:00]}  24.
+Kf1 Rb8 { [%clk 0:39:00]}  25. Bb3 Nd7 { [%clk 0:38:00]}  26. Rd3 Bd4 { [%clk
+0:35:00]}  27. Ne2 Nc5 { [%clk 0:33:00]}  28. Nxc5 Bxc5 { [%clk 0:33:00]}  29.
+Ke1 f6 { [%clk 0:33:00]}  30. Nc3 Bb4 { [%clk 0:30:00]}  31. Kd1 Be8 { [%clk
+0:30:00]}  32. Kc2 Bd7 { [%clk 0:27:00]}  33. Ba4 Bc8 { [%clk 0:22:00]}  34.
+Bb5 f5 { [%clk 0:21:00]}  35. h3 Bxc3 { [%clk 0:20:00]}  36. Rxc3 fxe4 { [%clk
+0:20:00]}  37. fxe4 Bxh3 { [%clk 0:19:39]}  38. gxh3 Rxb5 { [%clk 0:19:45]} 
+39. Rc6 Rb4 { [%clk 0:18:34]}  40. Kd3 Ra4 { [%clk 0:18:21]}  41. Rxd6 Rxa2 {
+[%clk 0:17:59]}  42. Re6 Ra3+ { [%clk 0:17:01]}  43. Kc4 Ra4+ { [%clk 0:16:34]}
+ 44. Kd3 Ra3+ { [%clk 0:16:38]}  45. Kc2 Rxh3 { [%clk 0:16:30]}  46. d6 Rh2+ {
+[%clk 0:14:28]}  47. Kc3 Rh3+ { [%clk 0:12:59]}  48. Kc4 Kf7 { [%clk 0:11:28]} 
+49. d7 Kxe6 { [%clk 0:07:45]}  50. d8=Q Rh6 { [%clk 0:06:44]}  51. Qf8 Rf6 {
+[%clk 0:05:53]}  52. Qxg7 Rf7 { [%clk 0:05:54]}  53. Qg4+ Kd6 { [%clk 0:05:52]}
+ 54. Qd1+ Ke6 { [%clk 0:05:50]}  55. Qd5+ Kf6 { [%clk 0:05:55]}  56. Qd6+ Kg7 {
+[%clk 0:05:58]}  57. Qxe5+ Rf6 { [%clk 0:06:02]}  58. Qg5+ Rg6 { [%clk
+0:06:05]}  59. Qe5+ Rf6 { [%clk 0:06:08]}  60. Qe7+ Rf7 { [%clk 0:06:09]}  61.
+Qg5+ Kf8 { [%clk 0:06:10]}  62. e5 Rg7 { [%clk 0:05:47]}  63. Qf6+ Rf7 { [%clk
+0:05:56]}  64. Qh6+ Rg7 { [%clk 0:06:02]}  65. e6 Kg8 { [%clk 0:06:04]}  66.
+Kd5 Rg6 { [%clk 0:06:06]}  67. Qf4 Rg7 { [%clk 0:05:56]}  68. Qb8#  *
+
