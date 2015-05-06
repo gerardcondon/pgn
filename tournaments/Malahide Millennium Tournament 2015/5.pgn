@@ -1,10 +1,23 @@
 [Event "Malahide Millennium Tournament 2015"]
 [Site "Dublin, Ireland"]
 [Date "2015.05.02"]
-[TimeControl "5400+30"]
 [Round "5"]
 [White "Condon, Gerard"]
-[WhiteElo "1408"]
 [Black "528"]
-[BlackElo "1644"]
 [Result "0-1"]
+[BlackElo "1644"]
+[ECO "C01"]
+[TimeControl "5400+30"]
+[WhiteElo "1408"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Nf6 5. Nf3 Be7 6. Nc3 O-O 7. cxd5 Nxd5 8.
+Be2 c5 9. Nxd5 Qxd5 10. O-O Rd8 11. dxc5 Qxd1 12. Rxd1 Rxd1+ 13. Bxd1 Bxc5 14.
+Bd2 Nc6 15. Rc1 Be7 16. Bb3 Bf5 17. Bc3 Rd8 18. h3 h6 19. Ne5 Nxe5 20. Bxe5 a6
+21. Rc7 Rd7 22. Rxd7 Bxd7 23. Bd5 Bc6 24. Bxc6 bxc6 25. g4 f6 26. Bc3 Kf7 27.
+f4 Ke6 28. Kg2 g6 29. Kf3 f5 30. Bg7 fxg4+ 31. hxg4 h5 32. gxh5 gxh5 33. Ke4
+Bf6 34. f5+ Kf7 35. Bxf6 Kxf6 36. Kf4 a5 37. b3 c5 38. Ke4 h4 39. Kf4 h3 40.
+Kg3 Kxf5 41. Kxh3 Ke4 42. Kg4 Kd3 43. Kf3 ( 43. Kf4 a4 44. Ke5 axb3 45. axb3
+Kc3 46. Kd5 ) 43... a4 44. Kf2 ( 44. bxa4 c4 45. a5 c3 46. a6 c2 47. a7 c1=Q
+48. a8=Q Qh1+ 49. Kf4 Qxa8 ) 44... axb3 45. axb3 Kc2 46. Ke2 Kc3 47. Kd1 Kd3
+48. Kc1 Kc3 49. b4 cxb4 50. Kb1 Kb3 51. Ka1 Kc2 52. Ka2  0-1
+
