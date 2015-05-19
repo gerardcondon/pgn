@@ -1,0 +1,20 @@
+game: 1.pgn
+conclusions:
+    - Need to watch out for knight forks. Keep king on same colour if possible - separated on a diagonal by a square means it takes three moves to attack the king.
+    - Get rooks active in the endgame. Having my rook stuck behind my pawn was a disaster.
+errors:
+    - Tactics. Knight fork.
+    - Tactics. Knight fork.
+    - Endgame. Passive rook.
+positions:
+    - r1bqk2r/1p1nbppp/p1n1p3/2ppPPB1/3P3P/2NB4/PPP3P1/R2QK1NR b KQkq - 0 9
+    - r1bqk2r/1p1nbppp/p3P3/2ppP1B1/3n3P/2NB4/PPP3P1/R2QK1NR b KQkq - 0 10
+    - r1bqk2r/1p1nbppp/p3n3/2pNP1B1/7P/3B4/PPP3P1/R2QK1NR b KQkq - 0 11
+    - r1bqk3/1p3ppr/p3n1P1/2pN4/8/3Q4/PPP3P1/R3K1N1 b Qq - 0 15
+    - r1b2k2/1p4pr/p7/2pN2n1/8/8/PPP3P1/2K2RN1 b - - 1 19
+    - r1b1k3/1pN3pr/p7/2p3n1/8/8/PPP3P1/2K2RN1 b - - 3 20
+    - N1b3R1/1p1k2p1/p4r2/2p5/8/5P2/PPP5/2K5 b - - 2 25
+    - N2k4/1p1b2R1/p4rp1/2p5/8/4KP2/PPP5/8 b - - 9 30
+    - 3R4/2Nb1k2/p4rp1/1pp5/8/4KP2/PPP5/8 b - - 9 35
+    - 3R4/2N2k2/p4rp1/1pp2b2/8/2P1KP2/PP6/8 b - - 0 36
+    - 8/8/4N1p1/8/1K3k2/2P5/1Pb5/8 b - - 1 48

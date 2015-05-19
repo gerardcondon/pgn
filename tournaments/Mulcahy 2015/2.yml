@@ -1,0 +1,11 @@
+game: 2.yml
+conclusions:
+    - Two bishops against bishop and knight on open board can be lethal. The unopposed bishop is really strong.
+    - Opposite-colour bishop endings are drawish.
+    - Watch out for king mobility in the endgame - can get blocked by pawns.
+errors:
+    - Tactics. Missed knight manouevre.
+    - Positional. Gave opponent two bishops on an open board
+positions:
+    - r4rk1/pb1qbppp/2n1pn2/2p5/2P5/2N1BN1P/PP2BPP1/R2Q1RK1 w - - 2 13
+    - 2r3k1/pb3ppp/4pb2/2B1n3/2P5/2N4P/PP2BPP1/3R2K1 w - - 1 20
