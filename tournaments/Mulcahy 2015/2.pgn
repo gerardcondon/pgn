@@ -1,13 +1,14 @@
 [Event "Mulcahy 2015"]
 [Site "Cork, Ireland"]
 [Date "2015.01.02"]
-[TimeControl "5400+15"]
 [Round "2"]
 [White "Condon, Gerard"]
-[WhiteElo "0"]
 [Black "180"]
-[BlackElo "1313"]
 [Result "1/2-1/2"]
+[BlackElo "1313"]
+[ECO "B22"]
+[TimeControl "5400+15"]
+[WhiteElo "0"]
 
 { This was my second game in the Mulcahy tournament. I'd played my opponent many
 times before in blitz and hadn't had too much success against him. Going by his
@@ -19,11 +20,11 @@ d4.}  3. d4 { The logical follow up to c3.}  3... d5 { After this move I
 realised that we'd somehow stumbled into a French style game. I could go into
 an advance by playing e5.}  4. exd5 { I never play the advance so I took on d5.
 If black plays Qxd5 then we transpose to the normal c3 sicilian lines.}  4...
-Qxd5 5. Nf3 { Standard developing move. Nc6 is coming which will attack d4.}
+Qxd5 5. Nf3 { Standard developing move. Nc6 is coming which will attack d4.} 
 5... Nf6 6. Be2 { Developing and preparing to castle.}  6... Nc6 7. O-O {
 Getting my king to safety.}  7... Be7 8. h3 { I want to play the bishop to e3.
 Black can then play Ng4 attacking it. I know you're not supposed to play pawn
-moves in front of the king but otherwise I don't know how to deal with Ng4.}
+moves in front of the king but otherwise I don't know how to deal with Ng4.} 
 8... b6 { Preparing to fianchetto the bishop. I was worried here that I would
 get mated on the long diagonal! Once his bishop goes on b7 then my knight is
 effectively pinned on f3.}  9. Be3 { Developing the bishop, defending d4 and
@@ -40,108 +41,122 @@ block the rook coming to the open file.}  11. dxc5 bxc5 12. Nc3 { Developing
 the knight. From here the knight can go to b5 and c6. I didn't see this during
 the game however - my opponent pointed it out to me after the game. Even worse
 was that I was worried that his knight could come to b4 but completely missed
-similar moves for me.}  12... O-O { Get the king to safety and develop his
-rook.}  13. Qxd7 $155 { Here I exchanged queens. I'm not too sure why I did
-this. Maybe I thought that the position would be less dangerous for me without
-the queens. I didn't have much knowledge of what my chess level actually was so
-I wasn't sure how aggressive I should be in the game.  Looking at it now I
-wonder if it was better to keep the queens on and improve my position. Maybe b3
-to protect the c pawn and then something with the c3 knight e.g. Nb5.}  ( 13.
-b3 Rad8 14. Qxd7 Rxd7 15. Rad1 Rfd8 16. Rxd7 Rxd7 17. Rd1 -- 18. Nb5 ) 13...
-Nxd7 { Forced}  14. Rfd1 { Developing my rook. I'm never quite sure which rook
-to develop first. I wonder if it was better to develop the a rook to d1. Rooks
-on f1 are doing something already so it would be better to develop the other
-rook first.}  14... Rfd8 { Bringing his rook to the open file. Again maybe the
-a rook was the one to develop here.}  15. Rd2 { Preparing to double my rooks. I
-saw that he couldn't double his with the knight on d7 so I wanted to claim the
-open file for myself.}  15... Rac8 { I didn't think that this was a good move.
-The rook isn't doing much more on c8 than it was doing on a8. I think a better
-plan was to move the d7 knight somewhere, trade off a pair of rooks and then
-develop the a rook to the d file.}  ( 15... Nf6 16. Rad1 Rxd2 17. Rxd2 Rd8 18.
-Nb5 ) 16. Rad1 { Completing doubling my rooks. They're fairly powerful on the
-open d file. His knight is under threat now and needs to move.}  16... Nde5 {
-Attacks my pawn on c4 and the knight on f3. This is a good square for this
-knight as I can't easily kick it way with a pawn and it is defended by the
-knight on c6.}  17. Nxe5 { I saw that I win a pawn at the end of this sequence.
-In hindsight the fact that I gave up the two bishops proved to be a major
-disadvantage. I didn't see the Bf6 move so I thought that I would just win a
-pawn and keep the minor pieces on the board.}  ( 17. b3 Ng6 18. Rxd8+ Rxd8 19.
-Rxd8+ Nxd8 { If I try to protect the c pawn then I don't get to win his pawn.
-His knight needed to be moved from c6 so that it can't recapture on d8.}  ) (
-17. Rxd8+ Rxd8 18. Rxd8+ Bxd8 19. Nxe5 Nxe5 20. Bxc5 ) 17... Nxe5 { Forced. He
-could swap a pair of rooks first but would end up in a similar positon.}  18.
-Rxd8+ Bxd8 ( 18... Rxd8 { Taking with the rook is worse for him I think. He was
-able to get his rook really active.}  19. Rxd8+ Bxd8 20. Bxc5 Bf6 ) 19. Bxc5 {
-The bishop can't be taken due to the threat of mate on d8.}  ( 19. b3 Bf6 20.
-Nb5 ) 19... Bf6 { I didn't see this move. He xray attacks my knight on c3 so if
-I push b3 to defend the c pawn then my c3 knight is loose and can be subject to
-discovered attacks after his knight moves.}  20. Bxa7 { I saw that he was going
-to take the c pawn so I wanted to remain a pawn ahead.}  ( 20. b4 { This
-doesn't work due to the bishop on f6.}  20... Nxc4 21. Bxc4 Bxc3 22. Rc1 Bxb4
-23. Bxb4 Bd5 ) ( 20. Na4 { This doesn't work due to Bc6.}  20... Bc6 21. b3
-Bxa4 22. bxa4 Rxc5 ) 20... Nxc4 { takes my pawn and threatens the b pawn. I
-can't move the b pawn due to Bxc3.}  21. Bxc4 { Forced as it's the only way to
-keep my b pawn.}  21... Rxc4 { I'm a pawn up after this but he has two bishops
-on an open board. The immediate threat is to win back his pawn with Bxc3, bxc3
-Rxc3.}  22. Be3 { Bringing my bishop back from a7. Now it's protected again and
-fairly central. It can go to d2 to protect the knight.}  22... h6 { He can't
-take on c3 immediately due to the back rank mate threat so he needs to give his
-king luft.}  23. Bd2 { This protects the knight on c3 but at the cost of making
-my pieces really passive. I never really got the queenside pawns moving as I
-was always tied up protecting my pieces.}  23... Ba8 $2 { This was a bad move.
-The bishop is doing nothing here and in some lines is vulnerable to a check by
-my rook on d8.}  24. Be1 { Still protecting the knight but trying to give my
-rook some activity. Now at least it has a clear view of the d file.}  24... Bc6
-{ Realising that the last move was bad and undoing the damage.}  25. a3 { Not
-too sure what I was doing here. Think I was preparing to move b4.}  ( 25. b3 {
-My opponent suggested this move after the game. I didn't realise that the
-knight can't be taken due to tactical reasons. If I had seen that then I think
-I would have made this move.}  25... Rxc3 ( 25... Bxc3 26. bxc4 { Can't take
-with the bishop as I pick up the exchange.}  ) ( 25... Rc5 { I think this would
-be the best response.}  26. b4 { this doesn't do much after Rc4 so I think
-instead that I should take the opportunity to reroute my knight somwhere.}  (
-26. Ne2) 26... Rc4 ) 26. Bxc3 Bxc3 27. Rc1 { Can't take with the rook as in
-this position I can win a bishop back. This is a good pattern to know - two
-bishops on the same rank or file can't defend each other from a rook.}  ) 25...
-Kf8 { Starting to bring his king into the game.}  26. Rd6 { This was a waste of
-a move. I completely missed that he can just play Ke7. Not sure what I was
-thinking here.}  ( 26. Rd3 { This would have been a better rook move.} ) 26...
-Ke7 27. Rd1 { This is too passive. Think I should have gone back to d3.}  27...
-Rd4 { Offering a trade of rooks. If I turn it down then he has taken the d
-file.}  28. Rxd4 { Don't think I really had any alternatives.}  28... Bxd4 {
-His bishops are very powerful now. Much better than my minor pieces.}  29. b4 {
-Starting to push my queenside pawns. Also frees up the knight so that it could
-move somewhere  ( although it never did )}  29... Kd6 { Sensible move
-centralising the king. He is far closer to the queenside pawns than my king.}
-30. Kf1 { Trying to activate my king. However I think I should have moved the
-knight. After he takes the knight it becomes a bishops of opposite colour
-ending which are very drawish. However even if I move my knight e.g. to d1 then
-he has Bc4. To be honest at this stage I was more than happy with the draw. I
-knew I couldn't lose from here.}  30... g6 { This advance means that the g pawn
-is protected and on the other colour to my bishop. However the h pawn is now
-unprotected.}  31. f3 { This frees up my king as the g pawn is now defended.}
-31... Bxc3 { Now we have a bishops of opposite colour ending. Probably a draw
-given his active king.}  32. Bxc3 { Forced.}  32... Kd5 { Centralising the
-king. He's basically immune on the white squares.}  33. Ke1 { Not sure why I
-played this instead of Ke2}  33... Kc4 { I don't think I can save the a pawn
-here. His king can go to b3. I could put my bishop on c1 but it would be stuck
-there. He could move his king to c2 and force a repetition - my bishop would
-have to move away and then back to c1 once the king goes to b3.}  34. Bd2 { My
-idea is to trade the h pawn for the a pawn. If white protects the h pawn by
-playing h5 then I would move my bishop to c1.}  34... Kb3 ( 34... h5 35. Bc1
-Kb3 36. Kd2 Bb5 37. h4 { This may be more promising for me. My king could head
-to the kingside and I could possibly maintain one of the queenside pawns.}  )
-35. Bxh6 Kxa3 36. Bf8 Kb3 37. Kf2 { this is where my previous Ke1 move really
-hurt me. If I had played Ke2 then I could get to the third rank now. As it is,
-in the game his king dominated mine.}  37... Kc4 38. Ke3 ( 38. Kg3 Kd3 39. Kg4
-Ke2 { not sure if this was much better. Probably the kingside pawns get
-exchanged with each other and I can never drive the b pawn through.}  ) 38...
-e5 { Now my king is stuck on the third rank}  39. h4 f5 40. g4 { Don't think
-that this was a good move. I didn't see that he could play f4 and my king would
-be useless.}  40... f4+ 41. Kf2 { My king is stuck defending this pawn on f3.
-If I try to bring my king up via the h file then his king can capture the f
-pawn.}  41... Be8 { Now that his bishop is on e8 I can't play h5 and create a
-passed pawn. I can't create one with g5 and then h5 as his bishop will capture
-it as soon as it goes to g6.}  42. Ke2 { My opponent offered a draw around
-here. I played on for a few moves but it was obvious that I couldn't make
-progress.}  42... Kc3 43. Bd6 Kd4 44. Kf2 Kd5 45. Bf8 Kd4  1/2-1/2
+similar moves for me.}  12... O-O $2 $155 { Get the king to safety and develop
+his rook.}  ( { the computer thinks that castling straightaway was an error and
+that black should have moved the queen to safety before castling. } 12... Qc7
+13. Qc2 O-O ) 13. Qxd7 $2 $155 { Here I exchanged queens. I'm not too sure why
+I did this. Maybe I thought that the position would be less dangerous for me
+without the queens. I didn't have much knowledge of what my chess level
+actually was so I wasn't sure how aggressive I should be in the game. Looking
+at it now I wonder if it was better to keep the queens on and improve my
+position. Maybe b3 to protect the c pawn and then something with the c3 knight
+e.g. Nb5.}  ( 13. b3 { Lucky I didn't play b3. The computer says that this is
+an even worse move than Qxd7. It allows Nb5.} ) ( 13. Na4 { Computer
+recommendation is to play Na4 which picks up the c-pawn}  13... Rfd8 14. Nxc5 )
+13... Nxd7 { Forced}  14. Rfd1 { Developing my rook. I'm never quite sure which
+rook to develop first. I wonder if it was better to develop the a rook to d1.
+Rooks on f1 are doing something already so it would be better to develop the
+other rook first.}  14... Rfd8 { Bringing his rook to the open file. Again
+maybe the a rook was the one to develop here.}  15. Rd2 { Preparing to double
+my rooks. I saw that he couldn't double his with the knight on d7 so I wanted
+to claim the open file for myself.}  15... Rac8 $2 { I didn't think that this
+was a good move. The rook isn't doing much more on c8 than it was doing on a8.
+I think a better plan was to move the d7 knight somewhere, trade off a pair of
+rooks and then develop the a rook to the d file.}  ( 15... e5 { The computer
+disagrees with me though. Gives this line as best which allows black to plant a
+knight on d4.}  16. Rad1 Nd4 ) 16. Rad1 { Completing doubling my rooks. They're
+fairly powerful on the open d file. His knight is under threat now and needs to
+move.}  16... Nde5 { Attacks my pawn on c4 and the knight on f3. This is a good
+square for this knight as I can't easily kick it way with a pawn and it is
+defended by the knight on c6.}  ( 16... Nb6 { This is the computer's
+reccommendation. It prevents Na4 from me and so holds on to the pawn.} ) 17.
+Nxe5 { I saw that I win a pawn at the end of this sequence. In hindsight the
+fact that I gave up the two bishops proved to be a major disadvantage. I didn't
+see the Bf6 move so I thought that I would just win a pawn and keep the minor
+pieces on the board.}  ( 17. b3 Ng6 18. Rxd8+ Rxd8 19. Rxd8+ Nxd8 { If I try to
+protect the c pawn then I don't get to win his pawn. His knight needed to be
+moved from c6 so that it can't recapture on d8.}  ) ( 17. Rxd8+ { Taking with
+the rook first was a much better sequence.}  17... Rxd8 18. Rxd8+ Bxd8 19. Nxe5
+Nxe5 20. Bxc5 ) 17... Nxe5 { Forced. He could swap a pair of rooks first but
+would end up in a similar positon.}  18. Rxd8+ Bxd8 ( 18... Rxd8 { Taking with
+the rook is worse for him I think. He was able to get his rook really active.} 
+19. Rxd8+ Bxd8 20. Bxc5 Bf6 ) 19. Bxc5 { The bishop can't be taken due to the
+threat of mate on d8.}  ( 19. b3 Bf6 20. Nb5 ) 19... Bf6 { I didn't see this
+move. He xray attacks my knight on c3 so if I push b3 to defend the c pawn then
+my c3 knight is loose and can be subject to discovered attacks after his knight
+moves.}  20. Bxa7 $2 { I thought that he was going to take the c pawn so I
+wanted to remain a pawn ahead. However this moves leads to me losing my dark
+squared bishop and in the end threw away my winning chances. The computer says
+Bd4 is a better move}  ( 20. Bd4 Nxc4 21. Bxf6 gxf6 22. Rd7 Bc6 23. Rxa7 Nxb2
+24. Bh5 Kh8 25. Bxf7 Bxg2 26. Kxg2 Rxc3 27. Bxe6 { This would have been a much
+better position for me. Outside passed pawn and better minor piece.}  ) ( 20.
+b4 { This doesn't work due to the bishop on f6.}  20... Nxc4 21. Bxc4 Bxc3 22.
+Rc1 Bxb4 23. Bxb4 Bd5 ) ( 20. Na4 { This doesn't work due to Bc6.}  20... Bc6
+21. b3 Bxa4 22. bxa4 Rxc5 ) 20... Nxc4 { takes my pawn and threatens the b
+pawn. I can't move the b pawn due to Bxc3.}  21. Bxc4 { Forced as it's the only
+way to keep my b pawn.}  21... Rxc4 { I'm a pawn up after this but he has two
+bishops on an open board. The immediate threat is to win back his pawn with
+Bxc3, bxc3 Rxc3.}  22. Be3 { Bringing my bishop back from a7. Now it's
+protected again and fairly central. It can go to d2 to protect the knight.} 
+22... h6 { He can't take on c3 immediately due to the back rank mate threat so
+he needs to give his king luft.}  23. Bd2 { This protects the knight on c3 but
+at the cost of making my pieces really passive. I never really got the
+queenside pawns moving as I was always tied up protecting my pieces.}  23...
+Ba8 $2 { This was a bad move. The bishop is doing nothing here and in some
+lines is vulnerable to a check by my rook on d8.}  24. Be1 { Still protecting
+the knight but trying to give my rook some activity. Now at least it has a
+clear view of the d file.}  24... Bc6 { Realising that the last move was bad
+and undoing the damage.}  25. a3 { Not too sure what I was doing here. Think I
+was preparing to move b4.}  ( 25. b3 { My opponent suggested this move after
+the game. I didn't realise that the knight can't be taken due to tactical
+reasons. If I had seen that then I think I would have made this move.}  25...
+Rxc3 ( 25... Bxc3 26. bxc4 { Can't take with the bishop as I pick up the
+exchange.}  ) ( 25... Rc5 { I think this would be the best response.}  26. b4 {
+this doesn't do much after Rc4 so I think instead that I should take the
+opportunity to reroute my knight somwhere.}  ( 26. Ne2) 26... Rc4 ) 26. Bxc3
+Bxc3 27. Rc1 { Can't take with the rook as in this position I can win a bishop
+back. This is a good pattern to know - two bishops on the same rank or file
+can't defend each other from a rook.}  ) 25... Kf8 { Starting to bring his king
+into the game.}  26. Rd6 { This was a waste of a move. I completely missed that
+he can just play Ke7. Not sure what I was thinking here.}  ( 26. Rd3 { This
+would have been a better rook move.} ) 26... Ke7 27. Rd1 { This is too passive.
+Think I should have gone back to d3.}  27... Rd4 { Offering a trade of rooks.
+If I turn it down then he has taken the d file.}  28. Rxd4 { Don't think I
+really had any alternatives.}  28... Bxd4 { His bishops are very powerful now.
+Much better than my minor pieces.}  29. b4 { Starting to push my queenside
+pawns. Also frees up the knight so that it could move somewhere  (  although it
+never did  )}  29... Kd6 { Sensible move centralising the king. He is far
+closer to the queenside pawns than my king.}  30. Kf1 { Trying to activate my
+king. However I think I should have moved the knight. After he takes the knight
+it becomes a bishops of opposite colour ending which are very drawish. However
+even if I move my knight e.g. to d1 then he has Bc4. To be honest at this stage
+I was more than happy with the draw. I knew I couldn't lose from here.}  30...
+g6 { This advance means that the g pawn is protected and on the other colour to
+my bishop. However the h pawn is now unprotected.}  31. f3 { This frees up my
+king as the g pawn is now defended.}  31... Bxc3 { Now we have a bishops of
+opposite colour ending. Probably a draw given his active king.}  32. Bxc3 {
+Forced.}  32... Kd5 { Centralising the king. He's basically immune on the white
+squares.}  33. Ke1 { Not sure why I played this instead of Ke2}  33... Kc4 { I
+don't think I can save the a pawn here. His king can go to b3. I could put my
+bishop on c1 but it would be stuck there. He could move his king to c2 and
+force a repetition - my bishop would have to move away and then back to c1 once
+the king goes to b3.}  34. Bd2 { My idea is to trade the h pawn for the a pawn.
+If white protects the h pawn by playing h5 then I would move my bishop to c1.} 
+34... Kb3 ( 34... h5 35. Bc1 Kb3 36. Kd2 Bb5 37. h4 { This may be more
+promising for me. My king could head to the kingside and I could possibly
+maintain one of the queenside pawns.}  ) 35. Bxh6 Kxa3 36. Bf8 Kb3 37. Kf2 {
+this is where my previous Ke1 move really hurt me. If I had played Ke2 then I
+could get to the third rank now. As it is, in the game his king dominated
+mine.}  37... Kc4 38. Ke3 ( 38. Kg3 Kd3 39. Kg4 Ke2 { not sure if this was much
+better. Probably the kingside pawns get exchanged with each other and I can
+never drive the b pawn through.}  ) 38... e5 { Now my king is stuck on the
+third rank}  39. h4 f5 40. g4 { Don't think that this was a good move. I didn't
+see that he could play f4 and my king would be useless.}  40... f4+ 41. Kf2 {
+My king is stuck defending this pawn on f3. If I try to bring my king up via
+the h file then his king can capture the f pawn.}  41... Be8 { Now that his
+bishop is on e8 I can't play h5 and create a passed pawn. I can't create one
+with g5 and then h5 as his bishop will capture it as soon as it goes to g6.} 
+42. Ke2 { My opponent offered a draw around here. I played on for a few moves
+but it was obvious that I couldn't make progress.}  42... Kc3 43. Bd6 Kd4 44.
+Kf2 Kd5 45. Bf8 Kd4  1/2-1/2
+
