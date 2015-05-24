@@ -1,10 +1,20 @@
 [Event "Ennis Open 2015"]
 [Site "Ennis, Ireland"]
 [Date "2015.05.15"]
-[TimeControl "5400+15"]
 [Round "5"]
-[White "813"]
-[WhiteElo "1"]
+[White "960"]
 [Black "Condon, Gerard"]
+[Result "1/2-1/2"]
 [BlackElo "1386"]
-[Result "*"]
+[ECO "B30"]
+[TimeControl "5400+15"]
+[WhiteElo "1630"]
+
+1. e4 e6 2. d3 c5 3. Nf3 Nc6 4. g3 g6 5. Bg2 Bg7 6. O-O Nge7 7. Nbd2 e5 8. c3
+O-O 9. Qe2 d6 10. Rd1 f5 11. d4 fxe4 12. Nxe4 cxd4 13. cxd4 exd4 14. Bf4 Nf5
+15. Qb5 Kh8 16. Qd5 Nb4 17. Qb3 d5 18. Nc5 Qb6 19. Rac1 Na6 20. Qxb6 axb6 21.
+Na4 Be6 22. Nxb6 Rad8 23. a3 d3 24. Be5 Bxe5 25. Nxe5 Nd4 26. Bf1 Ne2+ 27. Bxe2
+dxe2 28. Re1 d4 29. Rxe2 Bf5 30. Rd2 h5 31. Rc4 Rd6 32. Na4 b5 33. Rcxd4 Rxd4
+34. Rxd4 bxa4 35. Rxa4 Nc5 36. Ra7 Nd3 37. Nf7+ Kg8 38. Nh6+ Kh8 39. Nf7+ Kg8
+40. Nh6+ Kh8 41. Nf7+  1/2-1/2
+
