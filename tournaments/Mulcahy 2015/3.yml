@@ -1,0 +1,22 @@
+game: 3.yml
+conclusions:
+    - exd4 is a legitimate response to cxd4. I just assumed that white would recapture with the c-pawn after placing their rook on c1.
+    - against the London system I need to deal better with the bishop on f4. Perhaps Bd6 here instead of Be7.
+    - during the game I thought I was losing badly for a good while. I remember thinking after 30 minutes that I was going to lose fairly quickly. However when I look on the computer white never had a massive advantage. Admittedly they could have gone to about 1 ahead on the computer evaluation but I think at this level I shouldn't be to afraid unless they have a material advantage. Certainly I wouldn't feel confident that I could convert a positional advantage.
+    - I could be more aggressive with my pawn advances.
+    - I was very happy to win this game as the tournament hadn't been going to great for me with a loss and a draw. I was happy enough with how I finished out the game once my opponent had blundered the f pawn. I did miss some opportunities to win more convincingly but I was never in danger of giving away my advantage.
+errors:
+    - Postional. Got a cramped position and failed to see white's attack.
+    - Pawns. Didn't see all of white's recaptures on d4.
+    - Tactics. Missed pin on knight against h7.
+    - Pawns. Missed aggressive f4 advances.
+    - Endgame. Could have centralised the king sooner in the endgame.
+positions:
+    - 2rq1rk1/pb1nbppp/1p2pn2/2pp4/3P1B2/2PBPN1P/PP1N1PP1/2RQR1K1 b - - 4 11
+    - 2rq1rk1/1b3ppp/p2bp3/1p1pN3/3Pn3/P1PBRQ1P/1P3PPB/2R3K1 b - - 1 20
+    - 2r2rk1/1bq3pp/p3pp2/1p1p4/3Pn3/P1PBRQ1P/1P3PPN/4R1K1 b - - 0 23
+    - 2r3k1/2q2rpp/p3p3/1p1b1p2/1Q1Pp3/P1P1R2P/1P4P1/4RNK1 b - - 5 29
+    - 5rk1/2q2rpp/p3p3/1p1b1p2/PQ1Pp3/2P1R2P/1P4P1/4RNK1 b - - 0 30
+    - 5rk1/2q2rpp/p3p3/1p3p2/PQbPp3/1PP1R2P/6P1/4RNK1 b - - 0 31
+    - 5rk1/3r2pp/4p3/5p2/3Pp3/1N1bR2P/6P1/2R3K1 b - - 5 38
+    - 1r4k1/7p/6p1/5p2/2bNp3/4R2P/6PK/8 b - - 1 43

@@ -94,24 +94,24 @@ sure is a threat anyway?  )  and restricts white's light squared bishop on the
 queenside. My bishop on b7 is fairly bad at the moment. It does give the c5
 square to white's knight but that knight was never going to transfer over there
 anyway.}  20. Re3 $2 { this rook lift prepares to double along the e-file. The
-queen blocks it coming to f3 though.  the computer thinks that this is a bad
+queen blocks it coming to f3 though. the computer thinks that this is a bad
 move. I think because if blocks the e3 square for the knight after f6, Ng4}  (
-20. Qg4 { the computer gives this move for white} ) 20... Qc7 { Setting up that
-battery.  This was a blunder. I could have trapped the knight for a couple of
-pawns after f6.}  ( 20... f6 21. Ng4 h5 22. Bxd6 hxg4 23. Qf4 Nxd6 24. Rxe6 Ne4
-25. Qxg4 Rc7 26. f3 Ng5 27. Re2 ) 21. Rce1 { Completing doubling the rooks but
-they don't really have a target on the e-file. I wondered was there any stage
-when white shuld have taken the knight on e4 with the bishop. Could I have hung
-onto that e4 pawn then?}  21... f6 { booting the knight away. It's a pity it
-could go to g4. Even after recapturing on h2 however it would be a long way
-from the action and would need a couple of moves to get back in position.}  22.
-Ng4 Bxh2+ { Not sure if this was a good trade but I thought I should trade
+20. Qg4 { the computer gives this move for white} ) 20... Qc7 $2 { Setting up
+that battery. This was a blunder. I could have trapped the knight for a couple
+of pawns after f6.}  ( 20... f6 21. Ng4 h5 22. Bxd6 hxg4 23. Qf4 Nxd6 24. Rxe6
+Ne4 25. Qxg4 Rc7 26. f3 Ng5 27. Re2 ) 21. Rce1 { Completing doubling the rooks
+but they don't really have a target on the e-file. I wondered was there any
+stage when white shuld have taken the knight on e4 with the bishop. Could I
+have hung onto that e4 pawn then?}  21... f6 { booting the knight away. It's a
+pity it could go to g4. Even after recapturing on h2 however it would be a long
+way from the action and would need a couple of moves to get back in position.} 
+22. Ng4 Bxh2+ { Not sure if this was a good trade but I thought I should trade
 pieces as I had less space. Also once this piece was gone I started to relax as
 I thought I'd weathered the storm. I didn't see a checkmate for white after
 this.}  23. Nxh2 { Now this knight has gone from e5 to h2 and my knight on e4
 is looking the best minor piece.}  23... Rf7 $2 { doubling the rooks. Is this
 good or bad? I don't know but at least it's a plan! I think I was planning to
-follow up with pushing the e and f pawns.  again according to the computer this
+follow up with pushing the e and f pawns. again according to the computer this
 is a mistake and white should win the black knight here after Qh5 and f3}  (
 23... e5 { best move according to the computer}  24. Qh5 exd4 25. cxd4 { and
 now the threat is f3. I don't see myself as having come up with a good solution
@@ -139,7 +139,7 @@ Attacking the e6 pawn.}  27... Bd5 { Defending the pawn and attacking the
 queen. This is a good square for the bishop and I would probably have moved it
 here at some stage.}  28. Qb4 $155 { Moving the queen out of the way. It's
 running out of squares. I didn't see so at the time but I wonder if there's
-anything from Rc4, Qe6 and then Ra4?  The computer says that the Rc4 lines have
+anything from Rc4, Qe6 and then Ra4? The computer says that the Rc4 lines have
 about the same evaluation as the line I played.}  28... Qc7 { Retreated the
 queen here. I needed to get it off f4 and I thought from here it would support
 f4 advance and link up with my rooks.}  ( 28... Rc4 29. Qa5 Qd6 30. b3 Rc8 31.
@@ -158,21 +158,21 @@ f3 31. gxf3 Rxf3 32. Rg4 Rxh3 33. Rg2 ) 31. Rxe4 { not sure how I would have
 reacted if white tried this exchange sacrifice. suddenly my pawns are looking a
 bit weak and white has a mass of queenside pawns and a knight to come into the
 game.}  ) 30. a4 { white can create a passed pawn on the queenside and that
-looks to be their best plan.  apparently this move is a -2 blunder. f4 is the
+looks to be their best plan. apparently this move is a -2 blunder. f4 is the
 way to punish it}  30... Bc4 $4 { I miscalculated here. I played this move to
 take away the e2 square from the rook after I play f4. However I didn't see
 until I had made the move that this bishop protects the e4 square so now f4 is
 impossible.}  ( 30... f4 31. R3e2 f3 32. Rf2 fxg2 33. Rxg2 e3 ) 31. b3 {
-attacking the bishop and driving it back. Now it can't protect the b5 pawn. 
-the computer considers this move a mistake as it allows f4 but in a game I
-would never consider that while the bishop is under attack.}  31... Bd5 $2 { I
-didn't consider Bxf1 as an option here. The bishop is a better piece at the
-moment  computer says I should have played f4. It's a constant theme - I was
-too reluctant to play it. Still I didn't play any move that was obviously
-losing and I always kept my winning advantage.}  32. axb5 axb5 { I was worried
-that I would be losing a pawn here put I think Rb8 regains it.}  33. c4 $2 {
-this loses another pawn}  ( 33. Qxb5 Rb8 34. Qa6 Rxb3 { and now it is white's c
-pawn which is a little weak.}  ) 33... bxc4 34. bxc4 Qxc4 { I wanted to get the
+attacking the bishop and driving it back. Now it can't protect the b5 pawn. the
+computer considers this move a mistake as it allows f4 but in a game I would
+never consider that while the bishop is under attack.}  31... Bd5 $2 { I didn't
+consider Bxf1 as an option here. The bishop is a better piece at the moment
+computer says I should have played f4. It's a constant theme - I was too
+reluctant to play it. Still I didn't play any move that was obviously losing
+and I always kept my winning advantage.}  32. axb5 axb5 { I was worried that I
+would be losing a pawn here put I think Rb8 regains it.}  33. c4 $2 { this
+loses another pawn}  ( 33. Qxb5 Rb8 34. Qa6 Rxb3 { and now it is white's c pawn
+which is a little weak.}  ) 33... bxc4 34. bxc4 Qxc4 { I wanted to get the
 queens off so I recaptured with the queen here. This is now threatening the d4
 pawn.}  35. Qxc4 { After the queen trade I was happy enough with my position. I
 had a target with the d4 pawn and still had the f4, e3 advances to come.}  (
@@ -189,8 +189,8 @@ Rxe2+ 49. Kxe2 Rc3 50. h4 Re3+ 51. Kd2 Rg3 52. Nxe6 Rxg2+ 53. Kd3 Rg3+ 54. Kd2
 Kf7 55. Nxf4 Rg4 56. Ke3 Rxh4 57. Ng2 Rg4 58. Ne1 ) 37... Rd7 { Attacking the
 d-pawn. I was willing to trade on of the e-pawns for it. I thought that without
 this pawn white will find it very hard to queen a pawn.}  38. Nb3 { Defending
-the d pawn.}  38... Rb8 { Attacking the knight. If it moved  (  e.g. to c5  ) 
-then I was going to take the d pawn and let it take the e6 pawn. White can't
+the d pawn.}  38... Rb8 $2 { Attacking the knight. If it moved  (  e.g. to c5 
+)  then I was going to take the d pawn and let it take the e6 pawn. White can't
 defend it with Rb8 as the bishop guards that square. And Rc3 doesn't look very
 sustainable - white's pieces would be very tied down.}  ( { Kf7 here was better
 according to the computer. Protects the e6 pawn and starts to centralise the
@@ -204,14 +204,14 @@ then Rb1+ would be coming}  41... Bxc4 42. Nd4 { Centralising the knight and
 attacking f5}  42... g6 { Defending the f5 pawn. This pawn chain is very
 strong. White can't reall get to the base of it.}  43. Kh2 { The king ends up
 getting boxed in here. Should have played Kf2 instead.}  ( { computer says Kf2
-is equally bad. } 43. Kf2 Rb2+ 44. Kg3 Bf1 ) 43... Bd3 { Protecting the bishop.
-After my previous games I was worried about a knight fork.}  ( 43... Rd8 {
-apparently I should have played Rd8}  44. Nc6 Rd2 45. Ne5 { it would allow my
-rook to come to the second rank}  ) 44. Nc6 { Attacks the rook. Maybe the
-knight was better on d4.}  44... Rb1 { Now f4 is very strong as the rook has
-nowhere to go.}  45. Ne5 { Attacks the bishop}  45... f4 { I win the exchange
-here and still remain a pawn up}  46. Nxd3 $4 { I don't know if this was the
-right recapture. Black a still has four pawns and the knight can't hold
+is equally bad. } 43. Kf2 Rb2+ 44. Kg3 Bf1 ) 43... Bd3 $2 { Protecting the
+bishop. After my previous games I was worried about a knight fork.}  ( 43...
+Rd8 { apparently I should have played Rd8}  44. Nc6 Rd2 45. Ne5 { it would
+allow my rook to come to the second rank}  ) 44. Nc6 { Attacks the rook. Maybe
+the knight was better on d4.}  44... Rb1 { Now f4 is very strong as the rook
+has nowhere to go.}  45. Ne5 { Attacks the bishop}  45... f4 { I win the
+exchange here and still remain a pawn up}  46. Nxd3 $4 { I don't know if this
+was the right recapture. Black a still has four pawns and the knight can't hold
 everything together.}  ( 46. Rxd3 exd3 47. Nxd3 g5 { I think this would have
 been the better shot. My central passed pawn is gone and it may be difficult to
 create another one. White's king is in front of the pawns and removing any
