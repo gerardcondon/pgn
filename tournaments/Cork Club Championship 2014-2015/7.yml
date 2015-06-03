@@ -1,0 +1,12 @@
+game: 7.pgn
+conclusions:
+    - When I have the option of moves like cxd4 I should make them sooner. I think similar for d5 in IQP positions.
+    - Should look for better moves than h3.
+errors:
+    - Central Pawns. Push earlier.
+    - Tactics.
+    - Tactics. Outside Pawns.
+positions:
+    - 3r1rk1/pppqnppp/2n5/3p1bB1/2PP4/P1PB1N2/5PPP/R2QR1K1 b - - 10 12
+    - 2r1r2k/p3n1pp/1p3p2/3q4/2nP1B2/P1PQ1N1P/5PP1/1R2R1K1 w - - 3 21
+    - 2r1r2k/p3n1pp/1pq2p2/8/P1nP1B2/2PQ1N1P/5PP1/1R2R1K1 w - - 1 22
