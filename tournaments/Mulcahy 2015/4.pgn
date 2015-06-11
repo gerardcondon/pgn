@@ -18,7 +18,7 @@ Standard move developing the kingside knight.}  5... Nf6 { Attacks the knight
 on e4 and develops the kingside. I can now castle kingside if I wish.}  6. Ng3
 { Normally I see Nxf6 or Bd3. This is a lot rarer. The knight is still
 developed, however it doesn't have many squares to jump to. The e6 pawn stops
-it coming to f5.}  6... Nbd7 { Standard move in these postions. We want to play
+it coming to f5.}  6... Nbd7 { Standard move in these positions. We want to play
 c5 so Nc6 is ruled out. This does lock in the bishop but hopefully we can
 develop that to b7.}  7. Bb5 { Pins the knight to the king. This would prevent
 the knight responding to a Ne5 move. There is no danger to the knight though
@@ -40,7 +40,7 @@ square on c2 for the bishop or queen.}  10... cxd4 { After the previous move I
 just assumed that white would take back with the pawn. It never crossed my mind
 that he could also take back with the knight. This was completely hope chess. I
 should have checked all his recaptures. In that case I would never have taken
-as the knight is very dominant on d4. It severly limits the option of playing
+as the knight is very dominant on d4. It severely limits the option of playing
 b5.}  ( 10... b5 { This was what I should have played. Bb7 is next. Qc7 and
 then develop the rooks. Looks like a grand position for black.} ) 11. Nxd4 {
 This is really bad for me. It's not easy for me to shift that knight.}  11...
@@ -50,103 +50,125 @@ of Qc7 and the Nc6. I vaguely remember during the game that I calculated this
 move, saw that it was bad, had decided on another move but played this anyway.
 Inexplicable really.}  12. Bc2 { Protects the bishop. At this stage in the game
 I was feeling like I had messed up the opening. I didn't really know what I was
-doing.}  12... e5 { This drives the knight away but means that I need to
+doing.}  12... e5 $2 { This drives the knight away but means that I need to
 protect this pawn with pieces. Also it opened up the a2-g8 diagonal for his
-bishop. That proved to be really serious later in the game.}  13. Nf3 {
-Dropping the knight back to f3 where it attacks the e5 pawn.}  13... Qc7 {
-Defends the e5 pawn and makes way for a rook to come to d8  ( which didn't
-happen for ages )}  14. b4 { Pushed back the knight. It was never secure on
-c5.}  14... Ncd7 { Dropping the knight back and adding additional protection to
-the e5 pawn.}  15. Bb2 { I'm not sure that this was the right move for this
-bishop. Typical attack patterns in the Rubinstein that I've seen since are Bg5
-attacking the knight followed up by putting the queen on the b1-h7 diagonal.
-The knight gets pinned due to the matee threat and I would probably have to
-make a pawn move like g6 and weaken my dark squares.}  15... b5 { Staking out
-space and making way for Bb7.}  16. Qe2 { Developing the queen and freeing up
-e1 for a rook. My knight keeps the queen out of e4. Maybe Qd3 would have been
-better. White would have a strong attack then with the two knights on the
-kingside.}  16... Re8 { This was intended to give extra support to e5 after
-Re1. However it really weakens f7. My king is pinned to it once the bishop
-moves over.}  17. Bb3 { Now white is threatening to play stuff like Ng5. I
-didn't see any of this. this was really early for me in terms of long chess
-games. Now I think I would have better seen the f7 weakness.}  17... Bb7 { Had
-to develop this bishop really. Had considered h6 but then g6 would be really
-weak.}  18. Rad1 { Develops his last piece and grabs the open file.}  18... Qc6
-{ That's one way of preventing Ng5. I have won two games this season with
-cheapos like this. It's not too dab a tactic to line the bishop and queen up
-against the king and cause a bit of panic in your opponent!}  19. Nf5 { This is
-a great square for this knight. It's kind of untouchable here as I don't want
-to play g6.}  19... Bf8 { Thought that this was better than Bd8. It adds
-support to g7 and keeps the rooks connected. However it does rule out Rf8 now.}
- 20. N5h4 { I can see why white would want to do this. It removes the mate
-threat. Howeve the knight was really strong on f5. I would have left it there
-and considered other ways to avoid the mate - could move the other knight to
-h4. This is really where the b2 bishop is out of the game If it were on g5 then
-white would have a really strong attack.}  20... h6 { I need to do this to
-prevent Ng5. However this allows Ng6. I completely missed that move until it
-was played.}  21. Ng6 { The pawn is pinned and cannot take the knight.}  21...
-Qe4 { At this stage I thought I was in big trouble and wanted to take the
-queens off. The e pawn would be looking undefendable if white gets in Re1. 
-Looking at it now were there any options to keep them on. I wonder if e4 and e3
-are threats now.}  ( 21... e4 22. Nd4 { That put an end to e4 ideas}  ) 22.
-Qxe4 { Forced or he loses the g6 knight}  22... Bxe4 { Would taking with the
-knight have been better I wonder as this bishop ended up back on b7 anyway.}  (
-22... Nxe4 { No as the d7 knight is handing : )} ) 23. Nxf8 { White gains the
-two bishops. In this position they are really strong.}  23... Kxf8 24. Nd2 {
-Didn't want me to double his pawns on f3 I suppose.}  24... Bb7 { Safe back
-here again}  25. f3 { This limits the movement of my f6 knight. It's not very
-dangerous for white to play this as I don't have any piece left that can attack
-on the dark squared diagonals.}  25... Rad8 { Developing the rook at last. I
-wasn't too hopeful for my position. I thought white woud win the e-pawn
-eventually. Re1 and c4 would attack it. I couldn't take c4 as then Nc4 would be
-strong. And if I didn't take on c4 then c5 would give white a protected passed
-pawn.  But looking at it now the positon still has a lot of play. I think I'm
-way too pessimistic in playing when I'm in a slightly worse position. I was
-still looking for strong moves but wasn't too hopeful. One thing I've learned
-since then is that there's a lot of losing in a chess position. Even if you're
-worse, it's still not easy for the opponent to convert. Assuming you make safe
-moves and don't blunder away material typically you would have to make a lot of
-bad positional moves to lose at this level.}  26. c4 { This is very strong. I
-can't take the pawn as Nc4 is really unpleasant.}  26... Nb6 { Aiming for
-counterplay with my knight. If he plays c5 then the knight can go to d5 and
-can't be removed from there easily.}  27. c5 { Now white has a protected passed
-pawn. However this was premature as now my knight can come to d5. I think makbe
-taking the b5 pawn was the better move.}  27... Nbd5 { This is a very good
-square for the knight. I'm threatening the fork on e3 and the pawn on b4.}  28.
-Rf2 { this protects the rook but at the cost of the b pawn. Also white's pieces
-are starting to become unco-ordinated now.}  ( 28. Bxd5 { taking with the
-bishop doesn't help white as I can replace that knight with another.}  28...
-Nxd5 ) 28... Nxb4 { Now I thought I had  the position well under control and
-that I might have some winning chances. The c pawn is no longer passed and I
-think I can win it soon enough.}  29. Ba3 { This is a good move. It puts the
-bishop on the same diagonal as the king. Unfortunately I didn't seen this ath
-the time.}  29... Nd3 { I completely missed that white has a discovered check.
-I should have protected the knight with a5. Or maybe Rd4 was possible.}  (
-29... a5 30. Bxb4 axb4 { After Rc8 and Nd7 it's hard to see how white could
-protect his c pawn.}  ) 30. c6+ { My heart sank when I saw this move. I had
-completely missed it. Now I would have to struggle to get a draw again.}  30...
-Kg8 31. cxb7 { Now I lose two pieces for a rook. My next plan was to capture
-the b pawn and quickly.}  31... Nxf2 32. Kxf2 { This is a really interesting
-position. Material count is even but imbalanced. I have more pawns but he has
-more pieces.}  32... Rd7 { And white can't hold on to the b pawn.}  33. Ne4 {
-Moves the knight to e4. I can't let this knight survive and hop futher into my
-position - c5 and d6 squares would be very weak.}  33... Nxe4+ { I had to take
-this knight. As this is with check, I can take on b7 with the next move.}  34.
-fxe4 { Once this move had been made I wondered if white has any ideas with Rf1.
-Then there might be ideas of a windmill on f7.}  34... Rxb7 { Taking the white
-pawn. I wasn't sure what to do now in this situation. I wasn't sure if I was
-winning or losing. My plan was to shore up the kingside pawns. I thought if I
-could put them all on one colour then that would reduce the effectiveness of
-one of his bishops. I have no idea if that was a good plan or not.}  35. Rd5 {
-This is a good square for the rook but I think it might be a better square for
-the bishop. His bishops cover a lot of squares and would be able to greatly
+bishop. That proved to be really serious later in the game.}  ( 12... Qc7 {
+Developing the queen to c7 would have been a better move.} ) 13. Nf3 { Dropping
+the knight back to f3 where it attacks the e5 pawn.}  13... Qc7 { Defends the
+e5 pawn and makes way for a rook to come to d8  (  which didn't happen for ages
+ )}  14. b4 { Pushed back the knight. It was never secure on c5.}  14... Ncd7 {
+Dropping the knight back and adding additional protection to the e5 pawn.}  15.
+Bb2 { I'm not sure that this was the right move for this bishop. Typical attack
+patterns in the Rubinstein that I've seen since are Bg5 attacking the knight
+followed up by putting the queen on the b1-h7 diagonal. The knight gets pinned
+due to the mate threat and I would probably have to make a pawn move like g6
+and weaken my dark squares.}  15... b5 { Staking out space and making way for
+Bb7.}  16. Qe2 { Developing the queen and freeing up e1 for a rook. My knight
+keeps the queen out of e4. Maybe Qd3 would have been better. White would have a
+strong attack then with the two knights on the kingside.}  16... Re8 $2 { This
+was intended to give extra support to e5 after Re1. However it really weakens
+f7. My king is pinned to it once the bishop moves over.}  ( 16... Nb6 17. Bb3
+Be6 { computer recommends developing the knight and bishop instead.}  ) 17. Bb3
+{ Now white is threatening to play stuff like Ng5. I didn't see any of this.
+this was really early for me in terms of long chess games. Now I think I would
+have better seen the f7 weakness.}  17... Bb7 { Had to develop this bishop
+really. Had considered h6 but then g6 would be really weak.}  18. Rad1 {
+Develops his last piece and grabs the open file.}  18... Qc6 { That's one way
+of preventing Ng5. I have won two games this season with cheapos like this.
+It's not too dab a tactic to line the bishop and queen up against the king and
+cause a bit of panic in your opponent!}  19. Nf5 { This is a great square for
+this knight. It's kind of untouchable here as I don't want to play g6.}  19...
+Bf8 { Thought that this was better than Bd8. It adds support to g7 and keeps
+the rooks connected. However it does rule out Rf8 now.}  20. N5h4 { I can see
+why white would want to do this. It removes the mate threat. However the knight
+was really strong on f5. I would have left it there and considered other ways
+to avoid the mate - could move the other knight to h4. This is really where the
+b2 bishop is out of the game If it were on g5 then white would have a really
+strong attack.}  20... h6 { I need to do this to prevent Ng5. However this
+allows Ng6. I completely missed that move until it was played.}  21. Ng6 { The
+pawn is pinned and cannot take the knight.}  21... Qe4 $2 { At this stage I
+thought I was in big trouble and wanted to take the queens off. The e pawn
+would be looking indefensible if white gets in Re1. Looking at it now were
+there any options to keep them on. I wonder if e4 and e3 are threats now.}  (
+21... e4 22. Nd4 { That put an end to e4 ideas}  ) ( 21... Bd6 { computer
+recommends saving the bishop. I don't think I even saw this in the game. I
+think I got mixed up and thought that the rook could capture the bishop or
+something stupid like that.} ) 22. Qxe4 { Forced or he loses the g6 knight} 
+22... Bxe4 { Would taking with the knight have been better I wonder as this
+bishop ended up back on b7 anyway.}  ( 22... Nxe4 { No as the d7 knight is
+handing :  )} ) 23. Nxf8 { White gains the two bishops. In this position they
+are really strong.}  23... Kxf8 24. Nd2 $2 { Didn't want me to double his pawns
+on f3 I suppose. The computer says that this was a poor move and he should have
+played c4 instead.}  24... Bb7 $2 { Safe back here again. This was a bad move
+also and I should have played Bd3 followed by Nb6.}  ( 24... Bd3 25. Rfe1 Nb6 {
+computer gives this as dead even.}  ) 25. f3 { This limits the movement of my
+f6 knight. It's not very dangerous for white to play this as I don't have any
+piece left that can attack on the dark squared diagonals.}  25... Rad8 {
+Developing the rook at last. I wasn't too hopeful for my position. I thought
+white woud win the e-pawn eventually. Re1 and c4 would attack it. I couldn't
+take c4 as then Nc4 would be strong. And if I didn't take on c4 then c5 would
+give white a protected passed pawn. But looking at it now the position still has
+a lot of play. I think I'm way too pessimistic in playing when I'm in a
+slightly worse position. I was still looking for strong moves but wasn't too
+hopeful. One thing I've learned since then is that there's a lot of losing in a
+chess position. Even if you're worse, it's still not easy for the opponent to
+convert. Assuming you make safe moves and don't blunder away material typically
+you would have to make a lot of bad positional moves to lose at this level.} 
+26. c4 { This is very strong. I can't take the pawn as Nc4 is really
+unpleasant.}  26... Nb6 { Aiming for counterplay with my knight. If he plays c5
+then the knight can go to d5 and can't be removed from there easily.}  27. c5 {
+Now white has a protected passed pawn. However this was premature as now my
+knight can come to d5. I think maybe taking the b5 pawn was the better move.} 
+27... Nbd5 { This is a very good square for the knight. I'm threatening the
+fork on e3 and the pawn on b4.}  28. Rf2 $2 { this protects the rook but at the
+cost of the b pawn. Also white's pieces are starting to become uncoordinated
+now.}  ( 28. Bxd5 { taking with the bishop doesn't help white as I can replace
+that knight with another.}  28... Nxd5 ) ( 28. Ne4 Ne3 29. Nxf6 gxf6 30. Rxd8
+Rxd8 31. Rf2 Bd5 { and white has a dangerous passed pawn and the two bishops.} 
+) 28... Nxb4 { Now I thought I had the position well under control and that I
+might have some winning chances. The c pawn is no longer passed and I think I
+can win it soon enough.}  29. Ba3 { This is a good move. It puts the bishop on
+the same diagonal as the king. Unfortunately I didn't seen this ath the time.} 
+29... Nd3 { I completely missed that white has a discovered check. I should
+have protected the knight with a5. Or maybe Rd4 was possible.}  ( 29... a5 30.
+Bxb4 axb4 { After Rc8 and Nd7 white will have to play well to defend his c
+pawn.}  ) 30. c6+ { My heart sank when I saw this move. I had completely missed
+it. Now I would have to struggle to get a draw again.}  30... Kg8 31. cxb7 {
+Now I lose two pieces for a rook. My next plan was to capture the b pawn and
+quickly.}  31... Nxf2 32. Kxf2 { This is a really interesting position.
+Material count is even but imbalanced. I have more pawns but he has more
+pieces.}  32... Rd7 { And white can't hold on to the b pawn.}  33. Ne4 $2 {
+Moves the knight to e4. I can't let this knight survive and hop further into my
+position - c5 and d6 squares would be very weak. The computer says that this
+was a bad move - possibly the one that gave away the win. Instead white should
+have played a piece sacrifice with Nc4. Black doesn't get to take the knight
+off with check and white's bishops can control the queening square. Really
+can't blame him for not seeing that in the game. I'd never have come up with
+it.}  ( 33. Nc4 bxc4 34. Rxd7 Nxd7 35. Bxc4 { and black can't defend against
+Bd6.}  ) 33... Nxe4+ { I had to take this knight. As this is with check, I can
+take on b7 with the next move.}  34. fxe4 { Once this move had been made I
+wondered if white has any ideas with Rf1. Then there might be ideas of a
+windmill on f7.}  34... Rxb7 $2 { Taking the white pawn. I wasn't sure what to
+do now in this situation. I wasn't sure if I was winning or losing. My plan was
+to shore up the kingside pawns. I thought if I could put them all on one colour
+then that would reduce the effectiveness of one of his bishops. I have no idea
+if that was a good plan or not.}  ( { taking on b7 first was a mistake
+according to the computer. I needed to remove a pair of rooks and then round up
+the b7 pawn. This is interesting. Looking at it on the computer he has a lot
+more attacking potential with the rook and bishops. But getting rid of a pair
+of rooks reduces that somewhat. } 34... Rxd1 35. Bxd1 Rb8 ) 35. Rd5 { This is a
+good square for the rook but I think it might be a better square for the
+bishop. His bishops cover a lot of squares and would be able to greatly
 restrict my rooks.}  35... Kh7 { Getting the king off the same diagonal as the
 bishop.}  36. Bb2 { Attacking my e5 pawn.}  36... f6 { protecting the e pawn.
 My kingside pawns are fairly secure now and g6 is a good square for my king.} 
-37. Kf3 { Centralising his king. A good move in the endgame.}  37... Kg6 { My
-king should be safe enough here. It also can be used to blunt any pawn advances
-by white.}  38. Kg4 { Taking the opposition as such. Now my king can't advance.
-Still his king can't make any further inroads into my postion.}  38... a5 { I
-think my next move planned was a4. I offered a draw at this position and my
-opponent accepted. Neither of us had any idea who was better!}   1/2-1/2
+37. Kf3 { Centralising his king. A good move in the endgame.}  37... Kg6 $2 {
+My king should be safe enough here. It also can be used to blunt any pawn
+advances by white.}  ( 37... a5 { the computer says I needed to get a4 in
+quickly and get the pawns moving down the board before white can stop them with
+Bc3. My king was as safe on h7 as on g6.} ) 38. Kg4 { Taking the opposition as
+such. Now my king can't advance. Still his king can't make any further inroads
+into my position.}  38... a5 { I think my next move planned was a4. I offered a
+draw at this position and my opponent accepted. Neither of us had any idea who
+was better!}   1/2-1/2
 

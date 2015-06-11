@@ -1,0 +1,21 @@
+game: 4.yml
+conclusions:
+    - most of the time that I thought I was losing, I was only a bit behind. I should be more confident and even if my position is bad I shouldn't get too downhearted.
+    - I need to check the range of bishops and queens. When they move check every square of their diagonals. Each move I should check what pieces are on the same files, ranks and diagonals as my king.
+    - Overall I was happy enough with the draw as I definitely could have lost the game. However once I got into that pawn up position I should have been more ruthless.
+errors:
+    - development. Develop the queen to free space for the rooks.
+    - weak f7. Be careful moving the f8 rook if f7 is weak.
+    - two bishops. Hold on to them if possible.
+    - positional. Could be more aggressive. A centralised bishop is better than one on the sidelines.
+    - tactics. discovered check. always check all the lines of a bishop - even through other pieces.
+    - endgame. remove a pair of rooks if it leaves me with a R vs BB endgame.
+    - endgame. drive pawns down the board to create threats. Also stops the opponent creating a block with a piece on your territory.
+positions:
+    - r1bq1rk1/1p2bppp/p3pn2/2n5/3N4/2P3N1/PPB2PPP/R1BQ1RK1 b - - 2 12
+    - r1b2rk1/2qnbppp/p4n2/1p2p3/1P6/2P2NN1/PBB1QPPP/R4RK1 b - - 1 16
+    - r3rbk1/1b1n1pp1/p1q2nNp/1p2p3/1P6/1BP2N2/PB2QPPP/3R1RK1 b - - 1 21
+    - r3rk2/3n1pp1/p4n1p/1p2p3/1P2b3/1BP5/PB1N1PPP/3R1RK1 b - - 1 24
+    - 3rrk2/1b3pp1/p4n1p/1pP1p3/1n6/BB3P2/P2N1RPP/3R2K1 b - - 1 29
+    - 4r1k1/1P1r1pp1/p6p/1p2p3/4P3/BB6/P4KPP/3R4 b - - 0 34
+    - 4r3/1r4pk/p4p1p/1p1Rp3/4P3/1B3K2/PB4PP/8 b - - 1 37
