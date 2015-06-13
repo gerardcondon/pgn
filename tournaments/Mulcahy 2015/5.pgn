@@ -1,15 +1,122 @@
 [Event "Mulcahy 2015"]
 [Site "Cork, Ireland"]
 [Date "2015.01.02"]
-[TimeControl "5400+15"]
 [Round "5"]
 [White "Condon, Gerard"]
-[WhiteElo "0"]
 [Black "160"]
-[BlackElo "1546"]
 [Result "1/2-1/2"]
+[BlackElo "1546"]
+[ECO "B01"]
+[TimeControl "5400+15"]
+[WhiteElo "0"]
 
-1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 a6 5. Be2 e6 6. Nf3 Nf6 7. O-O Be7 8. Re1
-O-O 9. Bg5 Nc6 10. Qd2 b5 11. a3 Bb7 12. Rad1 Rfe8 13. Bf4 Qd8 14. d5 exd5 15.
-Nxd5 Nxd5 16. Qxd5 Bf6 17. Qxd8 Raxd8 18. Rxd8 Rxd8 19. c3 Rc8 20. Bd3 g6 21.
-Kf1 Ne7 22. Be5 Bxe5 23. Nxe5 Nc6 24. Nd7 Rd8 25. Nc5 Bc8 26. Rd1  1/2-1/2
+1. e4 d5 { The Scandinavian Defence.}  2. exd5 { I don't really know if there is
+an alternative to taking the pawn here. Can't defend it with d3 and I don't
+know if Qe2 is any good.}  2... Qxd5 { The pawn structures become imbalanced
+now. White has a queenside majority but black has a kingside majority. Black's
+queen is brought out early in this defense. The obvious move to gain time on
+this is Nc3. I always fel a bit nervous against this defence as the king is on
+an open file and the queen is floating around.}  3. Nc3 { I think this is a
+safe enough move but I don't know if it's the best one. Sam Collins in his e4
+DVD recommends not making this move and leaving the possibility open for
+playing c4. I think that might be a better way to play it as I felt during the
+game that my d pawn was almost like an isolated pawn. If I could get in c4 and
+d4 instead I would have a much better centre.}  3... Qd6 { There are loads of
+squares to move the queen e.g Qa5, Qe5, Qd8. This looks as good as any. I can't
+easily attack it again with any of my pieces.}  4. d4 { Staking a claim in the
+centre and freeing the c1 bishop. I think it's a logical follow up to Nc3.
+Other moves to consider are Nf6 or possibly developing the bishop somewhere.} 
+4... a6 { I thought this was a waste of time when my opponent made it. However
+after the game I was shown moves like Nb5 and then developing the bishop to the
+b8-h2 diagonal putting pressure on c7. Apparently you play this move in the
+Scandinavian at some stage so may as well play it now.}  5. Be2 { I need to
+develop the bishop somewhere in order to castle. I wonder should I have been
+more agressive and put it on c4. At least here it stops any checks on the
+e-file but I don't know how serious they would have been in any case. Also when
+I develop my knight to f3 then there would be an opportunity for black to pin
+it on g4.}  5... e6 { Looks a sensible move. Makes space on e7 for the bishop.}
+ 6. Nf3 { Completing kingside development and preparing to castle.}  6... Nf6 {
+Another standard developing move.}  7. O-O { Get my king to safety. In an
+opening that I don't know I typically try to castle early so that there's less
+of a risk of running into tricks.}  7... Be7 { Develop the bishop and prepares
+for castling.}  8. Re1 { Developing the rook, putting it on a semi open file.
+At the moment it's lined up against the black king but that shoudn't last too
+long.}  8... O-O { Castled removing the king from the firing line.}  9. Bg5 {
+Develops the bishop. Where else could it go really? It's not doing too bad here
+as the e7 bishop is only defended by the queen so it may be prone to tactics -
+possibly with Nd5 ideas.}  9... Nc6 { Develops the knight and attacks the d4
+pawn. The other place this knight could have gone was to d7 and this could
+prepare c5.}  10. Qd2 { Developing the queen and preparing a space for the a1
+rook to come to. Also protects the g5 bishop.}  10... b5 { Prepares for a
+queenside fianchetto but also blocks my light squared bishop from coming to c4.
+In a IQP position that diagonal would be where I would want to put that bishop
+and this position has some similarities with those.}  11. a3 { Cutting out any
+ideas of Nb4}  11... Bb7 { Completing the fianchetto}  12. Rad1 { Developing
+the rook and protecting the queen and d4 pawn. All my pieces are nicely
+developed at this stage. Not sure what else I could have done.}  12... Rfe8 {
+Developing the rook and protecting the e7 bishop.}  13. Bf4 { I had wondered if
+I could have done anything with taking on f6 and then playing Nd4 but that
+doesn't amount to anything really. I moved the bishop back to drive back
+black's queen and also eye up the c7 pawn.}  13... Qd8 { Could maybe also have
+gone to d7 and then play Rd8.}  14. d5 { this leads to mass simplifications. I
+thought I might have been in with a chance to win a pawn but that never
+materialised. In retrospect I wonder I would have been better served improving
+the position of some of my pieces - e.g. the c3 knight and e2 bishop. Problem
+is if my c3 knight moves then black gets d5 for a knight. Also not sure where
+the e2 bishop could have gone - to d3 maybe but what then from there?}  14...
+exd5 15. Nxd5 { trading off the knights and clearing out the centre.}  15...
+Nxd5 16. Qxd5 { my pieces are still well placed I think. I certainly don't
+consider my postion to be worse but I don't know what to do from here.}  16...
+Bf6 { Attacks the b2 pawn. I went for the queen trade but that doesn't seem to
+great for me. Maybe if I had protected the b2 pawn then I could have gone after
+the c7 pawn. I was worried that my queen was on the same diagonal as the b7
+bishop.}  17. Qxd8 { Trading queens. At this stage I hadn't played too many
+games and was happy enough really to draw against 1500ish rated players. I
+thought that with the queens off there was less danger to me. If I was playing
+this game now, my thoughts may have changed on that.}  ( 17. c3 Qxd5 18. Rxd5 {
+I don't think there is a discovered attack on the rook that I can't escape
+from. I could possibly bring the rook into d7 if black plays Rc8 to defend the
+c pawn.}  18... Rac8 19. Rd7 { I think this is better for me than what happened
+in the game.}  ) 17... Raxd8 { I've basically helped black develop the rook.} 
+18. Rxd8 { Bxc7 doesn't work due to the pawn hanging on b2. I traded a pair of
+rooks to minimise tactics against me.}  18... Rxd8 19. c3 { Protecting the c3
+pawn and stopping the knight going to b4 or d4.}  19... Rc8 { Protecting the c
+pawn. This rook is passively placed and I think white must be better here. I
+wasn't able to convert that into any material advantage.}  20. Bd3 { The bishop
+was doing nothing much on e2 so I moved it to a more central position. Find
+your worse piece and improve it is the advise I've heard before. There possibly
+is a threat to play Ng5 now. There is definitely a back rank threat now.} 
+20... g6 { Cutting out anything on h7 and giving the king some luft. Now there
+is no back rank issues.}  21. Kf1 { Moving the king closer to the centre and
+getting rid of back rank issues.}  21... Ne7 { Unveiling an attack on the f3
+knight. Could double my pawns with Bxf3. Also this knight can come to d5 and
+threaten the dark squared bishop.}  22. Be5 { This forces the dark squared
+bishops off the board. Not sure if that was my best move as now the pressure on
+c7 is removed. However black would probably have played something like c5 soon
+anyway.}  22... Bxe5 23. Nxe5 { This knight has a good square here. It's very
+central and is in enemy territory.}  23... Nc6 { Offering a trade of knights.} 
+24. Nd7 { I didn't want to trade the knights as I thought my knight was better.
+Maybe trading the knights and Re8 was a move?}  ( 24. Nxc6 Bxc6 25. Re7 { but
+then I can't maintain the rook on e7.}  25... Kf8 ) 24... Rd8 { Threatening the
+knight and also the bishop behind it.}  25. Nc5 { Forced to protect the bishop.
+This has the benefit of attacking his bishop and the pawn on a6.}  25... Bc8 {
+Moving the bishop to safety while still defending a6.}  26. Rd1 { Protecting
+the bishop even more. The king can come to the e file and the bishop can drop
+back to c2 and then onto b3 maybe.
+
+I offered a draw here. I thought I had
+given it a good shot but the position was always drawish. I thought that black
+had started to gain the upper hand here as the rook was becoming active and the
+knight might start to go to e5 and then onto c4. From a tournament point of
+view this was a good draw for me. In terms of learning though not so good. I
+would have been better off playing out the endgame and even if I lost I would
+have had something to stufy and improve on. As it is I have no idea what I
+should do in this position and playing through it would have helped.}  ( 26. a4
+{ Would something like a4 have been a move here? I might have been able to pick
+up one of black's queenside pawns. If bxa4 then I would take the a4 or a6 pawn
+and black would have split queenside pawns.}  26... bxa4 ( 26... Rd5 { I think
+I'm just losing the bishop here. Would have needed to protect that first before
+trying any pawn moves.} ) 27. Bxa6 Bxa6+ 28. Nxa6 Rd2 { this is very murky. I
+probably would have lost but at least would have something to analyse.}  29.
+Nc5 Rxb2 30. Nxa4 Ra2 )  1/2-1/2
+
