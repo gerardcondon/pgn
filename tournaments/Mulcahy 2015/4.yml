@@ -1,4 +1,4 @@
-game: 4.yml
+game: 4.pgn
 conclusions:
     - most of the time that I thought I was losing, I was only a bit behind. I should be more confident and even if my position is bad I shouldn't get too downhearted.
     - I need to check the range of bishops and queens. When they move check every square of their diagonals. Each move I should check what pieces are on the same files, ranks and diagonals as my king.

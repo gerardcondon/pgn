@@ -1,4 +1,4 @@
-game: 3.yml
+game: 3.pgn
 conclusions:
     - exd4 is a legitimate response to cxd4. I just assumed that white would recapture with the c-pawn after placing their rook on c1.
     - against the London system I need to deal better with the bishop on f4. Perhaps Bd6 here instead of Be7.

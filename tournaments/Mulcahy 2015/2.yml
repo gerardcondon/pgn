@@ -1,4 +1,4 @@
-game: 2.yml
+game: 2.pgn
 conclusions:
     - Two bishops against bishop and knight on open board can be lethal. The unopposed bishop is really strong.
     - Opposite-colour bishop endings are drawish.

@@ -54,32 +54,45 @@ and this position has some similarities with those.}  11. a3 { Cutting out any
 ideas of Nb4}  11... Bb7 { Completing the fianchetto}  12. Rad1 { Developing
 the rook and protecting the queen and d4 pawn. All my pieces are nicely
 developed at this stage. Not sure what else I could have done.}  12... Rfe8 {
-Developing the rook and protecting the e7 bishop.}  13. Bf4 { I had wondered if
-I could have done anything with taking on f6 and then playing Nd4 but that
+Developing the rook and protecting the e7 bishop.}  13. Bf4 $6 { I had wondered
+if I could have done anything with taking on f6 and then playing Nd4 but that
 doesn't amount to anything really. I moved the bishop back to drive back
-black's queen and also eye up the c7 pawn.}  13... Qd8 { Could maybe also have
-gone to d7 and then play Rd8.}  14. d5 { this leads to mass simplifications. I
-thought I might have been in with a chance to win a pawn but that never
+black's queen and also eye up the c7 pawn.}  ( 13. Bd3 { The computer says that
+the bishop was better placed on g5 and that I should ahave improved the
+position of the e2 bishop by playing Bd3.} ) 13... Qd8 { Could maybe also have
+gone to d7 and then play Rd8.}  14. d5 $2 { this leads to mass simplifications.
+I thought I might have been in with a chance to win a pawn but that never
 materialised. In retrospect I wonder I would have been better served improving
 the position of some of my pieces - e.g. the c3 knight and e2 bishop. Problem
 is if my c3 knight moves then black gets d5 for a knight. Also not sure where
-the e2 bishop could have gone - to d3 maybe but what then from there?}  14...
-exd5 15. Nxd5 { trading off the knights and clearing out the centre.}  15...
-Nxd5 16. Qxd5 { my pieces are still well placed I think. I certainly don't
-consider my postion to be worse but I don't know what to do from here.}  16...
-Bf6 { Attacks the b2 pawn. I went for the queen trade but that doesn't seem to
-great for me. Maybe if I had protected the b2 pawn then I could have gone after
-the c7 pawn. I was worried that my queen was on the same diagonal as the b7
-bishop.}  17. Qxd8 { Trading queens. At this stage I hadn't played too many
-games and was happy enough really to draw against 1500ish rated players. I
-thought that with the queens off there was less danger to me. If I was playing
-this game now, my thoughts may have changed on that.}  ( 17. c3 Qxd5 18. Rxd5 {
-I don't think there is a discovered attack on the rook that I can't escape
-from. I could possibly bring the rook into d7 if black plays Rc8 to defend the
-c pawn.}  18... Rac8 19. Rd7 { I think this is better for me than what happened
-in the game.}  ) 17... Raxd8 { I've basically helped black develop the rook.} 
-18. Rxd8 { Bxc7 doesn't work due to the pawn hanging on b2. I traded a pair of
-rooks to minimise tactics against me.}  18... Rxd8 19. c3 { Protecting the c3
+the e2 bishop could have gone - to d3 maybe but what then from there?}  ( 14.
+Bd3 { Again this would have been a better move than what I played. The computer
+says that d5 was a bad move. After the clearances black has an open position
+with better placed bishops I think.} ) 14... exd5 15. Nxd5 { trading off the
+knights and clearing out the centre.}  15... Nxd5 16. Qxd5 { my pieces are
+still well placed I think. I certainly don't consider my postion to be worse
+but I don't know what to do from here.}  16... Bf6 $2 { Attacks the b2 pawn. I
+went for the queen trade but that doesn't seem to great for me. Maybe if I had
+protected the b2 pawn then I could have gone after the c7 pawn. I was worried
+that my queen was on the same diagonal as the b7 bishop.}  17. Qxd8 { Trading
+queens. At this stage I hadn't played too many games and was happy enough
+really to draw against 1500ish rated players. I thought that with the queens
+off there was less danger to me. If I was playing this game now, my thoughts
+may have changed on that.}  ( 17. Qh5 { This is the move the computer
+recommends. I never even saw this. I just assumed that either I would take
+black's queen or black would take my queen.}  17... Qc8 18. Ng5 Bxg5 19. Qxg5
+-- 20. Qg3 { I win the two bishops and have a really strong attack on the c7
+pawn.}  ) ( 17. c3 Qxd5 18. Rxd5 { I don't think there is a discovered attack
+on the rook that I can't escape from. I could possibly bring the rook into d7
+if black plays Rc8 to defend the c pawn.}  18... Rac8 ( 18... Nb4 { this is why
+c3 is bad. The knight can hop to b4 and from there to d5 or c2.}  19. Rd2 Nd5
+20. Bg3 Nxc3 ) 19. Rd7 { I think this is better for me than what happened in
+the game but wouldn't arise as black would have diverged at Nb4.}  ) 17...
+Raxd8 { I've basically helped black develop the rook.}  18. Rxd8 { Bxc7 doesn't
+work due to the pawn hanging on b2. I traded a pair of rooks to minimise
+tactics against me.}  18... Rxd8 $2 ( { retaking with the knight was the better
+option here as the knight can go to e6 and defend the c pawn. Also the c pawn
+is now free to advance. } 18... Nxd8 19. c3 Ne6 ) 19. c3 { Protecting the c3
 pawn and stopping the knight going to b4 or d4.}  19... Rc8 { Protecting the c
 pawn. This rook is passively placed and I think white must be better here. I
 wasn't able to convert that into any material advantage.}  20. Bd3 { The bishop
@@ -94,17 +107,17 @@ threaten the dark squared bishop.}  22. Be5 { This forces the dark squared
 bishops off the board. Not sure if that was my best move as now the pressure on
 c7 is removed. However black would probably have played something like c5 soon
 anyway.}  22... Bxe5 23. Nxe5 { This knight has a good square here. It's very
-central and is in enemy territory.}  23... Nc6 { Offering a trade of knights.} 
-24. Nd7 { I didn't want to trade the knights as I thought my knight was better.
+central and is in enemy territory.}  23... Nc6 $6 { Offering a trade of
+knights. The computer disagrees with this move and says that Rd8 was better.
+There's no more threat to the c pawn and Nc6 just blocks it in I suppose.}  24.
+Nd7 { I didn't want to trade the knights as I thought my knight was better.
 Maybe trading the knights and Re8 was a move?}  ( 24. Nxc6 Bxc6 25. Re7 { but
 then I can't maintain the rook on e7.}  25... Kf8 ) 24... Rd8 { Threatening the
 knight and also the bishop behind it.}  25. Nc5 { Forced to protect the bishop.
 This has the benefit of attacking his bishop and the pawn on a6.}  25... Bc8 {
 Moving the bishop to safety while still defending a6.}  26. Rd1 { Protecting
 the bishop even more. The king can come to the e file and the bishop can drop
-back to c2 and then onto b3 maybe.
-
-I offered a draw here. I thought I had
+back to c2 and then onto b3 maybe.  I offered a draw here. I thought I had
 given it a good shot but the position was always drawish. I thought that black
 had started to gain the upper hand here as the rook was becoming active and the
 knight might start to go to e5 and then onto c4. From a tournament point of
@@ -114,9 +127,7 @@ have had something to stufy and improve on. As it is I have no idea what I
 should do in this position and playing through it would have helped.}  ( 26. a4
 { Would something like a4 have been a move here? I might have been able to pick
 up one of black's queenside pawns. If bxa4 then I would take the a4 or a6 pawn
-and black would have split queenside pawns.}  26... bxa4 ( 26... Rd5 { I think
-I'm just losing the bishop here. Would have needed to protect that first before
-trying any pawn moves.} ) 27. Bxa6 Bxa6+ 28. Nxa6 Rd2 { this is very murky. I
-probably would have lost but at least would have something to analyse.}  29.
-Nc5 Rxb2 30. Nxa4 Ra2 )  1/2-1/2
+and black would have split queenside pawns.}  26... bxa4 27. Bxa6 Bxa6+ 28.
+Nxa6 Rd2 { this is very murky. I probably would have lost but at least would
+have something to analyse.}  29. Nc5 Rxb2 30. Nxa4 Ra2 )  1/2-1/2
 
