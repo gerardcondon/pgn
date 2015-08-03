@@ -1,22 +1,47 @@
 [Event "Mulcahy 2015"]
 [Site "Cork, Ireland"]
 [Date "2015.01.02"]
-[TimeControl "5400+15"]
 [Round "6"]
 [White "944"]
-[WhiteElo "1628"]
 [Black "Condon, Gerard"]
-[BlackElo "0"]
 [Result "0-1"]
+[BlackElo "0"]
+[ECO "C00"]
+[TimeControl "5400+15"]
+[WhiteElo "1628"]
 
-1. e4 e6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Be7 5. d4 Nf6 6. Bd3 Nxe4 7. Bxe4 Nd7 8.
-O-O c5 9. dxc5 Nxc5 10. Qe2 Nxe4 11. Qxe4 O-O 12. Bf4 Bf6 13. Be5 Bxe5 14. Nxe5
-Qd5 15. Qe3 f6 16. Nf3 e5 17. Rfd1 Qf7 18. Rd6 Bd7 19. Rad1 Bc6 20. b3 a6 21.
-c4 Rfe8 22. Qb6 Qg6 23. Qe3 Qe4 24. Qxe4 Bxe4 25. Rd7 Bc6 26. R7d6 Kf7 27. Kf1
-Ke7 28. Ke2 Rad8 29. Rxd8 Rxd8 30. Rxd8 Kxd8 31. Ke3 Ke7 32. g3 Ke6 33. h4 b5
-34. cxb5 axb5 35. Nh2 b4 36. g4 f5 37. f4 exf4+ 38. Kxf4 Be4 39. gxf5+ Bxf5 40.
-Nf3 Bb1 41. Nd4+ Kd5 42. Ke3 Bxa2 43. Nc2 Kc5 44. Nd4 g6 45. Ne6+ Kd6 46. Nd4
-Bb1 47. Nf3 Bf5 48. Kd4 Be6 49. Nd2 Kc6 50. Ke5 Bg8 51. Kf6 Kc5 52. Kg7 Bd5 53.
+1. e4 e6 { French Defense.}  2. Nf3 { Normally I get d4 here so I'm kind-of out
+of book already.}  2... d5 { I decided to play d5 and hope that it would
+transpose back into a proper French Defense.}  3. Nc3 { This attacks the d5
+pawn. It can transpose into the Nc3 French.}  3... dxe4 { By taking here I'm
+transposing into the Rubenstein after Nxe4. This is my default response to the
+Nc3 French anyway so I was happy enough to do this.}  4. Nxe4 { What else?
+There's no point in not taking the pawn I think. Something like Ne5 would be
+met with Nd7.}  4... Be7 { Following my standard Rubenstein response so far. I
+played a later game with this line and lost in that. I think if white plays
+accurately black's position is not that nice at all as I'm typically forced to
+play something like g6.}  5. d4 { Now we're back into a mainline Rubenstein.} 
+5... Nf6 { Challenging the knight on e4. Also prepares for castling.}  6. Bd3 {
+Standard response - protects the knight on e4, develops a piece and prepares
+for castling.}  6... Nxe4 { Book move. My other knight could eventually come to
+f6. The bishop on e4 is well placed in that it attacks b7 and makes it hard for
+me to develop my c8 bishop. However if my knight comes to f6 it will be
+attacked and will have to move somewhere.}  7. Bxe4 Nd7 { Developing my knight.
+Threatening to come to f6 while also supporting the push c5.}  8. O-O {
+Castles. King is now safe and with the open e-file the rook can come to e1.} 
+8... c5 { Attacks the d pawn and gains black some space. This is played in
+nearly all French variations. In fact as far as I can see it's a major move in
+a lot of black openings - e4 with French and Sicilian and also useful in d4
+openings. This was new to me as in school when learning chess we always put a
+knight on c6, blocking in this pawn, and leading to stodgy play quite often.} 
+9. dxc5 Nxc5 10. Qe2 Nxe4 11. Qxe4 O-O 12. Bf4 Bf6 13. Be5 Bxe5 14. Nxe5 Qd5
+15. Qe3 f6 16. Nf3 e5 17. Rfd1 Qf7 18. Rd6 Bd7 19. Rad1 Bc6 20. b3 a6 21. c4
+Rfe8 22. Qb6 Qg6 23. Qe3 Qe4 24. Qxe4 Bxe4 25. Rd7 Bc6 26. R7d6 Kf7 27. Kf1 Ke7
+28. Ke2 Rad8 29. Rxd8 Rxd8 30. Rxd8 Kxd8 31. Ke3 Ke7 32. g3 Ke6 33. h4 b5 34.
+cxb5 axb5 35. Nh2 b4 36. g4 f5 37. f4 exf4+ 38. Kxf4 Be4 39. gxf5+ Bxf5 40. Nf3
+Bb1 41. Nd4+ Kd5 42. Ke3 Bxa2 43. Nc2 Kc5 44. Nd4 g6 45. Ne6+ Kd6 46. Nd4 Bb1
+47. Nf3 Bf5 48. Kd4 Be6 49. Nd2 Kc6 50. Ke5 Bg8 51. Kf6 Kc5 52. Kg7 Bd5 53.
 Kxh7 Kd4 54. Kxg6 Kd3 55. Nf1 ( 55. Nc4 Bxc4 56. bxc4 b3 57. h5 b2 58. h6 b1=Q
 59. h7 Kd4+ 60. Kg7 Qb7+ 61. Kh8 Qf7 62. c5 ) 55... Bxb3 56. Kf5 Bc2 57. Ke5 b3
  0-1
+
