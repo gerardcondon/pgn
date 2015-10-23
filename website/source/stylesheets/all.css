@@ -1,9 +1,14 @@
 @charset "utf-8";
 
+@import url("fonts/pgn4web-font-LiberationSans.css");
+@import url("fonts/pgn4web-font-ChessSansUsual.css");
+
+/*
 body {
   background: #d4d4d4 url("../images/background.png");
   text-align: center;
   font-family: sans-serif; }
+*/
 
 h1 {
   color: rgba(0, 0, 0, .3);
@@ -53,3 +58,100 @@ h1 {
     -webkit-transform: scale(1);
   }
 }
+
+
+/* -----------------  PGN CSS ------------------ */
+
+
+.boardTable {
+  border-style: double;
+  border-color: black;
+  border-width: 3px;
+  box-shadow: 0px 0px 15px #AAAAAA;
+}
+
+.pieceImage {
+  width: 48px;
+  height: 48px;
+}
+
+.whiteSquare,
+.blackSquare,
+.highlightWhiteSquare,
+.highlightBlackSquare {
+  width: 48px;
+  height: 48px;
+}
+
+.whiteSquare,
+.highlightWhiteSquare {
+  background: #EFF4EC;
+}
+
+.blackSquare,
+.highlightBlackSquare {
+  background: #C6CEC3;
+}
+
+.highlightWhiteSquare,
+.highlightBlackSquare {
+  background: #DAF4D7;
+}
+
+.selectControl {
+/* a "width" attribute here must use the !important flag to override default settings */
+}
+
+.optionSelectControl {
+}
+
+.buttonControlPlay,
+.buttonControlStop,
+.buttonControl {
+/* a "width" attribute here must use the !important flag to override default settings */
+}
+
+.buttonControlSpace {
+/* a "width" attribute here must use the !important flag to override default settings */
+}
+
+.searchPgnButton {
+/* a "width" attribute here must use the !important flag to override default settings */
+}
+
+.searchPgnExpression {
+/* a "width" attribute here must use the !important flag to override default settings */
+}
+
+.move,
+.variation {
+  font-weight: normal;
+  text-decoration: none;
+}
+
+.move,
+.variation,
+.commentMove {
+  font-family: 'pgn4web ChessSansUsual', 'pgn4web Liberation Sans', sans-serif;
+}
+
+a.move,
+a.variation,
+.commentMove {
+  white-space: nowrap;
+}
+
+.move {
+  color: black;
+}
+
+.comment,
+.variation {
+  color: gray;
+}
+
+.moveOn,
+.variationOn {
+  background: #DAF4D7;
+}
+
