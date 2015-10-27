@@ -81,3 +81,13 @@ task :create_tournament do
 	serializer = TournamentSerializer.new(tournament: tournament)
 	serializer.createOnDisk
 end
+
+namespace :website do
+
+desc "Process all collections "
+task :parse_collections do
+	CollectionParser.parse "collections/bronstein-zurich-1953.pgn"
+end
+
+
+end
