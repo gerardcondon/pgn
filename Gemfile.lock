@@ -10,6 +10,7 @@ GEM
     celluloid (0.16.0)
       timers (~> 4.0.0)
     chunky_png (1.3.4)
+    coderay (1.1.0)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -45,6 +46,7 @@ GEM
       celluloid (~> 0.16.0)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
+    method_source (0.8.2)
     middleman (3.3.12)
       coffee-script (~> 2.2)
       compass (>= 1.0.0, < 2.0.0)
@@ -81,6 +83,10 @@ GEM
       tilt (~> 1.4.1)
     padrino-support (0.12.5)
       activesupport (>= 3.1)
+    pry (0.10.3)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
+      slop (~> 3.4)
     rack (1.6.4)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -104,6 +110,7 @@ GEM
       rspec-support (~> 3.2.0)
     rspec-support (3.2.2)
     sass (3.4.16)
+    slop (3.6.0)
     sprockets (2.12.4)
       hike (~> 1.2)
       multi_json (~> 1.0)
@@ -133,5 +140,6 @@ DEPENDENCIES
   constructor
   highline
   middleman
+  pry
   rspec
   rspec-its

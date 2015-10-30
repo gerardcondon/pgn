@@ -17,8 +17,8 @@ module PGN
 		white: "White",
 		black: "Black",
 		result: "Result"
-	}	
-	
+	}
+
 end
 
 class PgnGame

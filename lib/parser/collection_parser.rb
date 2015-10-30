@@ -1,21 +1,34 @@
 require "constructor"
+require_relative "pgn_parser.rb"
 require_relative "../collection.rb"
 
 class CollectionParser
-  constructor :file_path, :accessors => true
-    
+  constructor :text, :accessors => true
+
+  def find_player(players, player_name)
+    players.fetch(player_name) { |player_name| Player.new(name: player_name, elo: nil)}
+  end
+
+  def self.parse text
+    parser = CollectionParser.new(text: text).parse
+  end
+
   def parse
-    file = File.read(file_path)
-    games = file.split(/^\[Event/)
-    pgn_parsers = games.map {|game| PgnParser.parse(game) }
-    # Create Collection from first game
-    pgn_games = pgn_parsers.each{ |pgn_game| 
-      # Update Max Rounds
-      # Get White Player
-      # Get Black Player
-      # add new game to the collection PgnGame.new pgn_game
+    games = text.split(/^\[Event/).reject { |t| t.empty? }
+    pgn_parsers = games.map {|game| PgnParser.parse("[Event#{game}") }
+    collection = Collection.new(event: pgn_parsers[0].event, date: pgn_parsers[0].date, site: pgn_parsers[0].site)
+    players = {};
+    pgn_parsers.each{ |pgn_game|
+      collection.number_of_rounds = [collection.number_of_rounds, pgn_game.round.to_i].max
+      white_player = find_player(players, pgn_game.white);
+      black_player = find_player(players, pgn_game.black);
+      collection.addGame(PgnGame.new(
+        round: pgn_game.round,
+        white: white_player,
+        black: black_player,
+        result: pgn_game.result
+      ))
     }
-    #update collection rounds
-    #return Collection.new :event, :date, :number_of_rounds, :site, :games
+    collection
   end
 end

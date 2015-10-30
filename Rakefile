@@ -3,6 +3,7 @@ require "pathname"
 require "ostruct"
 require_relative "lib/pgn_game"
 require_relative "lib/tournament"
+require_relative "lib/parser/collection_parser"
 
 MY_NAME = "Condon, Gerard"
 DEFAULT_SITE = "Cork, Ireland"
@@ -86,7 +87,13 @@ namespace :website do
 
 desc "Process all collections "
 task :parse_collections do
-	CollectionParser.parse "collections/bronstein-zurich-1953.pgn"
+	pgn_files = Dir.glob("collections/*.pgn")
+	collections_yaml = pgn_files.map do |pgn_file|
+		collection = CollectionParser.parse IO.read(pgn_file)
+		presenter = YamlCollectionPresenter.new(collection: collection)
+		presenter.to_yaml
+	end
+	IO.write("website/data/collections.yaml", collections_yaml.join("\n"))
 end
 
 

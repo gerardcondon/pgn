@@ -82,3 +82,17 @@ activate :deploy do |deploy|
   # deploy.strategy = :submodule      # commit strategy: can be :force_push or :submodule, default: :force_push
   # deploy.commit_message = 'custom-message'      # commit message (can be empty), default: Automated commit at `timestamp` by middleman-deploy `version`
 end
+
+helpers do
+  def chess_collection_file_name event_name
+    name_without_spaces = event_name.downcase.strip.gsub(' ', '-')
+    ascii_name = name_without_spaces.gsub(/[äöü]/) do |match|
+      case match
+        when "ä" then 'a'
+        when "ö" then 'o'
+        when "ü" then 'u'
+      end
+    end
+    ascii_name.gsub(/[^\w-]/, '')
+  end
+end
