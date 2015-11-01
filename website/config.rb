@@ -45,9 +45,15 @@ end
 
 # Proxy pages (https://middlemanapp.com/advanced/dynamic_pages/)
 data.collections.each do |collection|
-file_name = chess_collection_file_name(collection.event)
-proxy "/#{file_name}/#{file_name}.html", "/collections/collection.html",
-  :locals => {:collection => data[file_name] }, :ignore => true
+  file_name = chess_collection_file_name(collection.event)
+  proxy "/#{file_name}/#{file_name}.html", "/collections/collection.html",
+    :locals => {:collection => data[file_name] }, :ignore => true
+  game_number = 1
+  data[file_name].games.each do |game|
+    proxy "/#{file_name}/" + chess_collection_file_name(game.white + "-" + game.black) + ".html", "/collections/game.html",
+      :locals => {:game => data[file_name], :game_number => game_number}, :ignore => true
+    game_number += 1
+  end
 end
 ###
 # Helpers
