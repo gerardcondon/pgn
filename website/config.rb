@@ -24,10 +24,31 @@
 #   page "/admin/*"
 # end
 
-# Proxy pages (https://middlemanapp.com/advanced/dynamic_pages/)
-# proxy "/this-page-has-no-template.html", "/template-file.html", :locals => {
-#  :which_fake_page => "Rendering a fake page with a local variable" }
 
+helpers do
+  def chess_collection_file_name event_name
+    name_without_spaces = event_name.downcase.strip.gsub(' ', '-')
+    ascii_name = name_without_spaces.gsub(/[äöü]/) do |match|
+      case match
+        when "ä" then 'a'
+        when "ö" then 'o'
+        when "ü" then 'u'
+      end
+    end
+    ascii_name.gsub(/[^\w-]/, '')
+  end
+
+  def row_colour_for_round round
+    ["active", "success", "info", "warning", "danger"][round % 5]
+  end
+end
+
+# Proxy pages (https://middlemanapp.com/advanced/dynamic_pages/)
+data.collections.each do |collection|
+file_name = chess_collection_file_name(collection.event)
+proxy "/#{file_name}/#{file_name}.html", "/collections/collection.html",
+  :locals => {:collection => data[file_name] }, :ignore => true
+end
 ###
 # Helpers
 ###
@@ -81,18 +102,4 @@ activate :deploy do |deploy|
   # deploy.branch   = 'custom-branch' # default: gh-pages
   # deploy.strategy = :submodule      # commit strategy: can be :force_push or :submodule, default: :force_push
   # deploy.commit_message = 'custom-message'      # commit message (can be empty), default: Automated commit at `timestamp` by middleman-deploy `version`
-end
-
-helpers do
-  def chess_collection_file_name event_name
-    name_without_spaces = event_name.downcase.strip.gsub(' ', '-')
-    ascii_name = name_without_spaces.gsub(/[äöü]/) do |match|
-      case match
-        when "ä" then 'a'
-        when "ö" then 'o'
-        when "ü" then 'u'
-      end
-    end
-    ascii_name.gsub(/[^\w-]/, '')
-  end
 end

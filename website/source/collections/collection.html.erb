@@ -1,0 +1,44 @@
+---
+title: Collection Index Page
+---
+
+<div class="container">
+<div class="row">
+
+<h1><%= collection.event %></h1>
+
+<p>Number of Rounds = <%= collection.number_of_rounds %></p>
+
+<table class="table table-hover table-striped table-bordered">
+    <thead>
+        <tr>
+          <th>Round Number</th>
+          <th>White</th>
+          <th>Black</th>
+          <th>Result</th>
+        </tr>
+    </thead>
+
+    <tbody>
+    <% collection.games.each do |game| %>
+        <% game_link = chess_collection_file_name(game.white + "-" + game.black) + ".html" %>
+        <tr class='<%= row_colour_for_round(game.round) %> clickable-row' data-href='<%= game_link %>'>
+            <td><%= game.round %></td>
+            <td><%= game.white %></td>
+            <td><%= game.black %></td>
+            <td><%= game.result %></td>
+        </tr>
+    <% end %>
+    </tbody>
+</table>
+
+</div>
+</div>
+
+<script>
+jQuery(document).ready(function($) {
+    $(".clickable-row").click(function() {
+        window.document.location = $(this).data("href");
+    });
+});
+</script>
