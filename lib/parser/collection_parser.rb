@@ -14,8 +14,8 @@ class CollectionParser
   end
 
   def parse
-    games = text.split(/^\[Event/).reject { |t| t.empty? }
-    pgn_parsers = games.map {|game| PgnParser.parse("[Event#{game}") }
+    games = text.split(/^\[Event /).reject { |t| t.empty? }
+    pgn_parsers = games.map {|game| PgnParser.parse("[Event #{game}") }
     collection = Collection.new(event: pgn_parsers[0].event, date: pgn_parsers[0].date, site: pgn_parsers[0].site)
     players = {};
     pgn_parsers.each{ |pgn_game|

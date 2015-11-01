@@ -19,11 +19,21 @@ end
 class YamlCollectionPresenter
   constructor :collection, readers: true
 
-  def to_yaml
-    ["- event: \"#{collection.event}\"",
-     "  number_of_rounds: #{collection.number_of_rounds}",
-     "  site: \"#{collection.site}\"",
-     "  date: \"#{collection.date}\""]
+  def metadata_as_yaml prefix = ""
+    ["#{prefix}event: \"#{collection.event}\"",
+     "#{prefix}number_of_rounds: #{collection.number_of_rounds}",
+     "#{prefix}site: \"#{collection.site}\"",
+     "#{prefix}date: \"#{collection.date}\""]
 		.join("\n") + "\n"
+  end
+
+  def metadata_as_yaml_sequence_entry
+    metadata_as_yaml("  ").gsub(/\A /, "-")
+  end
+
+  def to_yaml
+    metadata = metadata_as_yaml
+    collection_str = collection.games.map {|game| YamlPgnGamePresenter.new(game: game).to_yaml_sequence_entry }.join("\n")
+    metadata + "games: \n" + collection_str
   end
 end

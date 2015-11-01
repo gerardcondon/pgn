@@ -14,7 +14,7 @@ describe "Parsing a collection and outputting YAML" do
   describe "A YamlCollectionPresenter" do
     it "can convert a collection pgn file to yaml" do
       presenter = YamlCollectionPresenter.new(collection: collection)
-      expect(presenter.to_yaml).to eq EXPECTED_YAML
+      expect(presenter.metadata_as_yaml_sequence_entry).to eq EXPECTED_YAML
     end
   end
 end

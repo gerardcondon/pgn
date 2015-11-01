@@ -42,3 +42,19 @@ class PgnGame
 		.join("\n") + "\n"
 	end
 end
+
+class YamlPgnGamePresenter
+  constructor :game, readers: true
+
+  def to_yaml prefix = ""
+    ["#{prefix}white: \"#{game.white.name}\"",
+     "#{prefix}black: \"#{game.black.name}\"",
+     "#{prefix}result: \"#{game.result}\"",
+     "#{prefix}round: #{game.round}"]
+		.join("\n")
+  end
+
+  def to_yaml_sequence_entry
+    to_yaml("  ").gsub(/\A /, "-")
+  end
+end
