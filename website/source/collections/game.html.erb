@@ -5,7 +5,6 @@ title: Game
 <div class="container-fluid">
 <div class="row">
 
-<script src="../javascripts/pgn4web.js" type="text/javascript"></script>
 <script src="../fonts/chess-informant-NAG-symbols.js" type="text/javascript"></script>
 
 <script type="text/javascript">
@@ -17,6 +16,7 @@ title: Game
     SetHighlightOption(false);
     SetCommentsIntoMoveText(true);
     SetInitialGame(<%= game_number %>);
+    clearShortcutSquares("ABCDEFGH", "12345678");
 </script>
 
 <div class="col-sm-4" style="width: 400px;">

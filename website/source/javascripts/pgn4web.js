@@ -394,29 +394,29 @@ function pgn4web_handleKey(e) {
       SetHighlight(!highlightOption);
       break;
 
-    case 88: // x
-      randomGameRandomPly();
-      break;
+    // case 88: // x
+    //   randomGameRandomPly();
+    //   break;
 
-    case 67: // c
-      if (numberOfGames > 1) { Init(Math.floor(Math.random()*numberOfGames)); }
-      break;
+    // case 67: // c
+    //   if (numberOfGames > 1) { Init(Math.floor(Math.random()*numberOfGames)); }
+    //   break;
 
-    case 86: // v
-      if (numberOfGames > 1) { Init(0); }
-      break;
+    // case 86: // v
+    //   if (numberOfGames > 1) { Init(0); }
+    //   break;
 
-    case 66: // b
-      Init(currentGame - 1);
-      break;
+    // case 66: // b
+    //   Init(currentGame - 1);
+    //   break;
 
-    case 78: // n
-      Init(currentGame + 1);
-      break;
+    // case 78: // n
+    //   Init(currentGame + 1);
+    //   break;
 
-    case 77: // m
-      if (numberOfGames > 1) { Init(numberOfGames - 1); }
-      break;
+    // case 77: // m
+    //   if (numberOfGames > 1) { Init(numberOfGames - 1); }
+    //   break;
 
     case 80: // p
       if (e.shiftKey) { SetCommentsOnSeparateLines(!commentsOnSeparateLines); }
@@ -4067,11 +4067,11 @@ var waitForDoubleLeftTouchTimer = null;
 function customFunctionOnTouch(deltaX, deltaY) {
   if (Math.max(Math.abs(deltaX), Math.abs(deltaY)) < 13) { return; }
   if (Math.abs(deltaY) > 1.5 * Math.abs(deltaX)) { // vertical up or down
-    if (numberOfGames > 1) {
-      if ((currentGame === 0) && (deltaY < 0)) { Init(numberOfGames - 1); }
-      else if ((currentGame === numberOfGames - 1) && (deltaY > 0)) { Init(0); }
-      else { Init(currentGame + sign(deltaY)); }
-    }
+    // if (numberOfGames > 1) {
+    //   if ((currentGame === 0) && (deltaY < 0)) { Init(numberOfGames - 1); }
+    //   else if ((currentGame === numberOfGames - 1) && (deltaY > 0)) { Init(0); }
+    //   else { Init(currentGame + sign(deltaY)); }
+    // }
   } else if (Math.abs(deltaX) > 1.5 * Math.abs(deltaY)) {
     if (deltaX > 0) { // horizontal right
       if (isAutoPlayOn) { GoToMove(StartPlyVar[CurrentVar] + PlyNumberVar[CurrentVar]); }
