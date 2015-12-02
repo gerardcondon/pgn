@@ -1,21 +1,74 @@
 [Event "Cork Club Championship 2014-2015"]
 [Site "Cork, Ireland"]
 [Date "2015.02.13"]
-[TimeControl "5400+15"]
 [Round "4"]
 [White "881"]
-[WhiteElo "1655"]
 [Black "Condon, Gerard"]
-[BlackElo "0"]
 [Result "1-0"]
+[BlackElo "0"]
+[ECO "C00"]
+[TimeControl "5400+15"]
+[WhiteElo "1655"]
 
-1. e4 e6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Be7 5. d4 Nf6 6. Bd3 Nxe4 7. Bxe4 Nd7 8.
-c3 c5 9. O-O Nf6 { [%clk 1:28:00]}  10. Bc2 O-O { [%clk 1:27:00]}  ( 10... b6
-11. Bg5 Bb7 12. Qd3 g6 13. Ba4+ Nd7 14. dxc5 ) 11. Bg5 cxd4 { [%clk 1:22:00]}
-( 11... Bd7 12. Qd3 g6 13. Ne5 ) 12. Nxd4 Nd5 13. Qd3 g6 { [%clk 1:21:00]}  14.
-Bh6 Re8 { [%clk 1:19:00]}  15. Rad1 Bg5 { [%clk 1:14:00]}  16. Bxg5 Qxg5 {
-[%clk 1:14:00]}  17. Nf3 Qe7 { [%clk 1:09:00]}  18. Ba4 Rf8 { [%clk 1:06:00]}
-19. Rfe1 Nf6 { [%clk 1:04:00]}  20. Ne5 a6 { [%clk 0:53:00]}  21. Qf3 Kg7 {
-[%clk 0:42:00]}  22. Bb3 Qc7 { [%clk 0:38:00]}  23. Rd4 Nd7 { [%clk 0:26:00]}
-24. Ng4 e5 { [%clk 0:25:00]}  25. Rxd7 Qb6 { [%clk 0:15:23]}  26. Rxf7+ Rxf7
-27. Qxf7+ Kh8 28. Qf8#  1-0
+1. e4 e6 { French Defence}  2. Nf3 { I wasn't too sure what to do about this
+move.}  2... d5 { I just continued on with a normal French move.}  3. Nc3 {
+This move protects his e pawn and attacks the pawn on d5.}  3... dxe4 { I
+decided to take the pawn and hopefully end up in some Rubinstein variation.} 
+4. Nxe4 { What else?}  4... Be7 { I'm not too sure about this move now after
+the game. If this bishop is required to take on c5 then I've lost a tempo. If I
+was to play this game again, I would play this with Nd7. That's a more flexible
+move as the knight always goes there in the Rubinstein whereas the bishop can
+come to e7 or straight to c5.}  5. d4 { Now we're back in the Rubinstein.} 
+5... Nf6 { Standard developing move.}  6. Bd3 { Normal move in these lines.
+This bishop can be quite powerful when combined with the queen.}  6... Nxe4 {
+Took the knight. It's a line I suppose. Might want to have played Nd7 first.} 
+7. Bxe4 { Forced.}  7... Nd7 { Now I play Nd7. This knight is heading for f6.} 
+8. c3 { This protects the c pawn and allows the queen to come out on the
+diagonal if needed. Also blocks any checks from Qa5. This check can be useful
+to recapture on c5 after dxc5.}  8... c5 { This is a standard advance in the
+Frebch. You have to challenge White's central pawns.}  9. O-O { Sensible move.}
+ 9... Nf6 { [%clk 1:28:00] Threatens the bishop. You have to knock it off that
+diagonal to have any chance of developing the queenside.}  10. Bc2 { Now I see
+why c3 was such a handy move earlier. Without that the bishop would have had to
+go to d3 and then it would be two additional moves for the queen to set up the
+b1-h7 battery. Now the queen can just come to d3. Be7 was a waste of a move as
+it gave him the tempo to make this move.}  10... O-O { [%clk 1:27:00] May have
+been a touch too early. I never got my queenside developed during the game so
+maybe Bd7 was better here.}  ( 10... b6 11. Bg5 Bb7 12. Qd3 g6 13. Ba4+ Nd7 14.
+dxc5 ) ( 10... Bd7 11. Bg5 Bc6 12. Qd3 g6 { am I losing a pawn here to dxc5?} 
+) 11. Bg5 { The pin was annoying but I think I paid too much attention to it.
+I've seen in notes on the Rubinstein to ignore this pin and that Bxf6, gxf6
+isn't that bad for black. You can play f5 and the dark squared bishop can come
+around. It can be hard for white to get pieces over to attack. Also Kh8 allows
+Rg8 and you have an open file against White's kingside.}  11... cxd4 { [%clk
+1:22:00] I took here as I was afraid of my bishop getting dragged over to c5
+and allowing Bxf6. I think I should have allowed that and tried to develop my
+queenside. Could I get away with b6? Or should I have played Bd7. h6 was also
+an option as after Qd3, g6 the bishop wouldn't have been able to go to h6.}  (
+11... Bd7 12. Qd3 g6 13. Ne5 ) ( 11... h6 12. Bh4 Nd5 { This looks a lot better
+than the game continuation}  ) 12. Nxd4 { All I've done is to bring his knight
+to a more advanced square.}  12... Nd5 { I've seen this type of move as part of
+my black QGD repertoire against d4. I wanted to try to exchange bishops but I
+think this move is only good if you play h6 first clarifying what white wants
+to do with the bishop.}  13. Qd3 { Threatens mate on h7, develops the queen and
+provides a square for the rook on d1. And it forces a weakness in my pawn
+structure. Not a bad move.}  13... g6 { [%clk 1:21:00] Now the bishop can come
+to h6. And there are lots of dark square weaknesses forming around my king.} 
+14. Bh6 { Forces the rook to move. It is very hard to shift this bishop and it
+supports various mating threats.}  14... Re8 { [%clk 1:19:00] Has to go
+somewhere.}  15. Rad1 { His rook is now opposing my queen. All his pieces are
+developed.}  15... Bg5 { [%clk 1:14:00] I wanted to get rid of the White
+bishop. Thought if I could reduce the amount of stackers I would have a better
+chance. Probably should have played Bd7 here. I needed to get my queenside
+out.}  16. Bxg5 { Forced.}  16... Qxg5 { [%clk 1:14:00] Forced.}  17. Nf3 { Now
+the knight wins time on the queen. Maybe trading bishops via f8 may have been
+better if that's what I wanted to do.}  17... Qe7 { [%clk 1:09:00] My queen is
+doing ok on this square. It guards a lot of the entry squares and I still have
+hope of Bd7.}  18. Ba4 { Job done on this diagonal so off to a new one to
+attack the rook.}  18... Rf8 { [%clk 1:06:00] Bd7 doesn't work due to c4
+winning the knight. The rook can't go to d8 as c4 again wins the knight.}  19.
+Rfe1 Nf6 { [%clk 1:04:00]}  20. Ne5 a6 { [%clk 0:53:00]}  21. Qf3 Kg7 { [%clk
+0:42:00]}  22. Bb3 Qc7 { [%clk 0:38:00]}  23. Rd4 Nd7 { [%clk 0:26:00]}  24.
+Ng4 e5 { [%clk 0:25:00]}  25. Rxd7 Qb6 { [%clk 0:15:23]}  26. Rxf7+ Rxf7 27.
+Qxf7+ Kh8 28. Qf8#  1-0
+

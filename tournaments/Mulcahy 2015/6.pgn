@@ -89,8 +89,7 @@ blocks in his rook. Wouldn't be doing anything on g4.}  16... e5 { This creates
 a route for the queen to go back to f7 or e6. It also opens up potential routes
 for the c8 bishop. Now my central pawns are on the other colour to the bishop
 so it is not bad anymore. The e pawn is now protected. With this new pawn
-structure White can't bring his knight to G5.  
-I don't think I thought much
+structure White can't bring his knight to G5. I don't think I thought much
 about alternative moves here. Thus was just a logical consequence of the last
 move. I don't think there are any great alternatives. If I put anything on the
 d file eg Bd7 or Rd8 then I might get into trouble after my queen is forced to
@@ -115,12 +114,12 @@ rooks in active positions.}  22. Qb6 { I didn't see this move and I was a bit
 worried that his pieces could come crashing in. The thing is though I can kind
 of ignore it. If he plays Rd8 then I can trade off rooks and my position looks
 solid enough.}  22... Qg6 { None of my other pieces can move so I played this
-crude threat.  I didn't expect him to miss it but you never know. In any case
-he would need to deal with the threat and I can probably make active moves with
-my queen.}  23. Qe3 { If he played Nh5 then probably Qg5. His move stops the
+crude threat. I didn't expect him to miss it but you never know. In any case he
+would need to deal with the threat and I can probably make active moves with my
+queen.}  23. Qe3 { If he played Nh5 then probably Qg5. His move stops the
 threat against the knight but it does mean moving the queen backwards. This
 eases the pressure on my back rank.}  23... Qe4 { I wonder if I could have
-played Qc2 but I guess Rd2 would have stopped that.  Or even a4. That would get
+played Qc2 but I guess Rd2 would have stopped that. Or even a4. That would get
 the pawns closer to threatening the bishop. This time I offer a queen exchange
 but I won't get an IQP.}  24. Qxe4 { He exchanged the queens. I wonder if Qd2
 would have been better here. Should he have kept the queens on?}  24... Bxe4 {
@@ -133,83 +132,143 @@ Now I can start to contest the d file. If I trade off rooks I should be better
 as a bishop is better than a knight with pawns on both sides of the board.} 
 28. Ke2 { Moving his King to the centre.}  28... Rad8 { This starts a trade of
 rooks. I couldn't leave him own the d file and what else were my rooks going to
-do.}  29. Rxd8 Rxd8 30. Rxd8 Kxd8 31. Ke3 Ke7 32. g3 Ke6 33. h4 b5 34. cxb5
-axb5 35. Nh2 { This move allows me to freeze his queenside pawns with a single
-pawn of my own, on my bishops colour. Did he have an alternative though? If he
-didn't move the knight and played a3 or b4 could I take the knight and
-penetrate with my king?}  ( 35. a3 $1 { this is the key move I think}  35...
-Bd5 { And now b4 would be the same win as below.}  ( 35... Bxf3 36. Kxf3 Kd5
-37. Ke3 { this way doesn't work for Black.}  ) 36. a4 { so let's try a4.} 
-36... Bxb3 ( 36... b4 { This way I would get to preserve having pawns on both
-sides of the board but my pawn can't be defended by my bishop. On the other
-hand his knight or king would be tied down to defending b3. Think this is
-better than trading one of his pawns for mine.}  37. Nd2 Kd7 { Can any side
-make progress here?}  38. Nc4 { I don't think I can take this. The split pawns
-would freeze my king}  38... Bxc4 39. bxc4 Kc6 40. Kd3 Kc5 41. Kc2 Kxc4 { or
-maybe not. This looks ok for me.}  42. Kb2 Kc5 43. Kb3 { and now I try to
-create a passed pawn on the kingside}  43... f5 44. a5 Kb5 45. a6 Kxa6 46. Kxb4
-Kb6 47. Kc4 Kc6 48. Kd3 Kd5 { probably winning for Black}  ) ( 36... bxa4 {
-this way leaves white with a futher passed pawn than taking with the bishop but
-either way I lose having pawns on both sides of the board.}  37. bxa4 { And
-what now? If the pawn goes to a5 it can only be taken with my king so should I
-move the king to queenside? The bishop on d5 stops white's king for the moment
-and his knight will take a few moves to get into the action.}  37... Kd7 (
-37... Bxf3 { if I take the knight can white's king come around?}  38. Kxf3 Kd6
-39. Ke4 Kc5 40. Kf5 Kb4 41. Ke6 Kxa4 42. Kf7 Kb4 43. Kxg7 Kc4 44. Kxh7 { This
-is lost for Black so I need to keep the bishop on the board in this line.}  )
-38. Nd2 Kc6 39. Ne4 Kb6 40. Nc3 Bc6 { My king is forced over to this side of
-the board. This has to be good for white. Even if I win the a pawn, all my
-pawns are on one side of the board. That is better for the knight.}  41. f4
-exf4+ 42. Kxf4 Kc5 43. a5 Kb4 44. Ne2 Kxa5 45. Nd4 Bd5 46. Nf5 ) 37. axb5 Bd5 )
-( 35. b4 Bxf3 36. Kxf3 Kd5 37. Ke3 Kc4 38. a3 Kb3 39. Kd3 Kxa3 40. Kc3 { Is
-this winning for Black? I can create a passed pawn with my kingside majority
-and when White's king goes to the kingside, I can take the b pawn and promote
-my b-pawn.}  40... f5 41. h5 g5 42. hxg6 hxg6 43. f3 e4 44. fxe4 fxe4 45. Kd4
-Kxb4 46. Kxe4 Kc3 { and Black wins}  ) 35... b4 { Now I get to play the Deep
-Freeze, nulifying his queenside pawn majority. I had just read about this in my
-Silman Endgame book beforehand so this was a stroke of luck, it appearing on
-the board. Also because my pawn is so far advanced, he can't play a3 as I can
-take it and queen my pawn before he queens his b pawn. If the pawns were moved
-up one rank then he could push a4 and we would queen at the same time. This has
-implications for a lot of the lines that follow as he never had that a pawn
-option.}  36. g4 f5 37. f4 exf4+ 38. Kxf4 Be4 39. gxf5+ Bxf5 40. Nf3 Bb1 41.
-Nd4+ { The check looks the obvious move to play but I wonder could he protected
-his pawn by playing Nd2 instead.}  ( 41. Nd2 Bxa2 { Now if I take, I'm not
-getting out. But do I need to}  ( 41... Bf5 { I have to come back but how do I
-get the win if I can't get one of those queenside pawns? Don't know that I
-can.} ) 42. h5 { computer line}  ( 42. Ke4 h5 { the computer says that this is
-very good for Black. So maybe Bxa2 would have been a good practical choice.
-White would have had to find h5 on the previous move in order to draw.}  )
-42... Kd5 43. Ke3 g5 44. hxg6 hxg6 45. Kd3 g5 46. Nf3 g4 47. Nd4 Bb1+ 48. Ke3
-Bg6 ) 41... Kd5 { after this the a pawn drops and my bishop gets back out.} 
-42. Ke3 ( 42. Nf5 { this isn't an option. Even though his king is over on that
-side of the board, he can't take both my pawns. Having them side by side means
-that he has to come at them viae6 and f7.}  42... Bxf5 43. Kxf5 Kd4 44. Ke6 {
-this is interesting. His king can't take both my pawns as I can push on to h5
-and then my king gets to g4 before he gets to g5.}  ( 44. h5 g6+ 45. hxg6 hxg6+
-46. Kxg6 Kc3 47. Kf5 Kb2 48. Ke4 Kxa2 49. Kd3 Kxb3 { game over. If I had a rook
-pawn there could have been drawing chances due to stalemate. However with a
-knight pawn I had time to capture both his pawns before his king got over. All
-I have to do with a non-rook pawn is get the king in front of it on the 6th
-rank.}  ) 44... Ke4 45. Kf7 h5 46. Kxg7 Kf5 ) 42... Bxa2 43. Nc2 Kc5 44. Nd4 g6
-45. Ne6+ Kd6 46. Nd4 Bb1 47. Nf3 Bf5 48. Kd4 Be6 49. Nd2 Kc6 50. Ke5 Bg8 51.
-Kf6 Kc5 52. Kg7 { I was getting nervous now as I lose both my pawns. I thought
-I'd messed things up and just hoped I could capture his b3 pawn soon.}  52...
-Bd5 { only square}  53. Kxh7 { there goes one.}  53... Kd4 { Now the king gets
-into position to drive away the knight and allow the bishop to capture the
-pawn. Had to be careful of knight checks and forks here. I was lucky that I
-lost my first game in the club championship to two knight forks as I was really
-on my guard here. If I hadn't lost that game, I'd have lost this game.}  54.
-Kxg6 { there goes the other. Now his pawn has a free run down the board. I was
-worried that I would have to trade my bishop for it before I won the b pawn.} 
-54... Kd3 { Attacks the knight from a position that I can't be checked.}  (
-54... Kc3 { Why didn't I just go here? Probably afraid of checks but the check
-on b1 is harmless. Nc4 is less of a threat now as I can just take the pawn.} 
-55. Nb1+ ( 55. Nc4 Kxb3 56. Nd2+ Kc3 57. Nf1 ) 55... Kc2 { I win the knight
-here}  ) 55. Nf1 { Now the knight is out of the game and can never get back
-into it in time. Black's king blocks the routes to the b pawn. It would take
-about five hops to get near the queening square. In knight versus bishop
-endgames this is the best scenario for the bishop. It can defend against
+do.}  29. Rxd8 { Starts to trade off rooks. Could he have kept them on? It's
+unavoidable if I want to trade. But maybe he could have made a different move
+to improve his position and force me to do the trading. That's not possible
+with the rook on d6 but if the rook was on d2 or d3 and could be protected by
+his King then he would have had a free move here. Maybe instead of going to d6
+on move 26 he should have gone back further. Advancing the rook was fine when
+his queen was there to prevent my King coming over. Now that the queen is gone,
+the rook is attackable on d6.}  29... Rxd8 { Forced recapture.}  30. Rxd8 {
+I've started so I'll finish.}  30... Kxd8 { It's annoying that my King has to
+do the last recapture on d8 as it will take me a couple of moves to get it back
+to the centre.}  31. Ke3 { Centralising the King. After all the trades it's
+worth looking at the position. I don't think White has helped himself and if
+anyone is slightly better here it should be black. Also White's King is blocked
+off from the fourth rank so there's a limit as to how much he can control
+Black's King.}  31... Ke7 { Moving my King back to the centre.}  32. g3 { The
+knight was pinned to the g pawn so moving this frees up his knight to come into
+the game.}  32... Ke6 { My King is well centralised now. With my pawn structure
+it can't be easily attacked by the knight.}  33. h4 { I'm not sure what to do
+about pawns in these endgames. Should they be kept back or advanced? If they
+are advanced then they are more threatening but potentially could also be
+attacked. This move stops me playing g5. Should I have been looking to play
+that kind of move?}  33... b5 { My thinking here was that I can defend one pawn
+with the bishop but two might be tricky. Also rook pawns tend not to be as good
+as central pawns so if I can trade my rook pawn for a central pawn that should
+be an improvement.}  34. cxb5 { If he doesn't take then I split his pawns. If
+he pushes then can I round up that pawn?}  ( 34. c5 b4 35. Nd2 Kd5 36. Ne4 {
+The knight is tied to defending the c pawn at the moment. I should be able to
+manuevre the bishop somewhere to attack White's other pawns.}  ) 34... axb5 {
+Now there is more room for my King and bishop to operate in.}  35. Nh2 { This
+move allows me to freeze his queenside pawns with a single pawn of my own, on
+my bishops colour. Did he have an alternative though? If he didn't move the
+knight and played a3 or b4 could I take the knight and penetrate with my king?}
+ ( 35. a3 $1 { this is the key move I think}  35... Bd5 { And now b4 would be
+the same win as below.}  ( 35... Bxf3 36. Kxf3 Kd5 37. Ke3 { this way doesn't
+work for Black.}  ) 36. a4 { so let's try a4.}  36... Bxb3 ( 36... b4 { This
+way I would get to preserve having pawns on both sides of the board but my pawn
+can't be defended by my bishop. On the other hand his knight or king would be
+tied down to defending b3. Think this is better than trading one of his pawns
+for mine.}  37. Nd2 Kd7 { Can any side make progress here?}  38. Nc4 { I don't
+think I can take this. The split pawns would freeze my king}  38... Bxc4 39.
+bxc4 Kc6 40. Kd3 Kc5 41. Kc2 Kxc4 { or maybe not. This looks ok for me.}  42.
+Kb2 Kc5 43. Kb3 { and now I try to create a passed pawn on the kingside}  43...
+f5 44. a5 Kb5 45. a6 Kxa6 46. Kxb4 Kb6 47. Kc4 Kc6 48. Kd3 Kd5 { probably
+winning for Black}  ) ( 36... bxa4 { this way leaves white with a futher passed
+pawn than taking with the bishop but either way I lose having pawns on both
+sides of the board.}  37. bxa4 { And what now? If the pawn goes to a5 it can
+only be taken with my king so should I move the king to queenside? The bishop
+on d5 stops white's king for the moment and his knight will take a few moves to
+get into the action.}  37... Kd7 ( 37... Bxf3 { if I take the knight can
+white's king come around?}  38. Kxf3 Kd6 39. Ke4 Kc5 40. Kf5 Kb4 41. Ke6 Kxa4
+42. Kf7 Kb4 43. Kxg7 Kc4 44. Kxh7 { This is lost for Black so I need to keep
+the bishop on the board in this line.}  ) 38. Nd2 Kc6 39. Ne4 Kb6 40. Nc3 Bc6 {
+My king is forced over to this side of the board. This has to be good for
+white. Even if I win the a pawn, all my pawns are on one side of the board.
+That is better for the knight.}  41. f4 exf4+ 42. Kxf4 Kc5 43. a5 Kb4 44. Ne2
+Kxa5 45. Nd4 Bd5 46. Nf5 ) 37. axb5 Bd5 ) ( 35. b4 Bxf3 36. Kxf3 Kd5 37. Ke3
+Kc4 38. a3 Kb3 39. Kd3 Kxa3 40. Kc3 { Is this winning for Black? I can create a
+passed pawn with my kingside majority and when White's king goes to the
+kingside, I can take the b pawn and promote my b-pawn.}  40... f5 41. h5 g5 42.
+hxg6 hxg6 43. f3 e4 44. fxe4 fxe4 45. Kd4 Kxb4 46. Kxe4 Kc3 { and Black wins} 
+) 35... b4 { Now I get to play the Deep Freeze, nulifying his queenside pawn
+majority. I had just read about this in my Silman Endgame book beforehand so
+this was a stroke of luck, it appearing on the board. Also because my pawn is
+so far advanced, he can't play a3 as I can take it and queen my pawn before he
+queens his b pawn. If the pawns were moved up one rank then he could push a4
+and we would queen at the same time. This has implications for a lot of the
+lines that follow as he never had that a pawn option.}  36. g4 { Again I have
+no idea if this is good or bad. I can push my f pawn and if he takes then I've
+split his pawns. The move stops my King coming to f5.}  36... f5 { If he
+doesn't take then I can possibly get a passed central pawn.}  37. f4 { I didn't
+see this reply and now it's a bit of a mess. Have to calculate all the capture
+and the different orders.}  37... exf4+ { I took here but I wonder if creating
+the passed pawn was the better option. It would have been protected by the
+bishop.}  ( 37... e4 38. Nf1 fxg4 39. Ng3 { Now though the knight will capture
+the e pawn. Not sure if I've improved over the game continuation}  39... Kd5 {
+computer move which I never would have played}  40. Nxe4 h5 41. Ng3 Be8 42. Ne2
+Bd7 43. Ng3 g6 44. Ne4 Bf5 ) 38. Kxf4 { Forced.}  38... Be4 { I took the chance
+to put the bishop on this diagonal. Now it can menace the White pawns. The a
+pawn can't advance as Bb1 would grab it.}  39. gxf5+ { Not sure if there were
+any alternatives.}  39... Bxf5 { Forced. But now the knight can get back in the
+game.}  40. Nf3 { The knight was doing nothing on the edge and had to come to
+the centre.}  40... Bb1 { Now the bishop attacks the pawns.}  41. Nd4+ { The
+check looks the obvious move to play but I wonder could he protected his pawn
+by playing Nd2 instead.}  ( 41. Nd2 Bxa2 { Now if I take, I'm not getting out.
+But do I need to}  ( 41... Bf5 { I have to come back but how do I get the win
+if I can't get one of those queenside pawns? Don't know that I can.} ) 42. h5 {
+computer line}  ( 42. Ke4 h5 { the computer says that this is very good for
+Black. So maybe Bxa2 would have been a good practical choice. White would have
+had to find h5 on the previous move in order to draw.}  ) 42... Kd5 43. Ke3 g5
+44. hxg6 hxg6 45. Kd3 g5 46. Nf3 g4 47. Nd4 Bb1+ 48. Ke3 Bg6 ) 41... Kd5 {
+after this the a pawn drops and my bishop gets back out.}  42. Ke3 ( 42. Nf5 {
+this isn't an option. Even though his king is over on that side of the board,
+he can't take both my pawns. Having them side by side means that he has to come
+at them viae6 and f7.}  42... Bxf5 43. Kxf5 Kd4 44. Ke6 { this is interesting.
+His king can't take both my pawns as I can push on to h5 and then my king gets
+to g4 before he gets to g5.}  ( 44. h5 g6+ 45. hxg6 hxg6+ 46. Kxg6 Kc3 47. Kf5
+Kb2 48. Ke4 Kxa2 49. Kd3 Kxb3 { game over. If I had a rook pawn there could
+have been drawing chances due to stalemate. However with a knight pawn I had
+time to capture both his pawns before his king got over. All I have to do with
+a non-rook pawn is get the king in front of it on the 6th rank.}  ) 44... Ke4
+45. Kf7 h5 46. Kxg7 Kf5 ) 42... Bxa2 { I grab grab the a pawn. Now I have a
+pawn advantage and the b pawn can be attacked.}  43. Nc2 { This attacks my b
+pawn. I want to keep the b pawns on as his knight can't cover both sides of the
+board at once. If they come off then I don't know that a 2:1 advantage on one
+side of the board is convertible for bishop against knight - especially with
+his king in front of the pawns.}  43... Kc5 { Defends the b pawn. Bishop takes
+was not an option as mentioned.}  44. Nd4 { Defends the pawn and threatens a
+fork on e6 against the g pawn.}  44... g6 { Protects the pawn. The h pawn would
+be vulnerable if the knight gets to f8 as the bishop can't defend it from where
+it is now.}  45. Ne6+ { Possibly heading for f8 with check. Or just gains time
+and moves my king away from the b pawn. If Kb4 then Nd5+.}  45... Kd6 { I moved
+back here. The knight can't check me on the next move but I don't know if Kd5
+wasn't a better move as it would move my King more forward.}  46. Nd4 { Back to
+protect the pawn. I don't think trading the b pawn for the h pawn would be that
+good for him. It would be hard to get the knight back to stop the b pawn and my
+bishop could defend it from the other side of the board while the knight would
+be stuck on the queenside.}  46... Bb1 { Brings the bishop back into the game.
+Would Kd5 have been better? The knight can't move as the b pawn drops and the
+King is tied to the knight's defense. Then I could have a plan of h6, g5 and
+create a passed pawn on the kingside.}  47. Nf3 Bf5 48. Kd4 Be6 49. Nd2 Kc6 50.
+Ke5 Bg8 51. Kf6 Kc5 52. Kg7 { I was getting nervous now as I lose both my
+pawns. I thought I'd messed things up and just hoped I could capture his b3
+pawn soon.}  52... Bd5 { only square}  53. Kxh7 { there goes one.}  53... Kd4 {
+Now the king gets into position to drive away the knight and allow the bishop
+to capture the pawn. Had to be careful of knight checks and forks here. I was
+lucky that I lost my first game in the club championship to two knight forks as
+I was really on my guard here. If I hadn't lost that game, I'd have lost this
+game.}  54. Kxg6 { there goes the other. Now his pawn has a free run down the
+board. I was worried that I would have to trade my bishop for it before I won
+the b pawn.}  54... Kd3 { Attacks the knight from a position that I can't be
+checked.}  ( 54... Kc3 { Why didn't I just go here? Probably afraid of checks
+but the check on b1 is harmless. Nc4 is less of a threat now as I can just take
+the pawn.}  55. Nb1+ ( 55. Nc4 Kxb3 56. Nd2+ Kc3 57. Nf1 ) 55... Kc2 { I win
+the knight here}  ) 55. Nf1 { Now the knight is out of the game and can never
+get back into it in time. Black's king blocks the routes to the b pawn. It
+would take about five hops to get near the queening square. In knight versus
+bishop endgames this is the best scenario for the bishop. It can defend against
 threats from a long way off while the knight has limited mobility and can't get
 from side to side very easily.}  ( 55. Nc4 { This would have been a better
 choice for him in practical terms. I think I might have played something like
