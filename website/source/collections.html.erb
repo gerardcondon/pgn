@@ -1,0 +1,29 @@
+---
+title: Chess
+---
+
+<table class="table table-hover table-striped table-bordered">
+    <thead>
+        <tr>
+          <th>PGN Collection</th>
+          <th>Number of rounds</th>
+        </tr>
+    </thead>
+
+    <tbody>
+    <% data.collections.each do |collection| %>
+        <tr class='clickable-row' data-href='<%= chess_collection_file_name("#{collection.event}") + "/" + chess_collection_file_name("#{collection.event}") + ".html" %>'>
+            <td><%= collection.event %></td>
+            <td> <%= collection.number_of_rounds %></td>
+        </tr>
+    <% end %>
+    </tbody>
+</table>
+
+<script>
+jQuery(document).ready(function($) {
+    $(".clickable-row").click(function() {
+        window.document.location = $(this).data("href");
+    });
+});
+</script>

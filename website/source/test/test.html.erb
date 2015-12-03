@@ -1,5 +1,5 @@
 ---
-title: Mulcahy 2015 Game 6
+title: <%= title %>
 ---
 
 <div class="container-fluid">
@@ -10,12 +10,13 @@ title: Mulcahy 2015 Game 6
 
 <script type="text/javascript">
     "use strict";
-    SetPgnUrl("https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Mulcahy%202015/6.pgn");
+    SetPgnUrl("<%= pgn_url %>");
     SetImagePath("../images/pgn4web/alpha/48");
     SetImageType("png");
     SetShortcutKeysEnabled(true);
     SetHighlightOption(false);
     SetCommentsIntoMoveText(true);
+    SetCommentsOnSeparateLines(true);
     SetGameSelectorOptions("Select game...", false, 0, 0, 0, 15, 15, 0, 0);
 </script>
 

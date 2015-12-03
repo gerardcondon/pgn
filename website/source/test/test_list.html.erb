@@ -1,0 +1,27 @@
+---
+title: Chess
+---
+
+<table class="table table-hover table-striped table-bordered">
+    <thead>
+        <tr>
+          <th>Test Game</th>
+        </tr>
+    </thead>
+
+    <tbody>
+    <% @test_files.each do |test_file| %>
+        <tr class='clickable-row' data-href='<%= test_file[:name] %>.html'>
+            <td><%= test_file[:title] %></td>
+        </tr>
+    <% end %>
+    </tbody>
+</table>
+
+<script>
+jQuery(document).ready(function($) {
+    $(".clickable-row").click(function() {
+        window.document.location = $(this).data("href");
+    });
+});
+</script>

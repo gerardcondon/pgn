@@ -1,0 +1,33 @@
+---
+pageable: true
+per_page: 10
+---
+- page_articles.each_with_index do |article, i|
+  h1
+    = link_to article.title, article
+  p
+    = article.date.strftime('%B %e, %Y')
+    - article.tags.each do |tag|
+      span.tag-item
+        small.label.label-default
+          = tag
+  - if article.data.image_src
+    p
+      img.img-responsive src=article.data.image_src
+  = article.body
+  hr
+- if paginate
+  - if num_pages > 1
+    .well-sm
+      ul.pager
+        - if page_number > 1
+          li.previous
+            = link_to '&larr;', prev_page
+        span.text-center
+          | Page 
+          = page_number
+          |  of 
+          = num_pages
+        - if page_number < num_pages
+          li.next
+            = link_to '&rarr;', next_page
