@@ -3550,11 +3550,22 @@ function PrintHTML() {
   if (theObj = document.getElementById("GameWhite"))
   { theObj.innerHTML = gameWhite[currentGame]; }
 
+  // game text
+  var gameWhites = document.getElementsByClassName("GameWhite");
+  for (i = 0; i < gameWhites.length; i++) {
+    gameWhites[i].innerHTML = gameWhite[currentGame];
+  }
+  
   // game black
 
   if (theObj = document.getElementById("GameBlack"))
   { theObj.innerHTML = gameBlack[currentGame]; }
 
+  var gameBlacks = document.getElementsByClassName("GameBlack");
+  for (i = 0; i < gameBlacks.length; i++) {
+    gameBlacks[i].innerHTML = gameBlack[currentGame];
+  }
+  
   // game result
 
   if (theObj = document.getElementById("GameResult")) {
@@ -3563,13 +3574,28 @@ function PrintHTML() {
   }
 
   // game text
+  var gameResults = document.getElementsByClassName("GameResult");
+  for (i = 0; i < gameResults.length; i++) {
+    gameResults[i].innerHTML = gameResult[currentGame];
+    gameResults[i].style.whiteSpace = "nowrap";
+  }
+  
+  // game text
 
   if (theObj = document.getElementById("GameText")) {
     variationTextDepth = -1;
     text = '<SPAN ID="ShowPgnText">' + variationTextFromId(0); + '</SPAN>';
     theObj.innerHTML = text;
   }
-
+  
+  // game text
+  var gameTexts = document.getElementsByClassName("GameText");
+  for (i = 0; i < gameTexts.length; i++) {
+    variationTextDepth = -1;
+    text = '<SPAN ID="ShowPgnText">' + variationTextFromId(0); + '</SPAN>';
+    gameTexts[i].innerHTML = text;
+  }
+  
   setB1C1F1G1boardShortcuts(); // depend on presence of comments
 
   // game searchbox

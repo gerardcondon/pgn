@@ -28,7 +28,7 @@ Slim::Engine.set_default_options :shortcut => {
 }
 
 # Markdown settings 
-set :markdown, :tables => true, :autolink => true, :gh_blockcode => true, :fenced_code_blocks => true, :with_toc_data => true
+#set :markdown, :tables => true, :autolink => true, :gh_blockcode => true, :fenced_code_blocks => true, :with_toc_data => true
 set :markdown_engine, :redcarpet
 
 
@@ -110,7 +110,7 @@ activate :livereload
 
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
-  # blog.prefix = "blog"
+  # blog.prefix = "chess"
 
   # blog.permalink = "{year}/{month}/{day}/{title}.html"
   # Matcher for blog source files
@@ -133,7 +133,6 @@ activate :blog do |blog|
   # blog.page_link = "page/{num}"
 end
 
-page "/feed.xml", layout: false
 page "/sitemap.xml", layout: false
 
 ###
@@ -149,8 +148,10 @@ set :site_description, 'Site containing analysis of my chess games.'
 # set :theme_name, 'flatly'
 set :theme_name, false
 # set @analytics_account, like "XX-12345678-9"
-@analytics_account = false
+@analytics_account = "UA-71152906-1"
 
+page "/feed.xml", layout: false
+page "/atom.xml", layout: false
 set :css_dir, 'stylesheets'
 
 set :js_dir, 'javascripts'

@@ -10,8 +10,8 @@ end
 def page_description
   description = site_description
 
-  if current_article && current_article.summary(100)
-    description = current_article.summary(100)
+  if current_article && current_page.data.description
+    description = current_page.data.description
   end
 
   description
@@ -25,7 +25,7 @@ def include_sidebar?
   #p isCollectionsPage
   #p isCollectionPage
   #p isGamePage
-  !(isCollectionsPage || isGamePage || isCollectionPage || current_page.source_file.end_with?("test.html.erb") || current_page.source_file.end_with?("test_list.html.erb"))
+  !(isCollectionsPage || isGamePage || isCollectionPage || current_page.source_file.end_with?("about.html.slim") || current_page.source_file.end_with?("test.html.erb") || current_page.source_file.end_with?("test_list.html.erb"))
 end
 
 def page_keywords
