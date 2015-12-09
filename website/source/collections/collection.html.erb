@@ -20,8 +20,10 @@ title: Collection Index Page
     </thead>
 
     <tbody>
+    <% game_number = 1 %>
     <% collection.games.each do |game| %>
-        <% game_link = chess_collection_file_name(game.white + "-" + game.black) + ".html" %>
+        <% game_link = chess_collection_file_name(game.white + "-" + game.black) + "-#{game_number}.html" %>
+        <% game_number += 1 %>
         <tr class='<%= row_colour_for_round(game.round) %> clickable-row' data-href='<%= game_link %>'>
             <td><%= game.round %></td>
             <td><%= game.white %></td>

@@ -71,8 +71,8 @@ data.collections.each do |collection|
     :locals => {no_sidebar: true, collection: data[file_name] }, :ignore => true
   game_number = 1
   data[file_name].games.each do |game|
-    proxy "/#{file_name}/" + chess_collection_file_name(game.white + "-" + game.black) + ".html", "/collections/game.html",
-      :locals => {no_sidebar: true, game: data[file_name], game_number: game_number}, :ignore => true
+    proxy "/#{file_name}/" + chess_collection_file_name(game.white + "-" + game.black) + "-#{game_number}.html", "/collections/game.html",
+      :locals => {no_sidebar: true, pgn_file: collection.pgn,  game: data[file_name], game_number: game_number}, :ignore => true
     game_number += 1
   end
 end

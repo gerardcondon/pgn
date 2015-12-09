@@ -2,3 +2,10 @@
   number_of_rounds: 30
   site: "Zürich"
   date: "1953.??.??"
+  pgn: "https://raw.githubusercontent.com/gerardcondon/chess/master/collections/bronstein-zurich-1953.pgn"
+
+- event: "23rd World Championship"
+  number_of_rounds: 21
+  site: "Moscow"
+  date: "1960.??.??"
+  pgn: "https://raw.githubusercontent.com/gerardcondon/chess/master/collections/tal-botvinnik-world-championship-match-1960.pgn"

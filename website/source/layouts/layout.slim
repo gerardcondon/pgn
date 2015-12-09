@@ -19,16 +19,14 @@ html
       .row
         div.col-lg-9.col-md-9
           - unless current_article.nil?
-            h1
+            h2
               = current_article.title
-            - current_article.tags.each do |tag|
-              small.label.label-default
-                = tag
-            hr
             p
-              span.glyphicon.glyphicon-time
-              |  Posted on 
-              = current_article.date.strftime('%b %e')
+              = current_article.date.strftime('%B %e, %Y')
+              - current_article.tags.each do |tag|
+                span.tag-item
+                  small.label.label-default
+                    = tag
             hr
             - if current_article.data.image_src
               img.img-responsive src=current_article.data.image_src

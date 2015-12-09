@@ -20,7 +20,7 @@ title: <%= title %>
     SetGameSelectorOptions("Select game...", false, 0, 0, 0, 15, 15, 0, 0);
 </script>
 
-<div class="col-sm-4" style="width: 400px;position:fixed;background-color: white">
+<div class="col-sm-4" style="width: 400px;position:fixed;background-color: white;z-index: 3;">
     <div id="GameSelector"></div>
     <p></p>
     <div id="GameBoard"></div>
@@ -28,7 +28,7 @@ title: <%= title %>
     <div id="GameButtons"></div>
 </div>
 
-<div class="visible-xs col-sm-8 col-sm-offset-1" style="padding-top:440px;overflow:scroll;z-index: -1;">
+<div class="visible-xs col-sm-8 col-sm-offset-1" style="padding-top:440px;overflow:scroll;z-index: 2;">
     <b><span class="GameWhite"></span>&nbsp;-&nbsp;<span class="GameBlack"></span>&nbsp;&nbsp;<span class="GameResult"></span></b>
     <div class="GameText"></div>
 </div>

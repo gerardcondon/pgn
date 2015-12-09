@@ -110,5 +110,9 @@ task :parse_collections do
   IO.write("website/data/collections.yaml", collections_yaml.join("\n"))
 end
 
+desc "Serve out the preview website"
+task :serve do
+    puts "middleman server -p $PORT"
+end
 
 end
