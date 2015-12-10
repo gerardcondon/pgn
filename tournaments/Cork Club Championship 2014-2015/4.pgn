@@ -67,8 +67,46 @@ doing ok on this square. It guards a lot of the entry squares and I still have
 hope of Bd7.}  18. Ba4 { Job done on this diagonal so off to a new one to
 attack the rook.}  18... Rf8 { [%clk 1:06:00] Bd7 doesn't work due to c4
 winning the knight. The rook can't go to d8 as c4 again wins the knight.}  19.
-Rfe1 Nf6 { [%clk 1:04:00]}  20. Ne5 a6 { [%clk 0:53:00]}  21. Qf3 Kg7 { [%clk
-0:42:00]}  22. Bb3 Qc7 { [%clk 0:38:00]}  23. Rd4 Nd7 { [%clk 0:26:00]}  24.
-Ng4 e5 { [%clk 0:25:00]}  25. Rxd7 Qb6 { [%clk 0:15:23]}  26. Rxf7+ Rxf7 27.
-Qxf7+ Kh8 28. Qf8#  1-0
+Rfe1 { Developing his last piece. Now the knight is hanging as the e pawn is
+pinned against the queen.}  19... Nf6 { [%clk 1:04:00] Protecting the knight.
+If I was going to move it then there was no point going to the queenside. Other
+option would have been to move the queen but where would it go?}  20. Ne5 {
+Black has a lot of control of d7 now. Also this move makes b6, Bb7 harder due
+to Nc6. The knight can't really be shifted from here and it opens up paths to
+the kingside for his queen and rooks.}  20... a6 { [%clk 0:53:00] Trying to
+develop the queenside. Now b5 would come with an attack on the bishop on a4.} 
+21. Qf3 { Pins b7 and attacked the knight in f6. I wasn't seeing a lot of
+White's moves. Although that could be because he has loads of good options.
+Still I was unable to create mini plans and stick with them as I was constantly
+reacting to his threats.}  21... Kg7 { [%clk 0:42:00] The King is a fighting
+piece! Steinitz would have been proud. The queen is limited to e7 or d8 to
+defend the knight. The text move defends the knight freeing up the queen. In
+retrospect I wonder if Rd8 was the move to play here. White could trade rooks -
+I'm not sure who that would benefit. He would lose an attacker but I would be
+giving up one of my kingside defenders. If he doesn't trade then maybe Bd7
+becomes more likely.}  ( 21... Rd8) 22. Bb3 { This move lines the bishop up
+against e6 and f7. If I'm not careful there may be ideas like Nxf7. By making
+this move now I don't get to play b5 with tempo at some stage.}  22... Qc7 {
+[%clk 0:38:00] I don't have a great deal of options here. I thought that if I
+was to have any chance of getting my queenside pieces out that I needed to have
+the queen here to prevent Nc6 ideas. An immediate Bd7 drops the b pawn.}  23.
+Rd4 { I was worried when I saw this move. He can swing this rook along the 4th
+rank and there's not much I can do to stop him.}  23... Nd7 { [%clk 0:26:00] I
+considered b5 here. If he takes the rook then I win the queen at the cost of
+both my rooks. I would be losing material but it would imbalance the game. In
+retrospect what did I have to lose? Instead I played the knight away. I thought
+I might be able to trade his Knight. I completely missed the mating pattern.
+I'd never seen it before. I never realised that a queen and knight could be so
+effective together.}  ( 23... b5 24. Qxa8 Bb7 25. Qa7 Ra8 26. Qxa8 Bxa8 ) 24.
+Ng4 { Setting up the mate.}  24... e5 { [%clk 0:25:00] I completely missed the
+mate threat. I needed to play something like f5 now. I thought his rook would
+have to move back or to e5. This is a terrible move also in that it opens up
+the diagonal to the f7 pawn.}  ( 24... f5 25. Ne3 Nf6 ) 25. Rxd7 { This came
+like a bolt out of the blue. Even at first I didn't see the mate and thought he
+was sacrificing the exchange. Then I saw that I couldn't take it as that would
+lead to mate.}  25... Qb6 { [%clk 0:15:23] Stops the immediate threat of check
+on f6. Even if there was a defence, now I'm down a piece.}  ( 25... Qxd7 26.
+Qf6+ Kg8 27. Nh6# ) ( 25... Bxd7 26. Qf6+ Kg8 27. Nh6# ) ( 25... Qd8 26. Rxf7+
+Rxf7 27. Qxf7+ Kh8 28. Nf6 ) 26. Rxf7+ { Forced mating sequence from here.} 
+26... Rxf7 27. Qxf7+ Kh8 28. Qf8#  1-0
 
