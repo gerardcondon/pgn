@@ -7,6 +7,14 @@ html
     title
       = page_title
     meta[name="description" content="#{page_description}"]
+    - if current_article
+      meta[property="twitter:card" content="summary"]
+      meta[property="twitter:creator" content="gercondon"]
+      meta[property="twitter:site" content="gercondon"]
+      meta[property="twitter:title" content="#{truncate(current_article.title, length: 70)}"]
+      meta[property="twitter:description" content="#{truncate(strip_tags(current_article.summary), length: 200)}"]
+      meta[property="twitter:url" content="http://www.gerardcondon.com/chess#{current_article.url}"]
+      meta[property="twitter:image" content="http://www.gerardcondon.com/chess/images/twitter-chess.jpg"]
     = feed_tag :atom, "#{site_url}/feed.xml", title: "Chess Analysis"
     /[if lt IE 9]
       = javascript_include_tag "ie8"
