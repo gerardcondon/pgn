@@ -20,12 +20,14 @@ end
 def include_sidebar?
   isCollectionsPage = current_page.source_file.end_with?("collections.html.erb")
   isCollectionPage = current_page.source_file.end_with?("collection.html.erb")
+  isTournamentsPage = current_page.source_file.end_with?("tournaments.html.erb")
+  isTournamentPage = current_page.source_file.end_with?("tournament.html.erb")
   isGamePage = current_page.source_file.end_with?("game.html.erb")
   #p current_page.source_file
   #p isCollectionsPage
   #p isCollectionPage
   #p isGamePage
-  !(isCollectionsPage || isGamePage || isCollectionPage || current_page.source_file.end_with?("about.html.slim") || current_page.source_file.end_with?("test.html.erb") || current_page.source_file.end_with?("test_list.html.erb"))
+  !(isTournamentsPage || isTournamentPage || isCollectionsPage || isGamePage || isCollectionPage || current_page.source_file.end_with?("about.html.slim") || current_page.source_file.end_with?("test.html.erb") || current_page.source_file.end_with?("test_list.html.erb"))
 end
 
 def page_keywords

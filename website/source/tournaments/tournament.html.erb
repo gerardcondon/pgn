@@ -1,0 +1,44 @@
+---
+title: Tournament Index Page
+---
+
+<div class="container">
+<div class="row">
+
+<h1><%= tournament.event %></h1>
+
+<table class="table table-hover table-striped table-bordered">
+    <thead>
+        <tr>
+          <th>Round Number</th>
+          <th>White</th>
+          <th>Black</th>
+          <th>Result</th>
+        </tr>
+    </thead>
+
+    <tbody>
+    <% game_number = 1 %>
+    <% tournament.games.each do |game| %>
+        <% game_link = chess_collection_file_name(game.white + "-" + game.black) + "-#{game_number}.html" %>
+        <% game_number += 1 %>
+        <tr class='<%= row_colour_for_my_game(game.white, game.result) %> clickable-row' data-href='<%= game_link %>'>
+            <td><%= game.round %></td>
+            <td><%= game.white %></td>
+            <td><%= game.black %></td>
+            <td><%= game.result %></td>
+        </tr>
+    <% end %>
+    </tbody>
+</table>
+
+</div>
+</div>
+
+<script>
+jQuery(document).ready(function($) {
+    $(".clickable-row").click(function() {
+        window.document.location = $(this).data("href");
+    });
+});
+</script>

@@ -1,0 +1,29 @@
+---
+title: Chess
+---
+
+<table class="table table-hover table-striped table-bordered">
+    <thead>
+        <tr>
+          <th>Tournament</th>
+          <th>Number of rounds</th>
+        </tr>
+    </thead>
+
+    <tbody>
+    <% data.tournaments.each do |tournament| %>
+        <tr class='clickable-row' data-href='<%= chess_collection_file_name("#{tournament.event}") + "/" + chess_collection_file_name("#{tournament.event}") + ".html" %>'>
+            <td><%= tournament.event %></td>
+            <td> <%= tournament.number_of_rounds %></td>
+        </tr>
+    <% end %>
+    </tbody>
+</table>
+
+<script>
+jQuery(document).ready(function($) {
+    $(".clickable-row").click(function() {
+        window.document.location = $(this).data("href");
+    });
+});
+</script>

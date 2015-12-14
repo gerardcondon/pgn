@@ -62,6 +62,16 @@ helpers do
   def row_colour_for_round round
     ["active", "success", "info", "warning", "danger"][round % 5]
   end
+  
+  def row_colour_for_my_game white_player_name, result
+    if result.eql? "1-0"
+      return (white_player_name.eql? "Condon, Gerard") ? "success" : "danger" 
+    elsif result.eql? "1/2-1/2"
+      return "active"
+    else
+      return (white_player_name.eql? "Condon, Gerard") ? "danger" : "success" 
+    end
+  end
 end
 
 # Proxy pages (https://middlemanapp.com/advanced/dynamic_pages/)
@@ -76,6 +86,19 @@ data.collections.each do |collection|
     game_number += 1
   end
 end
+
+data.tournaments.each do |tournament|
+  file_name = chess_collection_file_name(tournament.event)
+  proxy "/#{file_name}/#{file_name}.html", "/tournaments/tournament.html",
+    :locals => {no_sidebar: true, tournament: data[file_name] }, :ignore => true
+  game_number = 1
+  data[file_name].games.each do |game|
+    proxy "/#{file_name}/" + chess_collection_file_name(game.white + "-" + game.black) + "-#{game_number}.html", "/tournaments/game.html",
+      :locals => {no_sidebar: true, game: game, game_number: game_number}, :ignore => true
+    game_number += 1
+  end
+end
+
 
 test_files = [{pgn_url: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Mulcahy%202015/6.pgn", title: "Mulcahy 2015 Game 6", name: "doc"},
 {pgn_url: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Cork%20Club%20Championship%202014-2015/4.pgn", title: "Cork Club Championship 2014-2015 Game 4", name: "lh"},
