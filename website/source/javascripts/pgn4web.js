@@ -1370,6 +1370,11 @@ function HighlightLastMove() {
     if (theObj = document.getElementById(highlightedMoveId)) {
       theObj.className = (highlightedMoveId.match(/Var0Mv/) ? 'move' : 'variation') + ' notranslate';
     }
+    
+    var highlighedMoveObjs = document.getElementsByClassName(highlightedMoveId);
+    for (i = 0; i < highlighedMoveObjs.length; i++) {
+      highlighedMoveObjs[i].className = (highlightedMoveId.match(/Var0Mv/) ? 'move' : 'variation') + ' notranslate ' + highlightedMoveId;
+    }
   }
 
   // halfmove to be highlighted, negative for starting position
@@ -1503,6 +1508,12 @@ function HighlightLastMove() {
     if (theObj = document.getElementById(moveId)) {
       theObj.className = (CurrentVar ? 'variation variationOn' : 'move moveOn') + ' notranslate';
     }
+    
+    var highlighedMoveObjs = document.getElementsByClassName(moveId);
+    for (i = 0; i < highlighedMoveObjs.length; i++) {
+      highlighedMoveObjs[i].className = (CurrentVar ? 'variation variationOn' : 'move moveOn') + ' notranslate ' + moveId;
+    }
+    
     highlightedMoveId = moveId;
 
     if (highlightOption) {
@@ -3769,7 +3780,7 @@ function printMoveText(thisPly, thisVar, isVar, hasLeadingNum, hasId) {
   }
   var jj = thisPly+1;
   text += '<A HREF="javascript:void(0);" ONCLICK="GoToMove(' + jj + ', ' + thisVar + ');" ' +
-    'CLASS="' + (isVar ? 'variation' : 'move') + ' notranslate" ' +
+    'CLASS="' + (isVar ? 'variation' : 'move') + ' notranslate Var' + thisVar + 'Mv' + jj + '" ' +
     (hasId ? ('ID="Var' + thisVar + 'Mv' + jj + '" ') : '') +
     'ONFOCUS="this.blur();">' + MovesVar[thisVar][thisPly];
   if (commentsIntoMoveText) { text += basicNAGsMoveComment(jj, thisVar); }
