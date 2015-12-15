@@ -1,0 +1,102 @@
+event: "Mulcahy 2015"
+number_of_rounds: 6
+site: "Cork, Ireland"
+date: "2015.01.01"
+games: 
+- white: "748"
+  black: "Condon, Gerard"
+  result: "1-0"
+  pgn: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Mulcahy%202015/1.pgn"
+  conclusions:
+  errors:
+  positions:
+  round: 1
+- white: "Condon, Gerard"
+  black: "180"
+  result: "1/2-1/2"
+  pgn: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Mulcahy%202015/2.pgn"
+  conclusions:
+    - Two bishops against bishop and knight on open board can be lethal. The unopposed bishop is really strong.
+    - Opposite-colour bishop endings are drawish.
+    - Watch out for king mobility in the endgame - can get blocked by pawns.
+  errors:
+    - Tactics. Missed knight manouevre.
+    - Positional. Gave opponent two bishops on an open board
+  positions:
+    - r4rk1/pb1qbppp/2n1pn2/2p5/2P5/2N1BN1P/PP2BPP1/R2Q1RK1 w - - 2 13
+    - 2r3k1/pb3ppp/4pb2/2B1n3/2P5/2N4P/PP2BPP1/3R2K1 w - - 1 20
+  round: 2
+- white: "62"
+  black: "Condon, Gerard"
+  result: "0-1"
+  pgn: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Mulcahy%202015/3.pgn"
+  conclusions:
+    - exd4 is a legitimate response to cxd4. I just assumed that white would recapture with the c-pawn after placing their rook on c1.
+    - against the London system I need to deal better with the bishop on f4. Perhaps Bd6 here instead of Be7.
+    - during the game I thought I was losing badly for a good while. I remember thinking after 30 minutes that I was going to lose fairly quickly. However when I look on the computer white never had a massive advantage. Admittedly they could have gone to about 1 ahead on the computer evaluation but I think at this level I shouldn't be to afraid unless they have a material advantage. Certainly I wouldn't feel confident that I could convert a positional advantage.
+    - I could be more aggressive with my pawn advances.
+    - I was very happy to win this game as the tournament hadn't been going to great for me with a loss and a draw. I was happy enough with how I finished out the game once my opponent had blundered the f pawn. I did miss some opportunities to win more convincingly but I was never in danger of giving away my advantage.
+  errors:
+    - Postional. Got a cramped position and failed to see white's attack.
+    - Pawns. Didn't see all of white's recaptures on d4.
+    - Tactics. Missed pin on knight against h7.
+    - Pawns. Missed aggressive f4 advances.
+    - Endgame. Could have centralised the king sooner in the endgame.
+  positions:
+    - 2rq1rk1/pb1nbppp/1p2pn2/2pp4/3P1B2/2PBPN1P/PP1N1PP1/2RQR1K1 b - - 4 11
+    - 2rq1rk1/1b3ppp/p2bp3/1p1pN3/3Pn3/P1PBRQ1P/1P3PPB/2R3K1 b - - 1 20
+    - 2r2rk1/1bq3pp/p3pp2/1p1p4/3Pn3/P1PBRQ1P/1P3PPN/4R1K1 b - - 0 23
+    - 2r3k1/2q2rpp/p3p3/1p1b1p2/1Q1Pp3/P1P1R2P/1P4P1/4RNK1 b - - 5 29
+    - 5rk1/2q2rpp/p3p3/1p1b1p2/PQ1Pp3/2P1R2P/1P4P1/4RNK1 b - - 0 30
+    - 5rk1/2q2rpp/p3p3/1p3p2/PQbPp3/1PP1R2P/6P1/4RNK1 b - - 0 31
+    - 5rk1/3r2pp/4p3/5p2/3Pp3/1N1bR2P/6P1/2R3K1 b - - 5 38
+    - 1r4k1/7p/6p1/5p2/2bNp3/4R2P/6PK/8 b - - 1 43
+  round: 3
+- white: "552"
+  black: "Condon, Gerard"
+  result: "1/2-1/2"
+  pgn: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Mulcahy%202015/4.pgn"
+  conclusions:
+    - most of the time that I thought I was losing, I was only a bit behind. I should be more confident and even if my position is bad I shouldn't get too downhearted.
+    - I need to check the range of bishops and queens. When they move check every square of their diagonals. Each move I should check what pieces are on the same files, ranks and diagonals as my king.
+    - Overall I was happy enough with the draw as I definitely could have lost the game. However once I got into that pawn up position I should have been more ruthless.
+  errors:
+    - development. Develop the queen to free space for the rooks.
+    - weak f7. Be careful moving the f8 rook if f7 is weak.
+    - two bishops. Hold on to them if possible.
+    - positional. Could be more aggressive. A centralised bishop is better than one on the sidelines.
+    - tactics. discovered check. always check all the lines of a bishop - even through other pieces.
+    - endgame. remove a pair of rooks if it leaves me with a R vs BB endgame.
+    - endgame. drive pawns down the board to create threats. Also stops the opponent creating a block with a piece on your territory.
+  positions:
+    - r1bq1rk1/1p2bppp/p3pn2/2n5/3N4/2P3N1/PPB2PPP/R1BQ1RK1 b - - 2 12
+    - r1b2rk1/2qnbppp/p4n2/1p2p3/1P6/2P2NN1/PBB1QPPP/R4RK1 b - - 1 16
+    - r3rbk1/1b1n1pp1/p1q2nNp/1p2p3/1P6/1BP2N2/PB2QPPP/3R1RK1 b - - 1 21
+    - r3rk2/3n1pp1/p4n1p/1p2p3/1P2b3/1BP5/PB1N1PPP/3R1RK1 b - - 1 24
+    - 3rrk2/1b3pp1/p4n1p/1pP1p3/1n6/BB3P2/P2N1RPP/3R2K1 b - - 1 29
+    - 4r1k1/1P1r1pp1/p6p/1p2p3/4P3/BB6/P4KPP/3R4 b - - 0 34
+    - 4r3/1r4pk/p4p1p/1p1Rp3/4P3/1B3K2/PB4PP/8 b - - 1 37
+  round: 4
+- white: "Condon, Gerard"
+  black: "160"
+  result: "1/2-1/2"
+  pgn: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Mulcahy%202015/5.pgn"
+  conclusions:
+    - My opponent was the highest rated that I'd played so far so I was happy enough to come out of it with a draw.
+    - Looking back over the game there was very little that either player did wrong. I gave black an opening by pushing d5 but then missed an opportunity to play Qh5.
+    - I offered a draw in this game. Later I came across the information that Bobby Fisher would never offer draws and that really players who want to improve shouldn't either. Any rating points gain would be meaningless compared to the knowledge gained by playing out an endgame. I didn't realise at this stage how little endgames I'd be able to play during the year - blitz at the club is useless for this. So in future I wanted play out games even if I was going to lose.
+  errors:
+    - positional. undeveloping a bishop form g5 without h6
+    - premature attack. Develop pieces to their best positions before attacking.
+  positions:
+    - r3r1k1/1bp1bppp/p1nqpn2/1p4B1/3P4/P1N2N2/1PPQBPPP/3RR1K1 w - - 3 13
+    - r2qr1k1/1bp1bppp/p1n1pn2/1p6/3P1B2/P1N2N2/1PPQBPPP/3RR1K1 w - - 5 14
+  round: 5
+- white: "944"
+  black: "Condon, Gerard"
+  result: "0-1"
+  pgn: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Mulcahy%202015/6.pgn"
+  conclusions:
+  errors:
+  positions:
+  round: 6

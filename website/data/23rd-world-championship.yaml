@@ -1,0 +1,89 @@
+event: "23rd World Championship"
+number_of_rounds: 21
+site: "Moscow"
+date: "1960.??.??"
+games: 
+- white: "Tal, Mikhail"
+  black: "Botvinnik, Mikhail"
+  result: "1-0"
+  round: 1
+- white: "Botvinnik, Mikhail"
+  black: "Tal, Mikhail"
+  result: "1/2-1/2"
+  round: 2
+- white: "Tal, Mikhail"
+  black: "Botvinnik, Mikhail"
+  result: "1/2-1/2"
+  round: 3
+- white: "Botvinnik, Mikhail"
+  black: "Tal, Mikhail"
+  result: "1/2-1/2"
+  round: 4
+- white: "Tal, Mikhail"
+  black: "Botvinnik, Mikhail"
+  result: "1/2-1/2"
+  round: 5
+- white: "Botvinnik, Mikhail"
+  black: "Tal, Mikhail"
+  result: "0-1"
+  round: 6
+- white: "Tal, Mikhail"
+  black: "Botvinnik, Mikhail"
+  result: "1-0"
+  round: 7
+- white: "Botvinnik, Mikhail"
+  black: "Tal, Mikhail"
+  result: "1-0"
+  round: 8
+- white: "Tal, Mikhail"
+  black: "Botvinnik, Mikhail"
+  result: "0-1"
+  round: 9
+- white: "Botvinnik, Mikhail"
+  black: "Tal, Mikhail"
+  result: "1/2-1/2"
+  round: 10
+- white: "Tal, Mikhail"
+  black: "Botvinnik, Mikhail"
+  result: "1-0"
+  round: 11
+- white: "Botvinnik, Mikhail"
+  black: "Tal, Mikhail"
+  result: "1/2-1/2"
+  round: 12
+- white: "Tal, Mikhail"
+  black: "Botvinnik, Mikhail"
+  result: "1/2-1/2"
+  round: 13
+- white: "Botvinnik, Mikhail"
+  black: "Tal, Mikhail"
+  result: "1/2-1/2"
+  round: 14
+- white: "Tal, Mikhail"
+  black: "Botvinnik, Mikhail"
+  result: "1/2-1/2"
+  round: 15
+- white: "Botvinnik, Mikhail"
+  black: "Tal, Mikhail"
+  result: "1/2-1/2"
+  round: 16
+- white: "Tal, Mikhail"
+  black: "Botvinnik, Mikhail"
+  result: "1-0"
+  round: 17
+- white: "Botvinnik, Mikhail"
+  black: "Tal, Mikhail"
+  result: "1/2-1/2"
+  round: 18
+- white: "Tal, Mikhail"
+  black: "Botvinnik, Mikhail"
+  result: "1-0"
+  round: 19
+- white: "Botvinnik, Mikhail"
+  black: "Tal, Mikhail"
+  result: "1/2-1/2"
+  round: 20
+- white: "Tal, Mikhail"
+  black: "Botvinnik, Mikhail"
+  result: "1/2-1/2"
+  round: 21

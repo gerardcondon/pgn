@@ -1,0 +1,845 @@
+event: "Zürich 1953"
+number_of_rounds: 30
+site: "Zürich"
+date: "1953.??.??"
+games: 
+- white: "Szabo, Laszlo"
+  black: "Geller, Efim P"
+  result: "0-1"
+  round: 1
+- white: "Najdorf, Miguel"
+  black: "Reshevsky, Samuel Herman"
+  result: "1/2-1/2"
+  round: 1
+- white: "Petrosian, Tigran V"
+  black: "Keres, Paul"
+  result: "1/2-1/2"
+  round: 1
+- white: "Averbakh, Yuri L"
+  black: "Smyslov, Vassily"
+  result: "1/2-1/2"
+  round: 1
+- white: "Taimanov, Mark E"
+  black: "Bronstein, David I"
+  result: "0-1"
+  round: 1
+- white: "Euwe, Max"
+  black: "Kotov, Alexander"
+  result: "1-0"
+  round: 1
+- white: "Stahlberg, Gideon"
+  black: "Boleslavsky, Isaak"
+  result: "1/2-1/2"
+  round: 1
+- white: "Kotov, Alexander"
+  black: "Stahlberg, Gideon"
+  result: "0-1"
+  round: 2
+- white: "Geller, Efim P"
+  black: "Euwe, Max"
+  result: "0-1"
+  round: 2
+- white: "Smyslov, Vassily"
+  black: "Szabo, Laszlo"
+  result: "1/2-1/2"
+  round: 2
+- white: "Keres, Paul"
+  black: "Averbakh, Yuri L"
+  result: "0-1"
+  round: 2
+- white: "Reshevsky, Samuel Herman"
+  black: "Petrosian, Tigran V"
+  result: "1/2-1/2"
+  round: 2
+- white: "Bronstein, David I"
+  black: "Najdorf, Miguel"
+  result: "1/2-1/2"
+  round: 2
+- white: "Gligoric, Svetozar"
+  black: "Taimanov, Mark E"
+  result: "1/2-1/2"
+  round: 2
+- white: "Najdorf, Miguel"
+  black: "Gligoric, Svetozar"
+  result: "1/2-1/2"
+  round: 3
+- white: "Petrosian, Tigran V"
+  black: "Bronstein, David I"
+  result: "1/2-1/2"
+  round: 3
+- white: "Averbakh, Yuri L"
+  black: "Reshevsky, Samuel Herman"
+  result: "1/2-1/2"
+  round: 3
+- white: "Szabo, Laszlo"
+  black: "Keres, Paul"
+  result: "0-1"
+  round: 3
+- white: "Euwe, Max"
+  black: "Smyslov, Vassily"
+  result: "0-1"
+  round: 3
+- white: "Stahlberg, Gideon"
+  black: "Geller, Efim P"
+  result: "1/2-1/2"
+  round: 3
+- white: "Boleslavsky, Isaak"
+  black: "Kotov, Alexander"
+  result: "1-0"
+  round: 3
+- white: "Geller, Efim P"
+  black: "Boleslavsky, Isaak"
+  result: "0-1"
+  round: 4
+- white: "Smyslov, Vassily"
+  black: "Stahlberg, Gideon"
+  result: "1-0"
+  round: 4
+- white: "Keres, Paul"
+  black: "Euwe, Max"
+  result: "1/2-1/2"
+  round: 4
+- white: "Reshevsky, Samuel Herman"
+  black: "Szabo, Laszlo"
+  result: "1-0"
+  round: 4
+- white: "Bronstein, David I"
+  black: "Averbakh, Yuri L"
+  result: "1/2-1/2"
+  round: 4
+- white: "Gligoric, Svetozar"
+  black: "Petrosian, Tigran V"
+  result: "1/2-1/2"
+  round: 4
+- white: "Taimanov, Mark E"
+  black: "Najdorf, Miguel"
+  result: "0-1"
+  round: 4
+- white: "Petrosian, Tigran V"
+  black: "Taimanov, Mark E"
+  result: "0-1"
+  round: 5
+- white: "Averbakh, Yuri L"
+  black: "Gligoric, Svetozar"
+  result: "0-1"
+  round: 5
+- white: "Szabo, Laszlo"
+  black: "Bronstein, David I"
+  result: "1-0"
+  round: 5
+- white: "Euwe, Max"
+  black: "Reshevsky, Samuel Herman"
+  result: "0-1"
+  round: 5
+- white: "Stahlberg, Gideon"
+  black: "Keres, Paul"
+  result: "0-1"
+  round: 5
+- white: "Boleslavsky, Isaak"
+  black: "Smyslov, Vassily"
+  result: "1/2-1/2"
+  round: 5
+- white: "Kotov, Alexander"
+  black: "Geller, Efim P"
+  result: "1/2-1/2"
+  round: 5
+- white: "Smyslov, Vassily"
+  black: "Kotov, Alexander"
+  result: "1/2-1/2"
+  round: 6
+- white: "Keres, Paul"
+  black: "Boleslavsky, Isaak"
+  result: "1-0"
+  round: 6
+- white: "Reshevsky, Samuel Herman"
+  black: "Stahlberg, Gideon"
+  result: "1-0"
+  round: 6
+- white: "Bronstein, David I"
+  black: "Euwe, Max"
+  result: "1/2-1/2"
+  round: 6
+- white: "Gligoric, Svetozar"
+  black: "Szabo, Laszlo"
+  result: "0-1"
+  round: 6
+- white: "Taimanov, Mark E"
+  black: "Averbakh, Yuri L"
+  result: "1-0"
+  round: 6
+- white: "Najdorf, Miguel"
+  black: "Petrosian, Tigran V"
+  result: "1-0"
+  round: 6
+- white: "Averbakh, Yuri L"
+  black: "Najdorf, Miguel"
+  result: "1/2-1/2"
+  round: 7
+- white: "Szabo, Laszlo"
+  black: "Taimanov, Mark E"
+  result: "1/2-1/2"
+  round: 7
+- white: "Euwe, Max"
+  black: "Gligoric, Svetozar"
+  result: "1/2-1/2"
+  round: 7
+- white: "Stahlberg, Gideon"
+  black: "Bronstein, David I"
+  result: "1/2-1/2"
+  round: 7
+- white: "Boleslavsky, Isaak"
+  black: "Reshevsky, Samuel Herman"
+  result: "1/2-1/2"
+  round: 7
+- white: "Kotov, Alexander"
+  black: "Keres, Paul"
+  result: "1/2-1/2"
+  round: 7
+- white: "Geller, Efim P"
+  black: "Smyslov, Vassily"
+  result: "0-1"
+  round: 7
+- white: "Keres, Paul"
+  black: "Geller, Efim P"
+  result: "1/2-1/2"
+  round: 8
+- white: "Reshevsky, Samuel Herman"
+  black: "Kotov, Alexander"
+  result: "1-0"
+  round: 8
+- white: "Bronstein, David I"
+  black: "Boleslavsky, Isaak"
+  result: "1/2-1/2"
+  round: 8
+- white: "Gligoric, Svetozar"
+  black: "Stahlberg, Gideon"
+  result: "1-0"
+  round: 8
+- white: "Taimanov, Mark E"
+  black: "Euwe, Max"
+  result: "0-1"
+  round: 8
+- white: "Najdorf, Miguel"
+  black: "Szabo, Laszlo"
+  result: "1/2-1/2"
+  round: 8
+- white: "Petrosian, Tigran V"
+  black: "Averbakh, Yuri L"
+  result: "1/2-1/2"
+  round: 8
+- white: "Szabo, Laszlo"
+  black: "Petrosian, Tigran V"
+  result: "0-1"
+  round: 9
+- white: "Euwe, Max"
+  black: "Najdorf, Miguel"
+  result: "1-0"
+  round: 9
+- white: "Stahlberg, Gideon"
+  black: "Taimanov, Mark E"
+  result: "0-1"
+  round: 9
+- white: "Boleslavsky, Isaak"
+  black: "Gligoric, Svetozar"
+  result: "1/2-1/2"
+  round: 9
+- white: "Kotov, Alexander"
+  black: "Bronstein, David I"
+  result: "1/2-1/2"
+  round: 9
+- white: "Geller, Efim P"
+  black: "Reshevsky, Samuel Herman"
+  result: "1/2-1/2"
+  round: 9
+- white: "Smyslov, Vassily"
+  black: "Keres, Paul"
+  result: "1-0"
+  round: 9
+- white: "Reshevsky, Samuel Herman"
+  black: "Smyslov, Vassily"
+  result: "1/2-1/2"
+  round: 10
+- white: "Bronstein, David I"
+  black: "Geller, Efim P"
+  result: "1/2-1/2"
+  round: 10
+- white: "Gligoric, Svetozar"
+  black: "Kotov, Alexander"
+  result: "0-1"
+  round: 10
+- white: "Taimanov, Mark E"
+  black: "Boleslavsky, Isaak"
+  result: "1/2-1/2"
+  round: 10
+- white: "Najdorf, Miguel"
+  black: "Stahlberg, Gideon"
+  result: "1-0"
+  round: 10
+- white: "Petrosian, Tigran V"
+  black: "Euwe, Max"
+  result: "1-0"
+  round: 10
+- white: "Averbakh, Yuri L"
+  black: "Szabo, Laszlo"
+  result: "1/2-1/2"
+  round: 10
+- white: "Euwe, Max"
+  black: "Averbakh, Yuri L"
+  result: "0-1"
+  round: 11
+- white: "Stahlberg, Gideon"
+  black: "Petrosian, Tigran V"
+  result: "0-1"
+  round: 11
+- white: "Boleslavsky, Isaak"
+  black: "Najdorf, Miguel"
+  result: "1/2-1/2"
+  round: 11
+- white: "Kotov, Alexander"
+  black: "Taimanov, Mark E"
+  result: "1-0"
+  round: 11
+- white: "Geller, Efim P"
+  black: "Gligoric, Svetozar"
+  result: "1/2-1/2"
+  round: 11
+- white: "Smyslov, Vassily"
+  black: "Bronstein, David I"
+  result: "1/2-1/2"
+  round: 11
+- white: "Keres, Paul"
+  black: "Reshevsky, Samuel Herman"
+  result: "1/2-1/2"
+  round: 11
+- white: "Bronstein, David I"
+  black: "Keres, Paul"
+  result: "1-0"
+  round: 12
+- white: "Gligoric, Svetozar"
+  black: "Smyslov, Vassily"
+  result: "0-1"
+  round: 12
+- white: "Taimanov, Mark E"
+  black: "Geller, Efim P"
+  result: "1-0"
+  round: 12
+- white: "Najdorf, Miguel"
+  black: "Kotov, Alexander"
+  result: "1-0"
+  round: 12
+- white: "Petrosian, Tigran V"
+  black: "Boleslavsky, Isaak"
+  result: "1/2-1/2"
+  round: 12
+- white: "Averbakh, Yuri L"
+  black: "Stahlberg, Gideon"
+  result: "0-1"
+  round: 12
+- white: "Szabo, Laszlo"
+  black: "Euwe, Max"
+  result: "1/2-1/2"
+  round: 12
+- white: "Stahlberg, Gideon"
+  black: "Szabo, Laszlo"
+  result: "0-1"
+  round: 13
+- white: "Boleslavsky, Isaak"
+  black: "Averbakh, Yuri L"
+  result: "1/2-1/2"
+  round: 13
+- white: "Kotov, Alexander"
+  black: "Petrosian, Tigran V"
+  result: "1/2-1/2"
+  round: 13
+- white: "Geller, Efim P"
+  black: "Najdorf, Miguel"
+  result: "1-0"
+  round: 13
+- white: "Smyslov, Vassily"
+  black: "Taimanov, Mark E"
+  result: "1/2-1/2"
+  round: 13
+- white: "Keres, Paul"
+  black: "Gligoric, Svetozar"
+  result: "1/2-1/2"
+  round: 13
+- white: "Reshevsky, Samuel Herman"
+  black: "Bronstein, David I"
+  result: "0-1"
+  round: 13
+- white: "Gligoric, Svetozar"
+  black: "Reshevsky, Samuel Herman"
+  result: "1/2-1/2"
+  round: 14
+- white: "Taimanov, Mark E"
+  black: "Keres, Paul"
+  result: "1/2-1/2"
+  round: 14
+- white: "Najdorf, Miguel"
+  black: "Smyslov, Vassily"
+  result: "1/2-1/2"
+  round: 14
+- white: "Petrosian, Tigran V"
+  black: "Geller, Efim P"
+  result: "1/2-1/2"
+  round: 14
+- white: "Averbakh, Yuri L"
+  black: "Kotov, Alexander"
+  result: "0-1"
+  round: 14
+- white: "Szabo, Laszlo"
+  black: "Boleslavsky, Isaak"
+  result: "1/2-1/2"
+  round: 14
+- white: "Euwe, Max"
+  black: "Stahlberg, Gideon"
+  result: "1-0"
+  round: 14
+- white: "Boleslavsky, Isaak"
+  black: "Euwe, Max"
+  result: "1/2-1/2"
+  round: 15
+- white: "Kotov, Alexander"
+  black: "Szabo, Laszlo"
+  result: "1-0"
+  round: 15
+- white: "Geller, Efim P"
+  black: "Averbakh, Yuri L"
+  result: "1/2-1/2"
+  round: 15
+- white: "Smyslov, Vassily"
+  black: "Petrosian, Tigran V"
+  result: "1/2-1/2"
+  round: 15
+- white: "Keres, Paul"
+  black: "Najdorf, Miguel"
+  result: "1/2-1/2"
+  round: 15
+- white: "Reshevsky, Samuel Herman"
+  black: "Taimanov, Mark E"
+  result: "1/2-1/2"
+  round: 15
+- white: "Bronstein, David I"
+  black: "Gligoric, Svetozar"
+  result: "1-0"
+  round: 15
+- white: "Bronstein, David I"
+  black: "Taimanov, Mark E"
+  result: "1/2-1/2"
+  round: 16
+- white: "Reshevsky, Samuel Herman"
+  black: "Najdorf, Miguel"
+  result: "1/2-1/2"
+  round: 16
+- white: "Keres, Paul"
+  black: "Petrosian, Tigran V"
+  result: "1-0"
+  round: 16
+- white: "Smyslov, Vassily"
+  black: "Averbakh, Yuri L"
+  result: "1/2-1/2"
+  round: 16
+- white: "Geller, Efim P"
+  black: "Szabo, Laszlo"
+  result: "1/2-1/2"
+  round: 16
+- white: "Kotov, Alexander"
+  black: "Euwe, Max"
+  result: "1/2-1/2"
+  round: 16
+- white: "Boleslavsky, Isaak"
+  black: "Stahlberg, Gideon"
+  result: "1/2-1/2"
+  round: 16
+- white: "Stahlberg, Gideon"
+  black: "Kotov, Alexander"
+  result: "0-1"
+  round: 17
+- white: "Euwe, Max"
+  black: "Geller, Efim P"
+  result: "0-1"
+  round: 17
+- white: "Szabo, Laszlo"
+  black: "Smyslov, Vassily"
+  result: "1/2-1/2"
+  round: 17
+- white: "Averbakh, Yuri L"
+  black: "Keres, Paul"
+  result: "1/2-1/2"
+  round: 17
+- white: "Petrosian, Tigran V"
+  black: "Reshevsky, Samuel Herman"
+  result: "1/2-1/2"
+  round: 17
+- white: "Najdorf, Miguel"
+  black: "Bronstein, David I"
+  result: "1/2-1/2"
+  round: 17
+- white: "Taimanov, Mark E"
+  black: "Gligoric, Svetozar"
+  result: "0-1"
+  round: 17
+- white: "Gligoric, Svetozar"
+  black: "Najdorf, Miguel"
+  result: "1/2-1/2"
+  round: 18
+- white: "Bronstein, David I"
+  black: "Petrosian, Tigran V"
+  result: "1/2-1/2"
+  round: 18
+- white: "Reshevsky, Samuel Herman"
+  black: "Averbakh, Yuri L"
+  result: "1-0"
+  round: 18
+- white: "Keres, Paul"
+  black: "Szabo, Laszlo"
+  result: "1/2-1/2"
+  round: 18
+- white: "Smyslov, Vassily"
+  black: "Euwe, Max"
+  result: "1-0"
+  round: 18
+- white: "Geller, Efim P"
+  black: "Stahlberg, Gideon"
+  result: "1/2-1/2"
+  round: 18
+- white: "Kotov, Alexander"
+  black: "Boleslavsky, Isaak"
+  result: "0-1"
+  round: 18
+- white: "Boleslavsky, Isaak"
+  black: "Geller, Efim P"
+  result: "0-1"
+  round: 19
+- white: "Stahlberg, Gideon"
+  black: "Smyslov, Vassily"
+  result: "1/2-1/2"
+  round: 19
+- white: "Euwe, Max"
+  black: "Keres, Paul"
+  result: "1/2-1/2"
+  round: 19
+- white: "Szabo, Laszlo"
+  black: "Reshevsky, Samuel Herman"
+  result: "1/2-1/2"
+  round: 19
+- white: "Averbakh, Yuri L"
+  black: "Bronstein, David I"
+  result: "1/2-1/2"
+  round: 19
+- white: "Petrosian, Tigran V"
+  black: "Gligoric, Svetozar"
+  result: "1-0"
+  round: 19
+- white: "Najdorf, Miguel"
+  black: "Taimanov, Mark E"
+  result: "1/2-1/2"
+  round: 19
+- white: "Taimanov, Mark E"
+  black: "Petrosian, Tigran V"
+  result: "1-0"
+  round: 20
+- white: "Gligoric, Svetozar"
+  black: "Averbakh, Yuri L"
+  result: "1/2-1/2"
+  round: 20
+- white: "Bronstein, David I"
+  black: "Szabo, Laszlo"
+  result: "1-0"
+  round: 20
+- white: "Reshevsky, Samuel Herman"
+  black: "Euwe, Max"
+  result: "1-0"
+  round: 20
+- white: "Keres, Paul"
+  black: "Stahlberg, Gideon"
+  result: "1-0"
+  round: 20
+- white: "Smyslov, Vassily"
+  black: "Boleslavsky, Isaak"
+  result: "1/2-1/2"
+  round: 20
+- white: "Geller, Efim P"
+  black: "Kotov, Alexander"
+  result: "0-1"
+  round: 20
+- white: "Kotov, Alexander"
+  black: "Smyslov, Vassily"
+  result: "1-0"
+  round: 21
+- white: "Boleslavsky, Isaak"
+  black: "Keres, Paul"
+  result: "0-1"
+  round: 21
+- white: "Stahlberg, Gideon"
+  black: "Reshevsky, Samuel Herman"
+  result: "1/2-1/2"
+  round: 21
+- white: "Euwe, Max"
+  black: "Bronstein, David I"
+  result: "1/2-1/2"
+  round: 21
+- white: "Szabo, Laszlo"
+  black: "Gligoric, Svetozar"
+  result: "1/2-1/2"
+  round: 21
+- white: "Averbakh, Yuri L"
+  black: "Taimanov, Mark E"
+  result: "1-0"
+  round: 21
+- white: "Petrosian, Tigran V"
+  black: "Najdorf, Miguel"
+  result: "1/2-1/2"
+  round: 21
+- white: "Najdorf, Miguel"
+  black: "Averbakh, Yuri L"
+  result: "0-1"
+  round: 22
+- white: "Taimanov, Mark E"
+  black: "Szabo, Laszlo"
+  result: "1/2-1/2"
+  round: 22
+- white: "Gligoric, Svetozar"
+  black: "Euwe, Max"
+  result: "1-0"
+  round: 22
+- white: "Bronstein, David I"
+  black: "Stahlberg, Gideon"
+  result: "1/2-1/2"
+  round: 22
+- white: "Reshevsky, Samuel Herman"
+  black: "Boleslavsky, Isaak"
+  result: "1-0"
+  round: 22
+- white: "Keres, Paul"
+  black: "Kotov, Alexander"
+  result: "1/2-1/2"
+  round: 22
+- white: "Smyslov, Vassily"
+  black: "Geller, Efim P"
+  result: "1-0"
+  round: 22
+- white: "Geller, Efim P"
+  black: "Keres, Paul"
+  result: "0-1"
+  round: 23
+- white: "Kotov, Alexander"
+  black: "Reshevsky, Samuel Herman"
+  result: "1-0"
+  round: 23
+- white: "Boleslavsky, Isaak"
+  black: "Bronstein, David I"
+  result: "1/2-1/2"
+  round: 23
+- white: "Stahlberg, Gideon"
+  black: "Gligoric, Svetozar"
+  result: "0-1"
+  round: 23
+- white: "Euwe, Max"
+  black: "Taimanov, Mark E"
+  result: "1/2-1/2"
+  round: 23
+- white: "Szabo, Laszlo"
+  black: "Najdorf, Miguel"
+  result: "1/2-1/2"
+  round: 23
+- white: "Averbakh, Yuri L"
+  black: "Petrosian, Tigran V"
+  result: "1/2-1/2"
+  round: 23
+- white: "Petrosian, Tigran V"
+  black: "Szabo, Laszlo"
+  result: "1-0"
+  round: 24
+- white: "Najdorf, Miguel"
+  black: "Euwe, Max"
+  result: "1/2-1/2"
+  round: 24
+- white: "Taimanov, Mark E"
+  black: "Stahlberg, Gideon"
+  result: "1-0"
+  round: 24
+- white: "Gligoric, Svetozar"
+  black: "Boleslavsky, Isaak"
+  result: "1/2-1/2"
+  round: 24
+- white: "Bronstein, David I"
+  black: "Kotov, Alexander"
+  result: "1/2-1/2"
+  round: 24
+- white: "Reshevsky, Samuel Herman"
+  black: "Geller, Efim P"
+  result: "1/2-1/2"
+  round: 24
+- white: "Keres, Paul"
+  black: "Smyslov, Vassily"
+  result: "0-1"
+  round: 24
+- white: "Smyslov, Vassily"
+  black: "Reshevsky, Samuel Herman"
+  result: "1-0"
+  round: 25
+- white: "Geller, Efim P"
+  black: "Bronstein, David I"
+  result: "1-0"
+  round: 25
+- white: "Kotov, Alexander"
+  black: "Gligoric, Svetozar"
+  result: "1/2-1/2"
+  round: 25
+- white: "Boleslavsky, Isaak"
+  black: "Taimanov, Mark E"
+  result: "1/2-1/2"
+  round: 25
+- white: "Stahlberg, Gideon"
+  black: "Najdorf, Miguel"
+  result: "0-1"
+  round: 25
+- white: "Euwe, Max"
+  black: "Petrosian, Tigran V"
+  result: "1/2-1/2"
+  round: 25
+- white: "Szabo, Laszlo"
+  black: "Averbakh, Yuri L"
+  result: "1/2-1/2"
+  round: 25
+- white: "Averbakh, Yuri L"
+  black: "Euwe, Max"
+  result: "1-0"
+  round: 26
+- white: "Petrosian, Tigran V"
+  black: "Stahlberg, Gideon"
+  result: "1-0"
+  round: 26
+- white: "Najdorf, Miguel"
+  black: "Boleslavsky, Isaak"
+  result: "1/2-1/2"
+  round: 26
+- white: "Taimanov, Mark E"
+  black: "Kotov, Alexander"
+  result: "1-0"
+  round: 26
+- white: "Gligoric, Svetozar"
+  black: "Geller, Efim P"
+  result: "0-1"
+  round: 26
+- white: "Bronstein, David I"
+  black: "Smyslov, Vassily"
+  result: "1/2-1/2"
+  round: 26
+- white: "Reshevsky, Samuel Herman"
+  black: "Keres, Paul"
+  result: "1/2-1/2"
+  round: 26
+- white: "Keres, Paul"
+  black: "Bronstein, David I"
+  result: "1/2-1/2"
+  round: 27
+- white: "Smyslov, Vassily"
+  black: "Gligoric, Svetozar"
+  result: "1/2-1/2"
+  round: 27
+- white: "Geller, Efim P"
+  black: "Taimanov, Mark E"
+  result: "1-0"
+  round: 27
+- white: "Kotov, Alexander"
+  black: "Najdorf, Miguel"
+  result: "1/2-1/2"
+  round: 27
+- white: "Boleslavsky, Isaak"
+  black: "Petrosian, Tigran V"
+  result: "1/2-1/2"
+  round: 27
+- white: "Stahlberg, Gideon"
+  black: "Averbakh, Yuri L"
+  result: "1-0"
+  round: 27
+- white: "Euwe, Max"
+  black: "Szabo, Laszlo"
+  result: "1/2-1/2"
+  round: 27
+- white: "Szabo, Laszlo"
+  black: "Stahlberg, Gideon"
+  result: "1/2-1/2"
+  round: 28
+- white: "Averbakh, Yuri L"
+  black: "Boleslavsky, Isaak"
+  result: "1/2-1/2"
+  round: 28
+- white: "Petrosian, Tigran V"
+  black: "Kotov, Alexander"
+  result: "1/2-1/2"
+  round: 28
+- white: "Najdorf, Miguel"
+  black: "Geller, Efim P"
+  result: "0-1"
+  round: 28
+- white: "Taimanov, Mark E"
+  black: "Smyslov, Vassily"
+  result: "1/2-1/2"
+  round: 28
+- white: "Gligoric, Svetozar"
+  black: "Keres, Paul"
+  result: "0-1"
+  round: 28
+- white: "Bronstein, David I"
+  black: "Reshevsky, Samuel Herman"
+  result: "1-0"
+  round: 28
+- white: "Reshevsky, Samuel Herman"
+  black: "Gligoric, Svetozar"
+  result: "1-0"
+  round: 29
+- white: "Keres, Paul"
+  black: "Taimanov, Mark E"
+  result: "1/2-1/2"
+  round: 29
+- white: "Smyslov, Vassily"
+  black: "Najdorf, Miguel"
+  result: "1/2-1/2"
+  round: 29
+- white: "Geller, Efim P"
+  black: "Petrosian, Tigran V"
+  result: "1/2-1/2"
+  round: 29
+- white: "Kotov, Alexander"
+  black: "Averbakh, Yuri L"
+  result: "1/2-1/2"
+  round: 29
+- white: "Boleslavsky, Isaak"
+  black: "Szabo, Laszlo"
+  result: "0-1"
+  round: 29
+- white: "Stahlberg, Gideon"
+  black: "Euwe, Max"
+  result: "1/2-1/2"
+  round: 29
+- white: "Averbakh, Yuri L"
+  black: "Geller, Efim P"
+  result: "1/2-1/2"
+  round: 30
+- white: "Petrosian, Tigran V"
+  black: "Smyslov, Vassily"
+  result: "1/2-1/2"
+  round: 30
+- white: "Taimanov, Mark E"
+  black: "Reshevsky, Samuel Herman"
+  result: "1/2-1/2"
+  round: 30
+- white: "Euwe, Max"
+  black: "Boleslavsky, Isaak"
+  result: "0-1"
+  round: 30
+- white: "Gligoric, Svetozar"
+  black: "Bronstein, David I"
+  result: "1/2-1/2"
+  round: 30
+- white: "Szabo, Laszlo"
+  black: "Kotov, Alexander"
+  result: "1-0"
+  round: 30
+- white: "Najdorf, Miguel"
+  black: "Keres, Paul"
+  result: "1/2-1/2"
+  round: 30

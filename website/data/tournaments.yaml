@@ -1,0 +1,24 @@
+- event: "Cork Club Championship 2014-2015"
+  number_of_rounds: 7
+  site: "Cork, Ireland"
+  date: "2015.01.01"
+- event: "Mulcahy 2015"
+  number_of_rounds: 6
+  site: "Cork, Ireland"
+  date: "2015.01.01"
+- event: "Cork Congress 2015"
+  number_of_rounds: 6
+  site: "Cork, Ireland"
+  date: "2015.01.01"
+- event: "Ennis Open 2015"
+  number_of_rounds: 6
+  site: "Ennis, Ireland"
+  date: "2015.01.01"
+  - event: "Mulcahy 2015"
+  number_of_rounds: 6
+  site: "Cork, Ireland"
+  date: "2015.01.01"
+- event: "Cork Club Championship 2015-2016"
+  number_of_rounds: 7
+  site: "Cork, Ireland"
+  date: "2016.01.01"
