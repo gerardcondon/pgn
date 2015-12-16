@@ -37,7 +37,7 @@ title: Chess
 
     <tbody>
     <% @all_games.each do |game| %>
-        <tr class='<%= row_colour_for_my_game(game[:game]["white"], game[:game]["result"]) %> clickable-row' data-href='<%= game[:file_name] %>'>
+        <tr class='<%= row_colour_for_my_game(game[:game]["white"], game[:game]["result"]) %> clickable-row' data-href='/chess<%= game[:file_name] %>'>
             <td><%= game[:tournament] %></td>
             <td><%= game[:game]["round"] %></td>
             <td><%= game[:game]["white"] %></td>
