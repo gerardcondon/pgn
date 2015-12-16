@@ -87,6 +87,8 @@ data.collections.each do |collection|
   end
 end
 
+all_games = []
+
 data.tournaments.each do |tournament|
   file_name = chess_collection_file_name(tournament.event)
   tournament_page = "/#{file_name}/#{file_name}.html"
@@ -94,9 +96,11 @@ data.tournaments.each do |tournament|
     :locals => {no_sidebar: true, tournament: data[file_name] }, :ignore => true
   game_number = 1
   data[file_name].games.each do |game|
-    proxy "/#{file_name}/" + chess_collection_file_name(game.white + "-" + game.black) + "-#{game_number}.html", "/tournaments/game.html",
+    game_file_name = "/#{file_name}/" + chess_collection_file_name(game.white + "-" + game.black) + "-#{game_number}.html"
+    proxy game_file_name, "/tournaments/game.html",
       :locals => {no_sidebar: true, tournament: tournament_page, tournament_name: tournament.event, game: game, game_number: game_number}, :ignore => true
     game_number += 1
+    all_games << {game: game, file_name: game_file_name, tournament: tournament.event}
   end
 end
 
@@ -112,6 +116,10 @@ end
 
 page "/test/test_list.html" do
   @test_files = test_files
+end
+
+page "/tournaments.html" do
+  @all_games = all_games
 end
 
 ###
