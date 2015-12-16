@@ -95,7 +95,7 @@ data.tournaments.each do |tournament|
   game_number = 1
   data[file_name].games.each do |game|
     proxy "/#{file_name}/" + chess_collection_file_name(game.white + "-" + game.black) + "-#{game_number}.html", "/tournaments/game.html",
-      :locals => {no_sidebar: true, tournament: tournament_page, game: game, game_number: game_number}, :ignore => true
+      :locals => {no_sidebar: true, tournament: tournament_page, tournament_name: tournament.event, game: game, game_number: game_number}, :ignore => true
     game_number += 1
   end
 end

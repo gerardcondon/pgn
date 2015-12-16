@@ -1,0 +1,35 @@
+event: "Cork Club Championship 2014-2015"
+number_of_rounds: 7
+site: "Cork, Ireland"
+date: "2015.01.01"
+games: 
+- white: "370"
+  black: "Condon, Gerard"
+  result: "1-0"
+  pgn: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Cork%20Club%20Championship%202014-2015/1.pgn"
+  round: 1
+- white: "Condon, Gerard"
+  black: "310"
+  result: "1-0"
+  pgn: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Cork%20Club%20Championship%202014-2015/2.pgn"
+  round: 2
+- white: "881"
+  black: "Condon, Gerard"
+  result: "1-0"
+  pgn: "https://raw.githubusercontent.com/gerardcondon/chess/169767b3ace6d8b961891c9068eddfc6d6c59d1b/tournaments/Cork%20Club%20Championship%202014-2015/4.pgn"
+  round: 4
+- white: "Condon, Gerard"
+  black: "076"
+  result: "1-0"
+  pgn: "https://raw.githubusercontent.com/gerardcondon/chess/169767b3ace6d8b961891c9068eddfc6d6c59d1b/tournaments/Cork%20Club%20Championship%202014-2015/5.pgn"
+  round: 5
+- white: "819"
+  black: "Condon, Gerard"
+  result: "0-1"
+  pgn: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Cork%20Club%20Championship%202014-2015/6.pgn"
+  round: 6
+- white: "Condon, Gerard"
+  black: "658"
+  result: "1/2-1/2"
+  pgn: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Cork%20Club%20Championship%202014-2015/7.pgn"
+  round: 7
