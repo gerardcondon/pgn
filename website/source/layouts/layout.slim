@@ -5,7 +5,7 @@ html
     meta[http-equiv="X-UA-Compatible" content="IE=edge;chrome=1"]
     meta[name="viewport" content="width=440"]
     title
-      = page_title
+      = locals.key?(:title) ? title : page_title
     meta[name="description" content="#{page_description}"]
     - if current_article
       meta[property="twitter:card" content="summary"]
@@ -14,6 +14,14 @@ html
       meta[property="twitter:title" content="#{truncate(current_article.title, length: 70)}"]
       meta[property="twitter:description" content="#{truncate(strip_tags(current_article.summary), length: 200)}"]
       meta[property="twitter:url" content="http://www.gerardcondon.com/chess#{current_article.url}"]
+      meta[property="twitter:image" content="http://www.gerardcondon.com/chess/images/twitter-chess.jpg"]
+    - if current_page.data.twitter_card
+      meta[property="twitter:card" content="summary"]
+      meta[property="twitter:creator" content="gercondon"]
+      meta[property="twitter:site" content="gercondon"]
+      meta[property="twitter:title" content="#{locals.key?(:title) ? title : current_page.data.title}"]
+      meta[property="twitter:description" content="#{locals.key?(:description) ? description : current_page.data.description}"]
+      meta[property="twitter:url" content="http://www.gerardcondon.com/chess#{current_page.url}"]
       meta[property="twitter:image" content="http://www.gerardcondon.com/chess/images/twitter-chess.jpg"]
     = feed_tag :atom, "#{site_url}/feed.xml", title: "Chess Analysis"
     /[if lt IE 9]
@@ -27,18 +35,19 @@ html
       .row
         div.col-lg-9.col-md-9
           - unless current_article.nil?
-            h2
-              = current_article.title
-            p
-              = current_article.date.strftime('%B %e, %Y')
-              - current_article.tags.each do |tag|
-                span.tag-item
-                  small.label.label-default
-                    = tag
-            hr
+            h5
+              = link_to current_article.title, current_article
             - if current_article.data.image_src
-              img.img-responsive src=current_article.data.image_src
-              hr
+              p
+                img.img-responsive src=current_article.data.image_src
           = yield
+          - unless current_article.nil?
+            p
+              small
+                = "→ posted on #{current_article.date.strftime('%B %e, %Y')}"
+                - current_article.tags.each do |tag|
+                  span.tag-item
+                    small.label.label-default.label-tag
+                      = tag
         - if include_sidebar?
           = partial "partials/sidebar"

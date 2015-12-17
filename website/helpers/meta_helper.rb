@@ -1,5 +1,5 @@
 def page_title
-  title = site_title
+  title = current_page.data.title || site_title
   if current_article && current_article.title
     title = site_title + " | " +  current_article.title
   end
