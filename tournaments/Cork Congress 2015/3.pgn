@@ -4,7 +4,7 @@
 [Round "3"]
 [White "Condon, Gerard"]
 [Black "419"]
-[Result "*"]
+[Result "0-1"]
 [BlackElo "1586"]
 [ECO "C01"]
 [TimeControl "5400+15"]
@@ -32,5 +32,5 @@ Kf3 Nf4 45. h4 Kg6 46. hxg5 fxg5 47. Kg4 Nd3 48. Be3 Nxb2 49. Bxg5 b5 50. Be7
 Kf7 51. Bc5 a6 52. Kf5 Nd3 53. Bd6 Nb2 54. Bc5 a5 55. Bb6 ( 55. d5 cxd5 ( 55...
 Nd3 56. dxc6 Nxc5 ( 56... Ke8 57. Bb6 a4 58. Ke6 Nf4+ 59. Kd6 Ng6 60. c7 ) 57.
 c7 ) 56. Ke5 b4 ( 56... Nd3+ 57. Kxd5 ) 57. axb4 axb4 58. Bxb4 Nd3+ 59. Kxd5
-Nxb4+ ) 55... b4 56. Bxa5 bxa3 57. Bc3 Nc4  *
+Nxb4+ ) 55... b4 56. Bxa5 bxa3 57. Bc3 Nc4  0-1
 

@@ -4,7 +4,7 @@
 [Round "5"]
 [White "Condon, Gerard"]
 [Black "041"]
-[Result "*"]
+[Result "0-1"]
 [BlackElo "1274"]
 [ECO "C54"]
 [TimeControl "5400+15"]
@@ -24,5 +24,5 @@ Bg4 9. O-O { [%clk 1:25:00]}  9... Qd7 10. Re1 { [%clk 1:21:00]}  10... Rad8
 0:29:00]}  27... Ba7 28. b5 { [%clk 0:28:00]}  28... Rd8 29. Ba3 { [%clk
 0:27:00]}  29... Ng6 30. Nf5 { [%clk 0:26:00]}  30... Kh8 31. Bxf7 { [%clk
 0:21:00]}  31... Nf4 32. Qc4 { [%clk 0:19:09]}  32... Qxf3+ 33. Rg2 { [%clk
-0:19:07]}  33... Qxg2#  *
+0:19:07]}  33... Qxg2#  0-1
 

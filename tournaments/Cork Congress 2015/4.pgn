@@ -4,7 +4,7 @@
 [Round "4"]
 [White "416"]
 [Black "Condon, Gerard"]
-[Result "*"]
+[Result "1-0"]
 [BlackElo "1509"]
 [ECO "A11"]
 [TimeControl "5400+15"]
@@ -35,5 +35,5 @@ Bb5 f5 { [%clk 0:21:00]}  35. h3 Bxc3 { [%clk 0:20:00]}  36. Rxc3 fxe4 { [%clk
 0:06:05]}  59. Qe5+ Rf6 { [%clk 0:06:08]}  60. Qe7+ Rf7 { [%clk 0:06:09]}  61.
 Qg5+ Kf8 { [%clk 0:06:10]}  62. e5 Rg7 { [%clk 0:05:47]}  63. Qf6+ Rf7 { [%clk
 0:05:56]}  64. Qh6+ Rg7 { [%clk 0:06:02]}  65. e6 Kg8 { [%clk 0:06:04]}  66.
-Kd5 Rg6 { [%clk 0:06:06]}  67. Qf4 Rg7 { [%clk 0:05:56]}  68. Qb8#  *
+Kd5 Rg6 { [%clk 0:06:06]}  67. Qf4 Rg7 { [%clk 0:05:56]}  68. Qb8#  1-0
 

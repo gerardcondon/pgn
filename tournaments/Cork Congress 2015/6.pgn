@@ -4,7 +4,7 @@
 [Round "6"]
 [White "095"]
 [Black "Condon, Gerard"]
-[Result "*"]
+[Result "1/2-1/2"]
 [BlackElo "1509"]
 [ECO "A01"]
 [TimeControl "5400+15"]
@@ -23,5 +23,5 @@ Rxf3 { [%clk 0:49:00]}  23. Rdh1 h6 { [%clk 0:48:00]}  24. Bc1 Raf8 { [%clk
 0:44:00]}  25. Bxh6 gxh6 { [%clk 0:44:00]}  26. Rxh6 Kf7 { [%clk 0:42:00]}  27.
 Rg1 Ke7 { [%clk 0:41:00]}  28. Rg7+ R3f7 { [%clk 0:41:00]}  29. Rgg6 Rf6 {
 [%clk 0:39:00]}  30. Rh7+ R8f7 { [%clk 0:37:00]}  31. Rxf6 Kxf6 { [%clk
-0:37:00]}  32. Rh2 Ke7 { [%clk 0:37:00]}   *
+0:37:00]}  32. Rh2 Ke7 { [%clk 0:37:00]} 1/2-1/2
 
