@@ -1,3 +1,3 @@
 //= require jquery/jquery
-//= require bootstrap-sass-official/vendor/assets/javascripts/bootstrap
+//= require bootstrap-sass-official/assets/javascripts/bootstrap-sprockets
 //= require_tree .
