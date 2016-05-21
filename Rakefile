@@ -21,7 +21,7 @@ def get_game_for_round round, me
     say ("Enter details for Round #{round}")
     name = ask("Name: ")
     elo = ask("Elo: ")
-    say("Colour:")
+    say("Opponent Colour:")
     colour = choose("white", "black")
     say("Result:")
     result = choose("1-0", "1/2-1/2", "0-1", "*")

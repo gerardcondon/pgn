@@ -106,9 +106,7 @@ data.tournaments.each do |tournament|
 end
 
 
-test_files = [{pgn_url: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Mulcahy%202015/6.pgn", title: "Mulcahy 2015 Game 6", name: "doc"},
-{pgn_url: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Cork%20Club%20Championship%202014-2015/4.pgn", title: "Cork Club Championship 2014-2015 Game 4", name: "lh"},
-{pgn_url: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Cork%20Club%20Championship%202014-2015/5.pgn", title: "Cork Club Championship 2014-2015 Game 5", name: "aw"}]
+test_files = [{pgn_url: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Cork%20Club%20Championship%202014-2015/6.pgn", title: "Cork Club Championship 2014-2015 Game 6", name: "sl"}]
 
 test_files.each do |test_file|
   proxy "/test/#{test_file[:name]}.html", "/test/test.html",
