@@ -7,7 +7,7 @@ image: munster-league-div-2-team.jpg
 card: summary_large_image
 ---
 
-Cork B are the Munster League Division 2 Champions! Needed to win both of our matches against Charleville on the last day and we  just about did it - came down to the last game!
+Cork B are the Munster League Division 2 Champions! Needed to win both of our matches against Charleville on the last day and we just about did it - came down to the last game!
 
 I was only able to play one of the three days for this but luckily enough it was the day that we won the division, so I get into the photos of the winning lineup! I pulled a similar stunt last year with the Division 1 team.
 
