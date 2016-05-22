@@ -7,7 +7,7 @@ image: munster-league-div-2-team.jpg
 card: summary_large_image
 ---
 
-Cork B are the Division 2 Champions. I was only able to play one of the three days for this but luckily enough it was the day that we won the division, so I get into the photos of the winning lineup! I pulled a similar stunt last year with the Division 1 team.
+Cork B are the Munster League Division 2 Champions. I was only able to play one of the three days for this but luckily enough it was the day that we won the division, so I get into the photos of the winning lineup! I pulled a similar stunt last year with the Division 1 team.
 
 <figure>
     <img alt="munster-league-div-2-team" src="/images/munster-league-div-2-team.jpg" class="img-responsive">
@@ -15,4 +15,4 @@ Cork B are the Division 2 Champions. I was only able to play one of the three da
 </figure>
 
 <br>
-I've posted the two games I played in this year's competition. Here's to next year and Division 1.
+I've posted the [two games](http://www.gerardcondon.com/chess/munster-league-division-2-2016/munster-league-division-2-2016.html) I played in this year's competition. Here are the reports on the [Cork Chess site](http://corkchess.com/munster-league/) and the [Munster League Site](http://www.munsterchessunion.org). Here's to next year and Division 1.
