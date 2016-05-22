@@ -10,7 +10,7 @@ card: summary_large_image
 Cork B are the Munster League Division 2 Champions. I was only able to play one of the three days for this but luckily enough it was the day that we won the division, so I get into the photos of the winning lineup! I pulled a similar stunt last year with the Division 1 team.
 
 <figure>
-    <img alt="munster-league-div-2-team" src="/images/munster-league-div-2-team.jpg" class="img-responsive">
+    <img alt="munster-league-div-2-team" src="http://www.gerardcondon.com/chess/images/munster-league-div-2-team.jpg" class="img-responsive">
     <figcaption>The team lineup of Dave Smith, Tom McGrath, Simon Lawrence (Team Captain), Gerard Condon and Len Hackett. Not present are Mark Watkins, Desmond Doran and and Alan White.</figcaption>
 </figure>
 
