@@ -1,0 +1,15 @@
+event: "Munster League Division 1 2016-2017"
+number_of_rounds: 2
+site: "Charleville, Ireland"
+date: "2015.01.01"
+games: 
+- white: "Condon, Gerard"
+  black: "310"
+  result: "0-"
+  pgn: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Munster%20League%20Division%102%202016%202017/1.pgn"
+  round: 1
+- white: "Condon, Gerard"
+  black: "588"
+  result: "1-0"
+  pgn: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Munster%20League%20Division%102%202016%202017/2.pgn"
+  round: 2
