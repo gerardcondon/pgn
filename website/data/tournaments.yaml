@@ -1,39 +1,43 @@
-- event: "Cork Club Championship 2014-2015"
-  number_of_rounds: 7
-  site: "Cork, Ireland"
-  date: "2015.01.01"
 - event: "Mulcahy 2015"
   number_of_rounds: 6
   site: "Cork, Ireland"
-  date: "2015.01.01"
+  date: "2015.01.02"
 - event: "Cork Congress 2015"
   number_of_rounds: 6
   site: "Cork, Ireland"
-  date: "2015.01.01"
-- event: "Ennis Open 2015"
-  number_of_rounds: 6
-  site: "Ennis, Ireland"
-  date: "2015.01.01"
+  date: "2015.03.27"
 - event: "Malahide Millennium Tournament 2015"
   number_of_rounds: 6
   site: "Dublin, Ireland"
-  date: "2015.01.01"
+  date: "2015.05.02"
 - event: "Munster League 2015"
   number_of_rounds: 2
   site: "Mallow, Ireland"
-  date: "2015.01.01"
+  date: "2015.05.09"
+- event: "Cork Club Championship 2014-2015"
+  number_of_rounds: 7
+  site: "Cork, Ireland"
+  date: "2015.05.15"
+- event: "Ennis Open 2015"
+  number_of_rounds: 6
+  site: "Ennis, Ireland"
+  date: "2015.05.17"
 - event: "Irish Junior Championship 2015"
   number_of_rounds: 5
   site: "Dublin, Ireland"
-  date: "2015.01.01"
-- event: "Cork Club Championship 2015-2016"
-  number_of_rounds: 7
+  date: "2015.07.05"
+- event: "Mulcahy 2015"
+  number_of_rounds: 1
   site: "Cork, Ireland"
-  date: "2015.01.01"
+  date: "2016.01.02"
 - event: "Munster League Division 2 2016"
   number_of_rounds: 2
   site: "Mallow, Ireland"
-  date: "2015.01.01"
+  date: "2016.05.08"
+- event: "Cork Club Championship 2015-2016"
+  number_of_rounds: 7
+  site: "Cork, Ireland"
+  date: "2016.05.20"
 - event: "Munster League Division 1 2016-2017"
   number_of_rounds: 4
   site: "Charleville, Ireland"

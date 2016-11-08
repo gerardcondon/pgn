@@ -72,6 +72,13 @@ helpers do
       return (white_player_name.eql? "Condon, Gerard") ? "danger" : "success" 
     end
   end
+  
+  def row_colour_for_rating previous_rating, new_rating
+    if previous_rating > new_rating
+      return "danger" 
+    end
+    "success"
+  end
 end
 
 # Proxy pages (https://middlemanapp.com/advanced/dynamic_pages/)
