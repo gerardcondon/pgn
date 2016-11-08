@@ -15,6 +15,7 @@ overflow-x: hidden;
   <li><a href="/chess/tournaments.html">My Tournaments</a></li>
   <li><a href="/chess<%= tournament %>"><%= tournament_name %></a></li>
   <li class="active"><%= game.white %> - <%= game.black %></li>
+  <li class="pull-right"><a href="<%= game.pgn %>">pgn</a></li>
 </ol>
 
 <script src="../fonts/chess-informant-NAG-symbols.js" type="text/javascript"></script>
