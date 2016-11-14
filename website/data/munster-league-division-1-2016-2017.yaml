@@ -28,3 +28,13 @@ games:
   result: "0-1"
   pgn: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Munster%20League%20Division%201%202016-2017/5.pgn"
   round: 5
+- white: "Condon, Gerard"
+  black: "577"
+  result: "1-0"
+  pgn: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Munster%20League%20Division%201%202016-2017/6.pgn"
+  round: 6
+- white: "Condon, Gerard"
+  black: "602"
+  result: "0-1"
+  pgn: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Munster%20League%20Division%201%202016-2017/7.pgn"
+  round: 7
