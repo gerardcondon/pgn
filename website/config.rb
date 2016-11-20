@@ -31,6 +31,25 @@ Slim::Engine.set_default_options :shortcut => {
 #set :markdown, :tables => true, :autolink => true, :gh_blockcode => true, :fenced_code_blocks => true, :with_toc_data => true
 set :markdown_engine, :redcarpet
 
+# Clear out automated posts folder
+automated_posts_folder = "#{config[:source]}/posts/automated"
+FileUtils.rmtree(automated_posts_folder)
+FileUtils.mkdir(automated_posts_folder)
+
+post_counter = 1
+data.microposts.each do |micropost|
+  post_content = "---\n"
+  post_content += "title: mp#{post_counter}\n"
+  post_content += "date: #{micropost.date}\n"
+  post_content += "tags: microposts\n"
+  post_content += "micropost: true\n"
+  post_content += "---\n"
+  post_content += "#{micropost.text}"
+  
+  File.write("#{automated_posts_folder}/#{micropost.date}-mp#{post_counter}.html.md", post_content)
+  
+  post_counter += 1
+end
 
 # Per-page layout changes:
 #
@@ -140,7 +159,7 @@ activate :blog do |blog|
 
   # blog.permalink = "{year}/{month}/{day}/{title}.html"
   # Matcher for blog source files
-  blog.sources = "posts/{year}-{month}-{day}-{title}.html"
+  blog.sources = "posts/{type}/{year}-{month}-{day}-{title}.html"
   # blog.taglink = "tags/{tag}.html"
   # blog.layout = "layout"
   # blog.summary_separator = /(READMORE)/

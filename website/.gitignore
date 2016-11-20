@@ -23,3 +23,5 @@
 # Ignore Gemfile.lock
 /Gemfile.lock
 .gitconfig
+
+source/posts/automated

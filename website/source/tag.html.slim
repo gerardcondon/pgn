@@ -17,8 +17,9 @@ h3
       = link_to 'Previous page', prev_page
 ul
   - page_articles.each_with_index do |article, i|
-    h5
-      = link_to article.title, article
+    - if !article.data.micropost
+      h5
+        = link_to article.title, article
     - if article.data.image_src
       p
         img.img-responsive src=article.data.image_src

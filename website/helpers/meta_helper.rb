@@ -39,3 +39,18 @@ def page_keywords
 
   keywords.uniq.join(", ")
 end
+
+
+module Middleman
+  module Blog
+    module BlogArticle
+      def display_title
+        data["micropost"] ? "" : data["title"]
+      end
+    end
+  end
+end
+
+  
+  
+  
