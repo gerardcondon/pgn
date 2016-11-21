@@ -1,0 +1,10 @@
+event: "Cork Club Championship 2016-2017"
+number_of_rounds: 1
+site: "Cork, Ireland"
+date: "2016.11.18"
+games: 
+- white: "Condon, Gerard"
+  black: "814"
+  result: "1-0"
+  pgn: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Cork%20Club%20Championship%202016-2017/1.pgn"
+  round: 1
