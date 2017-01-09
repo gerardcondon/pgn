@@ -26,7 +26,8 @@ ul
     = article.body
     p
       small
-        = "→ posted on #{article.date.strftime('%B %e, %Y')}"
+        = link_to "→", article
+        = " posted on #{article.date.strftime('%B %e, %Y')}"
         - article.tags.each do |tag|
           span.tag-item
             small.label.label-default.label-tag

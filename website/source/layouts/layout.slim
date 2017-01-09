@@ -35,8 +35,9 @@ html
       .row
         div.col-lg-9.col-md-9
           - unless current_article.nil?
-            h5
-              = link_to current_article.title, current_article
+            - if !current_article.data.micropost
+              h5
+                = link_to current_article.title, current_article
             - if current_article.data.image_src
               p
                 img.img-responsive src=current_article.data.image_src
@@ -44,7 +45,8 @@ html
           - unless current_article.nil?
             p
               small
-                = "→ posted on #{current_article.date.strftime('%B %e, %Y')}"
+                = link_to "→", current_article
+                = " posted on #{current_article.date.strftime('%B %e, %Y')}"
                 - current_article.tags.each do |tag|
                   span.tag-item
                     small.label.label-default.label-tag
