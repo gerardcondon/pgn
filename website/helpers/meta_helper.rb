@@ -44,8 +44,20 @@ end
 module Middleman
   module Blog
     module BlogArticle
+      def is_micropost?
+        data["micropost"]
+      end
+      
       def display_title
-        data["micropost"] ? "" : data["title"]
+        is_micropost? ? "" : data["title"]
+      end
+      
+      def published_time
+        date.to_time.iso8601
+      end
+      
+      def updated_time
+        is_micropost? ? published_time : File.mtime(source_file).iso8601
       end
     end
   end
