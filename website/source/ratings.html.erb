@@ -7,15 +7,20 @@ description: "Historical Rating Data"
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.13.0/moment.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.2.1/Chart.bundle.js"></script>
 	
-	
-	
+<h2>Current Ratings</h2>
+<strong>ICU Rating:</strong> <a href=" http://ratings.icu.ie/live_ratings?utf8=%E2%9C%93&per_page=&last_name=Condon&first_name=Gerard&gender=&icu_id=&commit=Search&club=&fed=&type=">1519</a> <br>
+<strong>FIDE Rating:</strong> <a href="https://ratings.fide.com/card.phtml?event=2510111">1734</a> <br>
+<strong>Universal Rating System:</strong> <a href="http://universalrating.com/player.php?PlayerID=442657">1828</a> <br>
+
+<h2>Rating History</h2>
+
 <div>
 	<canvas id="canvas"></canvas>
 </div>
 
 <script>
     function newDateString(days) {
-	    return moment(days).format();
+	    return moment(days, "YYYY-MM-DD").format();
     }
 
 		var config = {
@@ -24,7 +29,7 @@ description: "Historical Rating Data"
 				datasets: [{
 					label: "Historical ICU Rating",
 					data: [
-					    <%= data.ratings.map { |rating| "{x:newDateString(\"" + rating.date + "\"), y:#{rating.rating}}" }.join(",") %>
+					    <%= data.ratings.icu.map { |rating| "{x:newDateString(\"" + rating.date + "\"), y:#{rating.rating}}" }.join(",") %>
 					],
 					fill: false,
 					borderColor: '#000000'
@@ -70,9 +75,6 @@ description: "Historical Rating Data"
 
 		};
 </script>
-		
-
-<h2>Rating History</h2>
 
 <table class="table table-hover table-striped table-bordered">
     <thead>
@@ -86,7 +88,7 @@ description: "Historical Rating Data"
 
     <tbody>
     <% currentRating = 0 %>
-    <% data.ratings.each do |rating| %>
+    <% data.ratings.icu.each do |rating| %>
         <tr class='<%= row_colour_for_rating(currentRating, rating.rating) %>'>
             <td><%= rating.event %></td>
             <td><%= rating.date %></td>
@@ -97,6 +99,3 @@ description: "Historical Rating Data"
     <% end %>
     </tbody>
 </table>
-
-<strong>ICU Rating:</strong> <a href=" http://ratings.icu.ie/live_ratings?utf8=%E2%9C%93&per_page=&last_name=Condon&first_name=Gerard&gender=&icu_id=&commit=Search&club=&fed=&type=">1519</a> <br>
-<strong>FIDE Rating:</strong> <a href="https://ratings.fide.com/card.phtml?event=2510111">Unrated</a> <br>
