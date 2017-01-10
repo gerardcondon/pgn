@@ -2,7 +2,7 @@
 title: Cork Club Ladder Round 1
 date: 2016-11-07
 tags: chess
-description: My games from the frst round of the Cork club ladder for the 2016-2017 season
+description: My games from the first round of the Cork club ladder for the 2016-2017 season
 ---
 
 Last Friday saw the inaugural round of the new Cork Chess Club [Ladder](http://corkchess.com/wp/wp-content/uploads/Cork-Chess-Club-Ladder-System-Oct2016.pdf) tournament. 
