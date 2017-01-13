@@ -10,27 +10,217 @@
 [TimeControl "5400+15"]
 [WhiteElo "1509"]
 
-1. e4 c6 2. d4 d5 3. exd5 { [%clk 1:29:00]}  3... Qxd5 4. Nf3 { [%clk 1:28:00]} 
-4... Bf5 5. Nc3 { [%clk 1:26:00]}  5... Qa5 6. Bc4 { [%clk 1:24:00]}  6... Nd7
-7. O-O { [%clk 1:23:00]}  7... h6 8. Re1 { [%clk 1:21:00]}  8... Bg4 9. Bd2 {
-[%clk 1:15:00]}  9... Ngf6 10. d5 { [%clk 1:04:00]}  10... Qc5 11. Bb3 { [%clk
-0:52:00]}  11... cxd5 12. Be3 { [%clk 0:50:00]}  12... Qa5 13. Nxd5 { [%clk
-0:47:00]}  13... e6 14. Nc3 { [%clk 0:40:00]}  14... Bb4 15. Bd2 { [%clk
-0:37:00]}  15... O-O 16. a3 { [%clk 0:34:00]}  16... Be7 17. Nd5 { [%clk
-0:33:00]}  17... Qd8 18. Nxe7+ { [%clk 0:33:00]}  18... Qxe7 19. Bb4 { [%clk
-0:30:00]}  19... Nc5 20. Qe2 { [%clk 0:28:00]}  20... Rfc8 21. h3 { [%clk
-0:27:00]}  21... Bh5 22. Qe3 { [%clk 0:25:00]}  22... Bxf3 23. Qxf3 { [%clk
-0:24:00]}  23... Qc7 24. Bxc5 { [%clk 0:21:00]}  24... Qxc5 25. Qxb7 { [%clk
-0:21:00]}  25... Nd5 26. Qa6 { [%clk 0:16:09]}  26... Nc7 27. Qc4 { [%clk
-0:15:47]}  27... Qf5 28. Rad1 { [%clk 0:15:23]}  28... Nd5 29. Qe4 { [%clk
-0:15:23]}  29... Qf6 30. Bxd5 { [%clk 0:15:11]}  30... exd5 31. Qd4 { [%clk
-0:14:41]}  31... Qg6 32. c3 { [%clk 0:13:43]}  32... Rab8 33. b4 { [%clk
-0:13:14]}  33... Qc2 34. Rc1 { [%clk 0:10:57]}  34... Qb3 35. Qxa7 { [%clk
-0:09:58]}  35... Ra8 36. Qd7 { [%clk 0:09:37]}  36... Qxa3 37. Qxd5 { [%clk
-0:09:38]}  37... Rd8 38. Qf3 { [%clk 0:09:24]}  38... Rac8 39. Qe3 { [%clk
-0:07:20]}  39... Qa4 40. Re2 { [%clk 0:06:40]}  40... Re8 41. Qd2 { [%clk
-0:06:07]}  41... Red8 42. Qc2 { [%clk 0:06:15]}  42... Qb5 43. Qb2 { [%clk
-0:06:05]}  43... Qd5 44. Rec2 { [%clk 0:05:53]}  44... Qh5 45. Qb1 { [%clk
-0:05:40]}  45... Rc4 46. b5 { [%clk 0:05:30]}  46... Rb8 47. b6 Rb7 48. Ra2 Qg5
-49. Ra8+  1-0
+1. e4 c6 { The Caro khan opening.}  2. d4 { Challenge in the centre}  2... d5 {
+The d5 pawn is supported by the pawn in c6.}  3. exd5 { [%clk 1:29:00] Exchange
+variation.}  3... Qxd5 { I expected the recapture with the pawn to be honest. I
+assumed the point of c6 is that you can exchange a side pawn for a central
+pawn.}  4. Nf3 { [%clk 1:28:00] Standard developing move. I don't know that
+it's bad per se but I wonder would I have been better off playing c4 now. The d
+pawn isn't really being threatened at the moment.}  4... Bf5 { Would g4 have
+been a better square for this bishop. At least there it I'd pinning the Knight.
+Don't think it is doing a better job on f5.}  5. Nc3 { [%clk 1:26:00] This was
+a bad move. I block in the c pawn. At the time I didn't really understand how
+important c pawn breaks are in chess. I don't really need to worry about the d
+pawn for the moment as white can't bring a Knight to c6 to put pressure on
+it.
 
+I was a bit nervous though as I was worrying that I could get myself into
+an awkward situation as my king was in the centre. Still I think I have Be3 to
+block any checks in the e file and Be2 to break a pin on the Knight.
+
+Not sure
+though. Will have to check what I would do against Qe4 check and then bg5. I
+could end up in a situation where I get doubled f pawns. That was why I went
+for the safer option here.}  5... Qa5 { Shifts the Queen to where it puts
+pressure on the King. Now the c3 Knight is pinned.}  6. Bc4 { [%clk 1:24:00]
+Develops the bishop to a good diagonal and prepare for kingside castling.} 
+6... Nd7 { The c6 square is blocked so this is really the only square to
+develop the Knight to. From here it can support the c5 pawn break.}  7. O-O {
+[%clk 1:23:00] Get the king to safety and unpin the Knight. I think I have a
+good position now. Three of my minor pieces are developed and my king is
+castled.}  7... h6 { I don't know about this move. Normally in opening books it
+days not to do this kind of thing early in the opening. However it does take
+away a good square for my bishop. Still black is falling behind in
+development.}  8. Re1 { [%clk 1:21:00] With Black's king in the center this
+move bring the to rook to an open file and puts pressure on the king. I wonder
+should I have developed the dark squared bishop instead but I get to do that in
+the next move.}  8... Bg4 { This is possibly also a bit dubious. The piece was
+already developed and now it's being moved again. Maybe Nf6 instead.}  9. Bd2 {
+[%clk 1:15:00] Develop my last minor piece and line it up against the black
+Queen. Now he has to be careful of discovered attacks.}  9... Ngf6 { Sensible
+move. He has to finish development.}  10. d5 { [%clk 1:04:00] I was kind of
+treating this position as an IQP position as the d pawn is not currently
+supported by the c pawn. I put my pieces in roughly the same places that I
+would under normal IQP circumstances. In those types of positions you normally
+want to play d5 so I assumed that it would be a strong move here.
+
+Other
+candidate moved would have been to develop the Queen and a1 rook first. Perhaps
+that would have been a better way to pay it as black still needs a few moves to
+complete development. However after e6 it might be tricky for me to pay d5.
+
+I
+wonder are there any tricks with Nd5 here. The Queen has to go back and now can
+I do a Legall's type of move with Ne4 or Ng5. I couldn't see anything definite.
+Will have to check with the engine.}  10... Qc5 { This attacks the bishop do I
+have to drop it back or defend it. He could have taken in d5 but then after
+Knight takes his Queen is attacked.}  11. Bb3 { [%clk 0:52:00] Protects the
+bishop and keeps it in a good diagonal. Another option would have been Qe2.
+Looking at the position now I see that d6 is vulnerable as the e pawn is
+pinned. If I could get a pawn or Knight there then black would be in trouble.
+Maybe after Qe2, Ne4 would be interesting. One problem I see in ask these
+tactics is that if I swap of the f6 Knight, removing the defender of the g4
+bishop, he just recaptures with the other Knight.}  11... cxd5 { Captured the
+pawn but this d pawn is not really defendable by black. I have to many pieces
+attacking it.}  12. Be3 { [%clk 0:50:00] This moves the bishop to a more
+aggressive square attacking black's queen and unveils my queen against the d
+pawn.}  12... Qa5 13. Nxd5 { [%clk 0:47:00] Take back the centre pawn and move
+my Knight to a commanding square}  13... e6 { Attacks the Knight and makes
+space for developing the bishop and eventually castling}  14. Nc3 { [%clk
+0:40:00] I thought I had to move the Knight back but looking at it now I
+realise that I can use the pin if I move my bishop from e3. Moving the Knight
+back is very passive but if I moved say bf4 then I would be threatening nc7.
+There may be some tactic here as there seem to be lots of pins.}  14... Bb4 {
+Now he's able to develop the bishop with tempo and is ready for castling.}  15.
+Bd2 { [%clk 0:37:00] Had to defend the Knight as he was threatening Bxc3
+winning a pawn.}  15... O-O { Now his position looks a lot better than a couple
+of moves ago.}  16. a3 { [%clk 0:34:00] This will either unpin the Knight or
+win the two bishops}  16... Be7 { He retreats the bishop rather than exchange
+it for the Knight. It is undefended here though and the rook is lined up
+against it so there may be tactical possibilities.}  17. Nd5 { [%clk 0:33:00]
+This attacks the Queen and bishop.}  17... Qd8 { The only move to save the
+bishop.}  18. Nxe7+ { [%clk 0:33:00] Wins the bishop pair}  18... Qxe7 {
+Forced}  19. Bb4 { [%clk 0:30:00] Now I get to attack using the skewer on the
+Queen.}  19... Nc5 { He is able to block this though with the Knight. I
+immediately tried to put pressure on the Knight but couldn't find the right
+move to attack it in time. If I had spent the couple of moves earlier bringing
+my rook to d1 it might had been better now.}  20. Qe2 { [%clk 0:28:00] This
+makes space for the rook to cone to d1. I don't know if Qd4 works now as there
+is a complicated line with Nxb3. Also even Rfd8 is strong against this.}  20...
+Rfc8 { Black has time to defend the rook. Is this the right rook to move
+though? I would have thought putting rooks on the c and d file would be good
+for him. This move ruled it out by putting the rook on the d file. Also the f
+rook was already developed whereas the a rook wasn't.}  21. h3 { [%clk 0:27:00]
+This attacks the bishop and asks black what he wants to do with it. It also
+makes some luft for the king. I think Rd1 would have been a better move
+grabbing the open d file.}  21... Bh5 { Moves the bishop back maintaining the
+pin}  22. Qe3 { [%clk 0:25:00] Again Rd1 should probably have been played here.
+This move attacks the pinned Knight and black has no discovered attacks with
+his Knight against my Queen so it's a serious threat that he needs to defend
+against.}  22... Bxf3 { This moves diverts the Queen away from attacking the
+Knight. However it now lines it up against the b7 pawn. I don't think it was
+worth trading here as black doesn't force white to damage his own structure.} 
+23. Qxf3 { [%clk 0:24:00] Forced recapture really. Don't want to take with the
+g pawn.}  23... Qc7 { Unpins the Queen and defends the Knight. Note this Knight
+is free to move and can take the b3 bishop.}  24. Bxc5 { [%clk 0:21:00] This
+tactic wins a pawn. Now white will have a 3:1 pawn majority on the queenside
+and has a passed pawn. Didn't really consider any other moves as the Knight is
+no longer pinned.}  24... Qxc5 { Forced.}  25. Qxb7 { [%clk 0:21:00] I gain the
+pawn but my Queen is slightly out of position. If I had developed the a1 rook
+earlier then this position would be even better for me.}  25... Nd5 { This
+centralises the Knight. This is a really good square for it and I was starting
+to get a bit concerned that my Queen could get trapped in the corner.}  26. Qa6
+{ [%clk 0:16:09] I decided to bring the Queen back to my side of the board.
+From here it can't really be blocked along the a6-f1 diagonal. Would d7 have
+been a better square? It's more aggressive and I think I can always get back to
+a4 from here.}  26... Nc7 { This attacks the Queen and forces it to move.
+However I was likely to move the Queen myself anyway. Also I think this is a
+worse square for the Knight than d5. Instead qd4 looks a tough move for me to
+meet. I think I would have to weaken my position to defend the b pawn.}  27.
+Qc4 { [%clk 0:15:47] I have to move the Queen and I think this is a good
+square. I would be happy to trade off the queens as it would mean getting
+closer to an endgame where my queenside pawns would be a major factor.}  27...
+Qf5 { This is a good square for the Queen. It attacks two of my pawns and is
+fairly active here. Black prefers to keep the Queens on. I think that's
+correct.}  28. Rad1 { [%clk 0:15:23] Grab the open d file. I think this is a
+good move but possibly a bit to late as the rook will probably be better off
+behind the pawns as I push then down the board.
+
+I think my own plan should be
+to aim for b4 and c4-5.}  28... Nd5 { As I said before I think this is the best
+square for the Knight.}  29. Qe4 { [%clk 0:15:23] Centralising my Queen and
+again offering the trade of Queens. Now black doesn't want to trade so I can
+gain tempi by forcing his Queen to move or be traded.}  29... Qf6 { This
+attacks b2 and it's an awkward move to respond to as my bishop is blocking the
+advance of the b pawn.}  30. Bxd5 { [%clk 0:15:11] This is a bad move. Both
+strategically as the bishop should be better than the Knight in the endgame.
+But also tactically. I think Qe5 here would win the e pawn or trade Queens. If
+he moves the Queen away then I take on d5 with the bishop and then d5 is
+isolated and I can possibly take with the rook. Would need to be careful that
+c2 isn't dropping. If he trades on e5 then I take with the rook and the Queen's
+are gone and my rooks are very active.}  30... exd5 { Forced recapture}  31.
+Qd4 { [%clk 0:14:41] The Queen was under attack so I had to move it somewhere.
+Also both my b and c pawns are being attacked. I decided to offer the trade of
+Queens as I thought this would be better for me. If he goes for this then my
+rooks are in open files and I think I get them to the 7th rank before black can
+do anything about it. Even if he grabbed both b and c pawns, having both rooks
+on the 7th should be winning.
+
+Following that plan I have two squares to move
+the Queen, either d4 or e5. The advantage of d4 is that I also attack his a
+pawn and my Queen can't be attacked by his rooks. The advantage of e5 is that
+my rook is attacking the d pawn so even if he defends it with a rook I should
+still be able to capture. Looking at it now I'm not sure which is better.} 
+31... Qg6 { He avoids the trade of Queens. Now my Queen is fairly active. I
+need to defend the c pawn against attack though.}  32. c3 { [%clk 0:13:43] This
+is the only move I think which saves the pawn.}  32... Rab8 { Now he attacks my
+b pawn but offers up his a pawn.}  33. b4 { [%clk 0:13:14] This was a stupid
+move. I should have protected the pawn by doubling my rooks on the d file. This
+would also have ganged up on his isolated d pawn. After the text move I now
+have two pawns to defend instead of one.}  33... Qc2 { Now his Queen is very
+active, my c pawn us attacked twice and my a pawn is looking weak.}  34. Rc1 {
+[%clk 0:10:57] I have to hold onto the c pawn so I think a move like this is
+forced. The alternative is Rc3. I was wary of leaving just one rook on the back
+rank with his Queen around. Also I wanted to keep my rooks behind my pawns when
+I started to push them.}  34... Qb3 { Now my a pawn is attacked.}  35. Qxa7 {
+[%clk 0:09:58] I decided to grab this pawn and offer up the c pawn. I can't
+defend the a pawn by moving it forward.}  35... Ra8 { Attacks my Queen forcing
+it to move. Now both my a and c pawns are falling. I don't know if I can hold
+on to any of them.}  36. Qd7 { [%clk 0:09:37] By moving here I indirectly
+defend the a pawn by attacking the c8 rook. However my c pawn is available to
+be taken.}  36... Qxa3 { He captures the a pawn but I wonder if he should have
+taken the c pawn instead as the a pawn would still be vulnerable. I don't think
+I can get the d pawn in return if he takes the c pawn as my rook on e1 would be
+attacked by the Queen at the end of the variation.}  37. Qxd5 { [%clk 0:09:38]
+Now he can't take the c pawn as his rook in a1 would hang. I was happy with
+these trades as now I have a pair of connected passed pawns. My Queen is nicely
+centralised here.}  37... Rd8 { Attacks my Queen and forces it to move but
+gives up the attack on the c pawn}  38. Qf3 { [%clk 0:09:24] Defends the c pawn
+and moves the Queen to a square where it can't be harassed by his rooks.} 
+38... Rac8 { Attacks the c pawn again}  39. Qe3 { [%clk 0:07:20] I'm not sure
+what my aim was with this move. Probably to protect the c rook while
+manoeuvring the e rook elsewhere.}  39... Qa4 { I'm not too sure about this
+move. Is the Queen that much better placed on a4. I don't think there was a
+risk of trapping it with my rooks. Maybe a2 which would also control c4. Black
+could try to double his rooks and go after the c pawn.}  40. Re2 { [%clk
+0:06:40] Starting to double the rooks and try to push the pawns. I would have
+loved to trade off some pieces here but my opponent gave me no opportunity.} 
+40... Re8 { I don't think Black's next two rook moves accomplished much for him
+except driving my Queen to where she could support my pawns and still be
+protected from the rooks. I think he needed to double the rooks or otherwise
+improve the coordination of his pieces.}  41. Qd2 { [%clk 0:06:07] Going over
+to support the pawns}  41... Red8 { Had to move the rook otherwise I would have
+traded a pair of then.}  42. Qc2 { [%clk 0:06:15] I don't know why I went here
+instead of to b2. I offered the Queen trade but black had to keep the Queens
+on.}  42... Qb5 { Couldn't have traded Queens as then my king could come over
+to support the pawns down the board.}  43. Qb2 { [%clk 0:06:05] Now moved the
+Queen to b2. It still supports the c pawn but also allowed for doubling the
+rooks.}  43... Qd5 { Centralise the Queen.}  44. Rec2 { [%clk 0:05:53] Now I'm
+ready to push the pawns.}  44... Qh5 { I have to be careful of possible back
+rank issues. Now black has two pieces targeting e1.}  45. Qb1 { [%clk 0:05:40]
+This was a bad move. It's lining up the Queen against h7 so that I would have
+back rank threats again. In the end this worked out but I think that is more
+luck than anything else.
+
+I think I should have started to push the pawns now
+with c4.}  45... Rc4 { This move is really good and it completely halts my
+pawn's forward progress.}  46. b5 { [%clk 0:05:30] I think this is another
+mistake. Don't I end up losing one of these pawns now?}  46... Rb8 { With the
+rooks on separate files now black can attack both pawns and I can't protect
+both.}  47. b6 { I pushed the pawn as otherwise I would lose it. Maybe Rb2
+would have been better as then I would have Rb3 to protect both pawns.}  47...
+Rb7 { This was a bad move. Qc5 would have won a pawn. Also moving the rook of
+the back rank leaves the king open to check.}  48. Ra2 { This sets up the
+threat of my rooks penetrating to the 7th rank. I assumed that after black
+protected against Ra8 then I could play Ra7.}  48... Qg5 { Black missed the
+threat and now mate is unavoidable.}  49. Ra8+  
