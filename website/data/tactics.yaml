@@ -4,11 +4,6 @@ chessity:
 - date: "2017.02.08"
   rating: 1777  
 - date: "2017.02.09"
-  rating: 1821
-chess.com:
-- date: "2017.02.07"
-  rating: 1900
-- date: "2017.02.08"
-  rating: 1906
-- date: "2017.02.09"
-  rating: 1893
+  rating: 1821  
+- date: "2017.02.10"
+  rating: 1876
