@@ -61,3 +61,6 @@ ucr:
 - event: "January 2017 List"
   date: "2017.01.01"
   rating: 1828
+- event: "February 2017 List"
+  date: "2017.02.01"
+  rating: 1825
