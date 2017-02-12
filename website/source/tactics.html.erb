@@ -1,0 +1,73 @@
+---
+title: My Chess Ratings
+twitter_card: true
+description: "My current Chessity Tactics Rating - and snazzy trend graphs"
+---
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.13.0/moment.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.2.1/Chart.bundle.js"></script>
+	
+<h2>Chessity Tactics Rating</h2>
+<strong>Rating:</strong> <%= data.tactics.chessity.last.rating %> <br>
+
+<div>
+	<canvas id="canvas"></canvas>
+</div>
+
+<script>
+    function newDateString(days) {
+	    return moment(days, "YYYY-MM-DD").format();
+    }
+
+		var config = {
+			type: 'line',
+			data: {
+				datasets: [{
+					label: "Historical Chessity Tactics Rating",
+					data: [
+					    <%= data.tactics.chessity.map { |rating| "{x:newDateString(\"" + rating.date + "\"), y:#{rating.rating}}" }.join(",") %>
+					],
+					fill: false,
+					borderColor: '#000000'
+				}]
+			},
+			options: {
+				responsive: true,
+				legend: {
+    display: false,
+},
+                title:{
+                    display:true,
+                    text:"Chessity Tactics Rating"
+                },
+				scales: {
+					xAxes: [{
+						type: "time",
+						display: true,
+						scaleLabel: {
+							display: true,
+							labelString: 'Date'
+						}
+					}],
+					yAxes: [{
+						display: true,
+						scaleLabel: {
+							display: true,
+							labelString: 'Rating'
+						},
+                ticks: {
+                    max: 2000,
+                    min: 1650
+                }
+					}]
+				}
+			}
+		};
+		
+		window.onload = function() {
+			var ctx = document.getElementById("canvas").getContext("2d");
+			ctx.imageSmoothingEnabled = false;
+			window.myLine = new Chart(ctx, config);
+
+		};
+</script>
