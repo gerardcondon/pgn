@@ -13,3 +13,8 @@ games:
   result: "1-0"
   pgn: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Cork%20Club%20Championship%202016-2017/2.pgn"
   round: 2
+- white: "Condon, Gerard"
+  black: "572"
+  result: "0-1"
+  pgn: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Cork%20Club%20Championship%202016-2017/3.pgn"
+  round: 3
