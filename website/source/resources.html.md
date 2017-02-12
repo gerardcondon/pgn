@@ -57,7 +57,39 @@ Unfortunately I didn't play any real serious chess as a teenager or in my twenti
 <dd>
 This is a really great tactics book. The puzzles aren't labelled so you don't know what the required solution is. Instead you just have to find the best move in the position. The positions come from real games so they are realistic.
 </dd>
+<br>
+
+<dt><a href="https://www.amazon.co.uk/Win-Chess-New-Algebraic-Dover/dp/0486418782">How to Force Checkmate by Fred Reinfeld</a></dt>
+<dt><a href="https://www.amazon.co.uk/How-Force-Checkmate-Fred-Reinfeld/dp/0486204391">Win at Chess by Fred Reinfeld</a></dt>
+<dd>
+I picked up a these two books in the States for about a dollar each secondhand. They're fairly slim volumes but have 300 puzzles each. I think they're great and I've gotten great use out of them.
+</dd>
+
 </dl>
+
+<!--
+
+
+-->
+
+<!--
+
+### Chess Biographies
+
+My Great Predecessors - Garry Kasparov: I have a couple of these. Nigel Short calls these the great unread collection and that's pretty much the case with mine also! I just dip in and out of them.
+
+The Life and Games of Mikhail Tal - Mikhail Tal: This is an interesting book as it's a chess autobiography and an annotated game collection all in one. Again I've just dipped in and out of this but the parts I've read are very interesting.
+
+-->
+
+
+<!--
+ 
+### Annotated Collections
+* Logical Chess Move by Move - Irving Chernev
+* Understanding Chess Move by Move - Junn Nunn 
+
+-->
 
 ### Sites
 
@@ -76,25 +108,24 @@ There are lots of chess players streaming on Twitch and Youtube. Here are the on
 <dt><a href="https://www.youtube.com/channel/UCNB4vCw1iI8c-vMkgPZIz5w"> Astaneh Chess</a></dt>
 </dl>
 
+
 <!--
- 
-### Annotated Collections
-* Logical Chess Move by Move
-* Junn Nunn's Move by Move
+
+Chess Structures - Mauricio Flores Rios
 
 
-Kasparov: I have a couple of these. nigel short calls these the great unread collection and that's pretty much the case with mine also! I just dip in and out of them.
-Tal: This is an interesting book as it's a chess autobiography and an annotated game collection all in one. Again I've just dipped in and out of this but the parts I've read are very interesting.
+
+
 Seirawan: Winning Chess Strategies. Yasser Seirawan has written an excellent series of Winning Chess ... books. I read these years ago and found them invaluable in learning chess. Highly recommended. He has a great writing style and also comes across really well as a broadcaster. One of my favourite chess authors/presenters.
 Yusupov - boost your chess: I have the collection of these and am working my way through book 1. This is a long term project and hopefully it will pay off. The books are well done and structured well with each book 20 lessons and excercises to reinforce the lessons.
 Bronstein Zurich: This book comes recommended from lots of sites. It covers the 1953 Candidates tournament in Zurich. I'm finiding it a really good book. There's not much opening theory or long thickets of variations. Instead each game focuses on the middlegame strategies. I have the [games][] online here so that I can play along as I'm reading.
 
-Reinfeld puzzle books
+
 
 Art of Attack in Chess
 Chess Structures
 Chess Tactics from scratch
-Chess pattern recognition
-
+Improve Your Chess Pattern Recognition by Arthur Van Der Oudeweetering
+Petrosian Move By Move by Thomas Engqvist
 
 -->
