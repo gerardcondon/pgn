@@ -21,3 +21,13 @@ chessity:
   rating: 1814
 - date: "2017.02.16"
   rating: 1914
+errors:
+- description: "Missed Opponent Response"
+  counts:
+  - "2017.02.01": 2
+- description: "Missed Fork"
+  counts:
+  - "2017.02.01": 1  
+- description: "Wrong Capture Order"
+  counts:
+  - "2017.02.01": 1
