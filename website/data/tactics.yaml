@@ -28,7 +28,10 @@ chessity:
 errors:
 - description: "Missed Opponent Response"
   counts:
-  - "2017.02.01": 2
+  - "2017.02.01": 2  
+- description: "Missed Opponent Recapture"
+  counts:
+  - "2017.02.01": 1
 - description: "Missed Fork"
   counts:
   - "2017.02.01": 1  
@@ -40,4 +43,4 @@ errors:
   - "2017.02.01": 3
 - description: "Missed Quiet Move"
   counts:
-  - "2017.02.01": 2
+  - "2017.02.01": 4
