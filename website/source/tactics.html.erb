@@ -3,71 +3,87 @@ title: My Chess Ratings
 twitter_card: true
 description: "My current Chessity Tactics Rating - and snazzy trend graphs"
 ---
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/esprima/2.7.3/esprima.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/3.8.1/js-yaml.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.13.0/moment.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.2.1/Chart.bundle.js"></script>
-	
+
 <h2>Chessity Tactics Rating</h2>
-<strong>Rating:</strong> <%= data.tactics.chessity.last.rating %> <br>
+<div id="rating"></div>
 
 <div>
 	<canvas id="canvas"></canvas>
 </div>
 
 <script>
-    function newDateString(days) {
-	    return moment(days, "YYYY-MM-DD").format();
-    }
+function newDateString(days) {
+    return moment(days, "YYYY-MM-DD").format();
+}
 
-		var config = {
-			type: 'line',
-			data: {
-				datasets: [{
-					label: "Historical Chessity Tactics Rating",
-					data: [
-					    <%= data.tactics.chessity.map { |rating| "{x:newDateString(\"" + rating.date + "\"), y:#{rating.rating}}" }.join(",") %>
-					],
-					fill: false,
-					borderColor: '#000000'
-				}]
-			},
-			options: {
-				responsive: true,
-				legend: {
-    display: false,
-},
-                title:{
-                    display:true,
-                    text:"Chessity Tactics Rating"
-                },
-				scales: {
-					xAxes: [{
-						type: "time",
-						display: true,
-						scaleLabel: {
-							display: true,
-							labelString: 'Date'
-						}
-					}],
-					yAxes: [{
-						display: true,
-						scaleLabel: {
-							display: true,
-							labelString: 'Rating'
-						},
-                ticks: {
-                    max: 2000,
-                    min: 1650
-                }
-					}]
-				}
-			}
-		};
-		
-		window.onload = function() {
-			var ctx = document.getElementById("canvas").getContext("2d");
-			ctx.imageSmoothingEnabled = false;
-			window.myLine = new Chart(ctx, config);
+function createChartJsConfig(processedData) {
+    return {
+		type: 'line',
+		data: {
+			datasets: [{
+				label: "Historical Chessity Tactics Rating",
+				data: processedData,
+				fill: false,
+				borderColor: '#000000'
+			}]
+		},
+		options: {
+			responsive: true,
+			legend: {
+                display: false,
+            },
+            title:{
+                display:true,
+                text:"Chessity Tactics Rating"
+            },
+    		scales: {
+    			xAxes: [{
+    				type: "time",
+    				display: true,
+    				scaleLabel: {
+    					display: true,
+    					labelString: 'Date'
+    				}
+    			}],
+    			yAxes: [{
+    				display: true,
+    				scaleLabel: {
+    					display: true,
+    					labelString: 'Rating'
+    				},
+                    ticks: {
+                        max: 2000,
+                        min: 1650
+                    }
+        		}]
+    		}
+		}
+	};
+}
+	
+function loadYamlFromUrl() {
+    $.get( "https://raw.githubusercontent.com/gerardcondon/chess/master/website/data/tactics.yaml", function( data ) {
+        var doc = jsyaml.load(data);
+        
+        var chessityData = doc.chessity;
+        var processedData = _.map(chessityData, function(chessityEntry, index, collection) {
+            return {x:newDateString(chessityEntry.date), y: chessityEntry.rating}
+        });
+        
+		var ctx = document.getElementById("canvas").getContext("2d");
+		ctx.imageSmoothingEnabled = false;
+		window.myLine = new Chart(ctx, createChartJsConfig(processedData));
+		$("#rating").html("<strong>Rating:</strong>" +  _.last(chessityData).rating + "<br>");
+    });
+}
 
-		};
+jQuery(document).ready(function($) {
+    loadYamlFromUrl()
+});
+
 </script>
