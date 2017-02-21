@@ -29,10 +29,15 @@ chessity:
   rating: 1889
 - date: "2017.02.20"
   rating: 1931
+- date: "2017.02.21"
+  rating: 1942
 errors:
 - description: "Missed Opponent Response"
   counts:
   - "2017.02.01": 2  
+- description: "Missed Opponent Check"
+  counts:
+  - "2017.02.01": 1
 - description: "Missed Opponent Recapture"
   counts:
   - "2017.02.01": 2
@@ -44,10 +49,22 @@ errors:
   - "2017.02.01": 2
 - description: "Missed Check"
   counts:
-  - "2017.02.01": 5
+  - "2017.02.01": 6
 - description: "Missed Capture"
   counts:
-  - "2017.02.01": 2
+  - "2017.02.01": 4
 - description: "Missed Quiet Move"
   counts:
-  - "2017.02.01": 5
+  - "2017.02.01": 6
+- description: "Missed Pin"
+  counts:
+  - "2017.02.01": 2
+- description: "Missed Hanging Piece"
+  counts:
+  - "2017.02.01": 1
+- description: "Missed Block Check"
+  counts:
+  - "2017.02.01": 1
+- description: "Missed Stop Mate"
+  counts:
+  - "2017.02.01": 1
