@@ -46,6 +46,9 @@ errors:
   - "2017.02.01": 1  
 - description: "Wrong Capture Order"
   counts:
+  - "2017.02.01": 2  
+- description: "Counting Error"
+  counts:
   - "2017.02.01": 2
 - description: "Missed Check"
   counts:
@@ -67,4 +70,10 @@ errors:
   - "2017.02.01": 1
 - description: "Missed Stop Mate"
   counts:
-  - "2017.02.01": 1
+  - "2017.02.01": 1  
+- description: "Missed Fork"
+  counts:
+  - "2017.02.01": 2
+- description: "Couldn't calculate far enough"
+  counts:
+  - "2017.02.01": 2
