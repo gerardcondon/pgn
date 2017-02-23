@@ -33,6 +33,8 @@ chessity:
   rating: 1942
 - date: "2017.02.22"
   rating: 1936
+- date: "2017.02.23"
+  rating: 1975
 errors:
 - description: "Missed Opponent Response"
   counts:
@@ -82,3 +84,6 @@ errors:
 - description: "Couldn't calculate far enough"
   counts:
   - "2017.02.01": 6
+- description: "Missed Opponent escape from check"
+  counts:
+  - "2017.02.01": 1
