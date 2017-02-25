@@ -35,55 +35,7 @@ chessity:
   rating: 1936
 - date: "2017.02.23"
   rating: 1975
-errors:
-- description: "Missed Opponent Response"
-  counts:
-  - "2017.02.01": 2  
-- description: "Missed Opponent Check"
-  counts:
-  - "2017.02.01": 2
-- description: "Missed Opponent Recapture"
-  counts:
-  - "2017.02.01": 2
-- description: "Missed Fork"
-  counts:
-  - "2017.02.01": 1  
-- description: "Wrong Capture Order"
-  counts:
-  - "2017.02.01": 2  
-- description: "Counting Error"
-  counts:
-  - "2017.02.01": 2
-- description: "Missed Check"
-  counts:
-  - "2017.02.01": 10
-- description: "Missed Capture"
-  counts:
-  - "2017.02.01": 7
-- description: "Missed Quiet Move"
-  counts:
-  - "2017.02.01": 7
-- description: "Missed Pin"
-  counts:
-  - "2017.02.01": 2
-- description: "Missed Skewer"
-  counts:
-  - "2017.02.01": 1
-- description: "Missed Hanging Piece"
-  counts:
-  - "2017.02.01": 1
-- description: "Missed Block Check"
-  counts:
-  - "2017.02.01": 1
-- description: "Missed Stop Mate"
-  counts:
-  - "2017.02.01": 1  
-- description: "Missed Fork"
-  counts:
-  - "2017.02.01": 2
-- description: "Couldn't calculate far enough"
-  counts:
-  - "2017.02.01": 6
-- description: "Missed Opponent escape from check"
-  counts:
-  - "2017.02.01": 1
+- date: "2017.02.24"
+  rating: 1914
+- date: "2017.02.25"
+  rating: 1809
