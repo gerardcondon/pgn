@@ -35,55 +35,71 @@ chessity:
   rating: 1936
 - date: "2017.02.23"
   rating: 1975
-errors:
-- description: "Missed Opponent Response"
-  counts:
-  - "2017.02.01": 2  
-- description: "Missed Opponent Check"
-  counts:
-  - "2017.02.01": 2
-- description: "Missed Opponent Recapture"
-  counts:
-  - "2017.02.01": 2
-- description: "Missed Fork"
-  counts:
-  - "2017.02.01": 1  
-- description: "Wrong Capture Order"
-  counts:
-  - "2017.02.01": 2  
-- description: "Counting Error"
-  counts:
-  - "2017.02.01": 2
-- description: "Missed Check"
-  counts:
-  - "2017.02.01": 10
-- description: "Missed Capture"
-  counts:
-  - "2017.02.01": 7
-- description: "Missed Quiet Move"
-  counts:
-  - "2017.02.01": 7
-- description: "Missed Pin"
-  counts:
-  - "2017.02.01": 2
-- description: "Missed Skewer"
-  counts:
-  - "2017.02.01": 1
-- description: "Missed Hanging Piece"
-  counts:
-  - "2017.02.01": 1
-- description: "Missed Block Check"
-  counts:
-  - "2017.02.01": 1
-- description: "Missed Stop Mate"
-  counts:
-  - "2017.02.01": 1  
-- description: "Missed Fork"
-  counts:
-  - "2017.02.01": 2
-- description: "Couldn't calculate far enough"
-  counts:
-  - "2017.02.01": 6
-- description: "Missed Opponent escape from check"
-  counts:
-  - "2017.02.01": 1
+- date: "2017.02.24"
+  rating: 1914
+- date: "2017.02.25"
+  rating: 1809  
+- date: "2017.02.26"
+  rating: 1834
+- date: "2017.02.27"
+  rating: 1861
+- date: "2017.02.28"
+  rating: 1902
+- date: "2017.03.01"
+  rating: 1925
+- date: "2017.03.02"
+  rating: 1948
+- date: "2017.03.03"
+  rating: 1862
+- date: "2017.03.04"
+  rating: 1816
+- date: "2017.03.05"
+  rating: 1894
+- date: "2017.03.06"
+  rating: 1935
+- date: "2017.03.07"
+  rating: 1978
+- date: "2017.03.08"
+  rating: 1999
+- date: "2017.03.09"
+  rating: 1994
+- date: "2017.03.10"
+  rating: 1931
+- date: "2017.03.11"
+  rating: 2008
+- date: "2017.03.12"
+  rating: 1990
+- date: "2017.03.13"
+  rating: 1907
+- date: "2017.03.14"
+  rating: 1963
+- date: "2017.03.15"
+  rating: 1904
+- date: "2017.03.16"
+  rating: 1932
+- date: "2017.03.17"
+  rating: 1895
+- date: "2017.03.18"
+  rating: 1926
+- date: "2017.03.19"
+  rating: 1893
+- date: "2017.03.20"
+  rating: 1910
+- date: "2017.03.21"
+  rating: 1980
+- date: "2017.03.22"
+  rating: 1987
+- date: "2017.03.23"
+  rating: 1995
+- date: "2017.03.24"
+  rating: 2025
+- date: "2017.03.25"
+  rating: 2072
+- date: "2017.03.26"
+  rating: 1990
+- date: "2017.03.27"
+  rating: 1895
+- date: "2017.03.28"
+  rating: 1876
+
+
