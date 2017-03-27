@@ -1,5 +1,5 @@
 event: "Cork Club Ladder 2016-2017"
-number_of_rounds: 3
+number_of_rounds: 4
 site: "Cork, Ireland"
 date: "2016.11.04"
 games: 
@@ -18,3 +18,8 @@ games:
   result: "1-0"
   pgn: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Cork%20Club%20Ladder%202016-2017/3.pgn"
   round: 3
+- white: "552"
+  black: "Condon, Gerard"
+  result: "1/2-1/2"
+  pgn: "https://raw.githubusercontent.com/gerardcondon/chess/master/tournaments/Cork%20Club%20Ladder%202016-2017/5.pgn"
+  round: 5
