@@ -8,3 +8,19 @@
 [Black "760"]
 [BlackElo "1326"]
 [Result "1-0"]
+[Event "?"]
+[Site "?"]
+[Date "2017.04.06"]
+[Round "?"]
+[White ""]
+[Black ""]
+[Result "*"]
+
+1. d4 f5 2. Nf3 e6 3. e3 d5 4. Be2 Nf6 5. O-O Bd6 6. b3 O-O 7. Ba3 c6 8. c4
+Bxa3 9. Nxa3 Qd6 10. c5 Qc7 11. b4 Nbd7 12. Qb3 e5 13. Rfc1 h6 14. b5 e4 15.
+Ne1 f4 16. exf4 Qxf4 17. g3 Qf5 18. Ng2 Rb8 19. Nc2 Ng4 20. Bxg4 Qxg4 21. Nce3
+Qf3 22. Rf1 Qe2 23. a4 a6 24. Nf4 Qf3 25. Rab1 axb5 26. axb5 cxb5 27. Nfxd5 Kh8
+28. Nf4 Kh7 29. Qd1 Nf6 30. Qxf3 exf3 31. Rxb5 Bd7 32. Rb6 Ne4 33. Rfb1 g5 34.
+Nfd5 Bc6 35. Ne7 Nc3 36. R1b4 Be4 37. c6 Ra8 38. h4 bxc6 39. Nxc6 gxh4 40. g4
+Ne2+ 41. Kh2 Ra1 42. Rb8 Rxb8 43. Nxb8 Ra7 44. d5 Rd7 45. Nxd7 *
+
