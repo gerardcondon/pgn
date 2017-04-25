@@ -21,7 +21,7 @@ function newDateString(days) {
     return moment(days, "YYYY-MM-DD").format();
 }
 
-function createChartJsConfig(processedData) {
+function createChartJsConfig(processedData, movingAverageData30, movingAverageData60) {
     return {
 		type: 'line',
 		data: {
@@ -30,6 +30,16 @@ function createChartJsConfig(processedData) {
 				data: processedData,
 				fill: false,
 				borderColor: '#000000'
+			},{
+				label: "30 Day Moving Average",
+				data: movingAverageData30,
+				fill: false,
+				borderColor: '#FF0000'
+			},{
+				label: "60 Day Moving Average",
+				data: movingAverageData60,
+				fill: false,
+				borderColor: '#0000FF'
 			}]
 		},
 		options: {
@@ -66,6 +76,22 @@ function createChartJsConfig(processedData) {
 	};
 }
 	
+function simpleMovingAverager(period) {
+    var nums = [];
+    return function(num) {
+        nums.push(num);
+        if (nums.length > period)
+            nums.splice(0,1);  // remove the first element of the array
+        var sum = 0;
+        for (var i in nums)
+            sum += nums[i];
+        var n = period;
+        if (nums.length < period)
+            n = nums.length;
+        return(sum/n);
+    }
+}
+	
 function loadYamlFromUrl() {
     $.get( "https://raw.githubusercontent.com/gerardcondon/chess/master/website/data/tactics.yaml", function( data ) {
         var doc = jsyaml.load(data);
@@ -74,10 +100,18 @@ function loadYamlFromUrl() {
         var processedData = _.map(chessityData, function(chessityEntry, index, collection) {
             return {x:newDateString(chessityEntry.date), y: chessityEntry.rating}
         });
+        sma30 = simpleMovingAverager(30);
+        sma60 = simpleMovingAverager(60);
+        var movingAverageData30 = _.map(chessityData, function(chessityEntry, index, collection) {
+            return {x:newDateString(chessityEntry.date), y: sma30(chessityEntry.rating)}
+        });
+        var movingAverageData60 = _.map(chessityData, function(chessityEntry, index, collection) {
+            return {x:newDateString(chessityEntry.date), y: sma60(chessityEntry.rating)}
+        });
         
 		var ctx = document.getElementById("canvas").getContext("2d");
 		ctx.imageSmoothingEnabled = false;
-		window.myLine = new Chart(ctx, createChartJsConfig(processedData));
+		window.myLine = new Chart(ctx, createChartJsConfig(processedData, movingAverageData30, movingAverageData60));
 		$("#rating").html("<strong>Rating:</strong>" +  _.last(chessityData).rating + "<br>");
     });
 }
