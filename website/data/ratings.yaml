@@ -52,7 +52,13 @@ icu:
   rating: 1509
 - event: "Cork Congress 2017"
   date: "2017.03.31"
-  rating: 1524
+  rating: 1522
+- event: "Munster League Division 1 2016-2017 R12 & 13"
+  date: "2017.04.30"
+  rating: 1513
+- event: "Munster League Division 1 2016-2017 R14"
+  date: "2017.05.21"
+  rating: 1505
 fide:
 - event: "January 2017 List"
   date: "2017.01.01"
@@ -63,16 +69,22 @@ fide:
 ucr:
 - event: "November 2016 List"
   date: "2016.11.01"
-  rating: 1873
-- event: "November 2016 List"
+  rating: 1903
+- event: "December 2016 List"
   date: "2016.12.01"
-  rating: 1873
+  rating: 1850
 - event: "January 2017 List"
   date: "2017.01.01"
-  rating: 1828
+  rating: 1898
 - event: "February 2017 List"
   date: "2017.02.01"
-  rating: 1825
+  rating: 1902
 - event: "March 2017 List"
-  date: "2017.02.01"
-  rating: 1827
+  date: "2017.03.01"
+  rating: 1860
+- event: "April 2017 List"
+  date: "2017.04.01"
+  rating: 1795
+- event: "May 2017 List"
+  date: "2017.05.01"
+  rating: 1796
