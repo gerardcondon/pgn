@@ -23,8 +23,8 @@ twitter_card: true
 
     <tbody>
     <% game_number = 1 %>
-    <% tournament.games.each do |game| %>
-        <% game_link = chess_collection_file_name(game.white + "-" + game.black) + "-#{game_number}.html" %>
+    <% tournament.games.sort_by {|game| "#{game.date}.#{game.round}" }.each do |game| %>
+        <% game_link = chess_collection_file_name(game.white + "-" + game.black) + "-#{game.round}.html" %>
         <% game_number += 1 %>
         <tr class='<%= row_colour_for_my_game(game.white, game.result) %> clickable-row' data-href='<%= game_link %>'>
             <td><%= game.round %></td>

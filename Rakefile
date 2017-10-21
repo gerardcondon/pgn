@@ -4,6 +4,7 @@ require "ostruct"
 require_relative "lib/pgn_game"
 require_relative "lib/tournament"
 require_relative "lib/parser/collection_parser"
+require_relative "lib/parser/tournament_parser"
 
 MY_NAME = "Condon, Gerard"
 DEFAULT_SITE = "Cork, Ireland"
@@ -113,6 +114,20 @@ end
 desc "Serve out the preview website"
 task :serve do
     puts "middleman server -p $PORT"
+end
+
+desc "Process all tournaments"
+task :parse_tournaments do
+  parsed_tournaments = folders.map { |folder| TournamentParser.parse folder }
+   
+  presenters = parsed_tournaments.map do |parsed_tournament| 
+    presenter = TournamentPresenter.new(tournament: parsed_tournament)
+    IO.write("website/data/generated/#{chess_collection_file_name(parsed_tournament.event)}.yaml", presenter.to_yaml)
+    presenter
+  end
+   
+  presenter = TournamentsPresenter.new(tournaments: presenters)
+  IO.write("website/data/generated/tournaments.yaml", presenter.to_yaml)
 end
 
 end

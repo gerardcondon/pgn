@@ -15,7 +15,7 @@ description: "PGN and analysis for all the games from my chess tournaments"
     </thead>
 
     <tbody>
-    <% data.tournaments.each do |tournament| %>
+    <% data.generated.tournaments.each do |tournament| %>
         <tr class='clickable-row' data-href='<%= chess_collection_file_name("#{tournament.event}") + "/" + chess_collection_file_name("#{tournament.event}") + ".html" %>'>
             <td><%= tournament.event %></td>
             <td> <%= tournament.number_of_rounds %></td>
@@ -38,7 +38,7 @@ description: "PGN and analysis for all the games from my chess tournaments"
     </thead>
 
     <tbody>
-    <% @all_games.each do |game| %>
+    <% @all_games.sort_by {|g| "#{g[:game][:date]}.#{g[:game][:round]}" }.each do |game| %>
         <tr class='<%= row_colour_for_my_game(game[:game]["white"], game[:game]["result"]) %> clickable-row' data-href='/chess<%= game[:file_name] %>'>
             <td><%= game[:tournament] %></td>
             <td><%= game[:game]["round"] %></td>

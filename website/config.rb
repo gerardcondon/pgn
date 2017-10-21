@@ -115,18 +115,16 @@ end
 
 all_games = []
 
-data.tournaments.each do |tournament|
+data.generated.tournaments.each do |tournament|
   file_name = chess_collection_file_name(tournament.event)
   tournament_page = "/#{file_name}/#{file_name}.html"
   proxy tournament_page, "/tournaments/tournament.html",
     :locals => {no_sidebar: true, title: tournament.event, 
-      description: "My games at the #{tournament.event}", tournament: data[file_name] }, :ignore => true
-  game_number = 1
-  data[file_name].games.each do |game|
-    game_file_name = "/#{file_name}/" + chess_collection_file_name(game.white + "-" + game.black) + "-#{game_number}.html"
+      description: "My games at the #{tournament.event}", tournament: data.generated[file_name] }, :ignore => true
+  data.generated[file_name].games.each do |game|
+    game_file_name = "/#{file_name}/" + chess_collection_file_name(game.white + "-" + game.black) + "-#{game.round}.html"
     proxy game_file_name, "/tournaments/game.html",
-      :locals => {no_sidebar: true, tournament: tournament_page, tournament_name: tournament.event, title: "#{game.white + "-" + game.black}", game: game, game_number: game_number}, :ignore => true
-    game_number += 1
+      :locals => {no_sidebar: true, tournament: tournament_page, tournament_name: tournament.event, title: "#{game.white + "-" + game.black}", game: game}, :ignore => true
     all_games << {game: game, file_name: game_file_name, tournament: tournament.event}
   end
 end
