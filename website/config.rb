@@ -194,6 +194,7 @@ set :theme_name, false
 @analytics_account = "UA-71152906-1"
 
 page "/feed.xml", layout: false
+page "/diagram.html", layout: :diagram
 page "/atom.xml", layout: false
 set :css_dir, 'stylesheets'
 
