@@ -106,6 +106,8 @@ There are lots of chess players streaming on Twitch and Youtube. Here are the on
 <dt><a href="https://www.youtube.com/channel/UClV9nqHHcsrm2krkFDPPr-g"> GingerGM</a></dt>
 <dt><a href="https://www.youtube.com/channel/UC6hOVYvNn79Sl1Fc1vx2mYA"> IM John Bartholemew</a></dt>
 <dt><a href="https://www.youtube.com/channel/UCNB4vCw1iI8c-vMkgPZIz5w"> Astaneh Chess</a></dt>
+<dt><a href="https://www.youtube.com/channel/UCDNozeBDWSFSvGUkcKJEfSA"> Lucas Anderson</a></dt>
+<dd> Some great videos on the past world champions</dd>
 </dl>
 
 
