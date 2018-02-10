@@ -2,7 +2,7 @@
 title: New Ladder Season
 date: 2017-10-28 13:28 UTC
 tags: chess
-description: Evening Echo Clubzone Feature on Cork Chess Club
+description: My games from the first round of the Cork Club Ladder for the 2017-2018 season
 ---
 
 I played my first [game](http://www.gerardcondon.com/chess/cork-club-ladder-2017-2018/572-condon-gerard-1.html) in the new season of the Ladder tournament last week. 
