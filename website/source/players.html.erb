@@ -1,0 +1,38 @@
+---
+title: My Chess Tournaments
+twitter_card: true
+description: "PGN and analysis for all the games against various players"
+---
+
+<h2>Players</h2>
+
+<table class="table table-hover table-striped table-bordered">
+    <thead>
+        <tr>
+          <th>Player</th>
+          <th>Wins</th>
+          <th>Draws</th>
+          <th>Losses</th>
+        </tr>
+    </thead>
+
+    <tbody>
+    <% @players_games.each_pair do |player, games| %>
+        <% results = games.each_with_object(Hash.new(0)) { |game, h| h[game_result(game[:game][:white], game[:game][:result])] += 1 } %>
+        <tr class='<%= row_colour_for_player(results) %> clickable-row' data-href=''>
+            <td><%= player %></td>
+            <td><%= results[:win] %></td>
+            <td><%= results[:draw] %></td>
+            <td><%= results[:loss] %></td>
+        </tr>
+    <% end %>
+    </tbody>
+</table>
+
+<script>
+jQuery(document).ready(function($) {
+    $(".clickable-row").click(function() {
+        window.document.location = $(this).data("href");
+    });
+});
+</script>

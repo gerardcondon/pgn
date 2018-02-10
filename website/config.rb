@@ -82,6 +82,16 @@ helpers do
     ["active", "success", "info", "warning", "danger"][round % 5]
   end
   
+  def game_result white_player_name, result
+    if result.eql? "1-0"
+      return (white_player_name.eql? "Condon, Gerard") ? :win : :loss 
+    elsif result.eql? "1/2-1/2"
+      return :draw
+    else
+      return (white_player_name.eql? "Condon, Gerard") ? :loss : :win 
+    end
+  end
+  
   def row_colour_for_my_game white_player_name, result
     if result.eql? "1-0"
       return (white_player_name.eql? "Condon, Gerard") ? "success" : "danger" 
@@ -97,6 +107,18 @@ helpers do
       return "danger" 
     end
     "success"
+  end
+  
+  def row_colour_for_player results
+    if results[:win] > results[:loss]
+      return "success" 
+    elsif results[:win] < results[:loss]
+      return "danger" 
+    end
+    "active"
+  end
+  def opponent_for_game game
+    return (game[:white].eql? "Condon, Gerard") ? game[:black] : game[:white]
   end
 end
 
@@ -131,6 +153,11 @@ end
 
 page "/tournaments.html" do
   @all_games = all_games
+end
+
+players_games = all_games.group_by{|game| opponent_for_game(game[:game])}
+page "/players.html" do
+  @players_games = players_games
 end
 
 ###
