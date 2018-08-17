@@ -119,7 +119,7 @@ end
 desc "Process all tournaments"
 task :parse_tournaments do
   parsed_tournaments = folders.map { |folder| TournamentParser.parse folder }
-   
+  mkdir_p("website/data/generated") 
   presenters = parsed_tournaments.map do |parsed_tournament| 
     presenter = TournamentPresenter.new(tournament: parsed_tournament)
     IO.write("website/data/generated/#{chess_collection_file_name(parsed_tournament.event)}.yaml", presenter.to_yaml)
