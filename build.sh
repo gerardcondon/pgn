@@ -9,6 +9,7 @@ git config --global user.email "$USER_EMAIL"
 git submodule init
 git submodule update
 
+bundle
 rake website:parse_tournaments
 rake website:parse_collections
 
