@@ -17,4 +17,4 @@ I was only able to play one of the three days for this but luckily enough it was
 </figure>
 
 <br>
-I've posted the [two games](http://www.gerardcondon.com/chess/munster-league-division-2-2016/munster-league-division-2-2016.html) I played in this year's competition. Here are the reports on the [Cork Chess site](http://corkchess.com/munster-league/) and the [Munster League Site](http://www.munsterchessunion.org). Here's to next year and Division 1.
+I've posted the [two games](https://www.gerardcondon.com/chess/munster-league-division-2-2016/munster-league-division-2-2016.html) I played in this year's competition. Here are the reports on the [Cork Chess site](http://corkchess.com/munster-league/) and the [Munster League Site](http://www.munsterchessunion.org). Here's to next year and Division 1.

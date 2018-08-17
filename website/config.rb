@@ -34,7 +34,7 @@ set :markdown_engine, :redcarpet
 # Clear out automated posts folder
 automated_posts_folder = "#{config[:source]}/posts/automated"
 FileUtils.rmtree(automated_posts_folder)
-FileUtils.mkdir(automated_posts_folder)
+FileUtils.mkdir_p(automated_posts_folder)
 
 post_counter = 1
 data.microposts.each do |micropost|
@@ -209,7 +209,7 @@ page "/sitemap.xml", layout: false
 # Site Settings
 ###
 # Set site setting, used in helpers / sitemap.xml / feed.xml.
-set :site_url, 'http://www.gerardcondon.com/chess'
+set :site_url, 'https://www.gerardcondon.com/chess'
 set :site_author, 'Gerard Condon'
 set :site_title, 'Chess Analysis'
 set :site_description, 'Site containing analysis of my chess games.'
@@ -228,15 +228,6 @@ set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
-
-after_configuration do
-  @bower_config = JSON.parse(IO.read("#{root}/.bowerrc"))
-  Dir.glob(File.join("#{root}", @bower_config["directory"], "*", "fonts")) do |f|
-    sprockets.append_path f
-  end
-  sprockets.append_path File.join "#{root}", @bower_config["directory"]
-end
-
 
 set :relative_links, true
 
@@ -265,5 +256,7 @@ activate :deploy do |deploy|
   # deploy.remote   = 'custom-remote' # remote name or git url, default: origin
   # deploy.branch   = 'custom-branch' # default: gh-pages
   # deploy.strategy = :submodule      # commit strategy: can be :force_push or :submodule, default: :force_push
-  # deploy.commit_message = 'custom-message'      # commit message (can be empty), default: Automated commit at `timestamp` by middleman-deploy `version`
+  signature = "#{Middleman::Deploy::PACKAGE} #{Middleman::Deploy::VERSION}"
+  time      = "#{Time.now.utc}"
+  deploy.commit_message = "Automated commit at #{time} by #{signature} [ci skip]"
 end
