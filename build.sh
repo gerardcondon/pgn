@@ -16,4 +16,4 @@ rake website:parse_collections
 cd website
 bundle
 middleman build
-#middleman deploy
+middleman deploy
