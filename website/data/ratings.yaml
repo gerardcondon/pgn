@@ -68,6 +68,21 @@ icu:
 - event: "Munster League Division 1 2017-2018 R3 & 4"
   date: "2017.11.26"
   rating: 1504
+- event: "Munster League Division 1 2017-2018 R5"
+  date: "2017.12.17"
+  rating: 1483
+- event: "Munster League Division 1 2017-2018 R8 & 9"
+  date: "2018.02.04"
+  rating: 1499
+- event: "Munster League Division 1 2017-2018 R10"
+  date: "2018.03.10"
+  rating: 1489
+- event: "Munster League Division 1 2017-2018 R12 & 13"
+  date: "2018.04.15"
+  rating: 1486
+- event: "Cork Club Championship 2017-2018"
+  date: "2018.05.11"
+  rating: 1506
 fide:
 - event: "January 2017 List"
   date: "2017.01.01"
