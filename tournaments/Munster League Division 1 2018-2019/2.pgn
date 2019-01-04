@@ -1,6 +1,6 @@
 [Event "Munster League Division 1 2018-2019"]
 [Site "Charleville, Ireland"]
-[Date ""]
+[Date "2018.11.04"]
 [TimeControl "5400+30"]
 [Round "2"]
 [White "380"]
@@ -8,3 +8,15 @@
 [Black "Condon, Gerard"]
 [BlackElo "1507"]
 [Result "1-0"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bg5 h6 7. Nxf6+ Nxf6
+8. Bh4 c5 9. dxc5 Qxd1+ 10. Rxd1 Bxc5 11. Bb5+ Bd7 12. Rxd7 Nxd7 13. Ne5 O-O
+14. Nxd7 Rfc8 15. Nxc5 Rxc5 16. Bd3 g5 17. Bg3 Rd8 18. O-O a6 19. f3 Rd7 20.
+Re1 Kf8 21. Re5 Rxe5 22. Bxe5 Ke7 23. Kf2 h5 24. Kg3 f6 25. Bc3 h4+ 26. Kg4 e5
+27. Kf5 Kf7 28. f4 h3 29. gxh3 gxf4 30. Kg4 b5 31. h4 Rd8 32. h5 Rg8+ 33. Bg6+
+Kg7 34. Bb4 Rd8 35. Bd3 Kf7 36. h6 Rg8+ 37. Kf3 Rg5 38. h7 Rh5 39. Kg2 Kg7 40.
+Bd6 f3+ 41. Kxf3 Rxh2 42. Kg4 Rg2+ 43. Kf5 Kxh7 44. Kxf6+ Kh6 45. Bxe5 Rf2+ 46.
+Ke6 Rf8 47. Kd6 Kg5 48. Kc6 Re8 49. Bc7 Re6+ 50. Kb7 Kf6 51. Bb6 Ke5 52. Kxa6
+Kd6 53. Kxb5 Re5+ 54. Kb4 Kc6 55. Bd4 Re7 56. a4 Kb7 57. a5 Rd7 58. Bc5 Ka8 59.
+a6 Rd8 60. Be4+ 1-0
+
