@@ -1,9 +1,9 @@
-- event: "23rd World Championship"
-  number_of_rounds: 21
-  site: "Moscow"
-  date: "1960.??.??"
-
 - event: "Zürich 1953"
   number_of_rounds: 30
   site: "Zürich"
   date: "1953.??.??"
+
+- event: "23rd World Championship"
+  number_of_rounds: 21
+  site: "Moscow"
+  date: "1960.??.??"
