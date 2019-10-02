@@ -31,6 +31,15 @@ Gabhann an Ceithearnach i slí difriúil ón gcaoi a bhogann sé. Gabhann an cei
 Nuair a shroicheann ceithearnach an céim dheireanach, is píosa eile é! I bhformhór na suíomh athróidh sé go banríon.
 Ní féidir é a fhágáil ina ceithearnach agus níl cead é a ardú chun cinn go rí. 
 
+### An Ridire
+
+Tá dhá Ridire ar gach taobh. Bogann an ridire i gcruth L. 
+- Cearnóg amháin ar an dá thaobh agus ansin dhá chearnóg chun tosaigh nó ar ais. 
+- Nó aon chearnóg chun tosaigh nó ar ais agus ansin dhá chearnóg ar an taobh.
+
+Is féidir leis an ridire léim thar píosaí cairdiúla agus píosaí naimhde gan aon tionchar aige ar na fir a léimeann sé tharstu. 
+Gabhann an ridire aon phíosa naimhde nó ceithearnach.
+
 ### Naisc
 * [Focloir](https://www.icu.ie/downloads/188)
 * [Conas a imirt](https://www.icu.ie/downloads/189)
