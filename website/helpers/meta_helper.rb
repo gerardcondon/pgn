@@ -43,7 +43,7 @@ end
 def insert_fen_diagram fen, caption
   str = "<figure>"
   str += "<div class=\"fen-wrapper\">"
-  str += "<p align=\"center\"><iframe class=\"scaled-fen-frame\" height=\"395\" width=\"395\" align=\"middle\" src=\"diagram.html?fen=#{fen}\"></iframe></p>"
+  str += "<p align=\"center\"><iframe class=\"scaled-fen-frame\" height=\"395\" width=\"395\" align=\"middle\" src=\"www.gerardcondon.com/chess/diagram.html?fen=#{fen}\"></iframe></p>"
   str += "</div>"
   str += "<figcaption>#{caption}</figcaption>"
   str += "</figure>"
