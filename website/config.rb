@@ -44,10 +44,14 @@ data.microposts.each do |micropost|
   post_content += "tags: microposts\n"
   post_content += "micropost: true\n"
   post_content += "---\n"
-  post_content += "#{micropost.text}"
-  
-  File.write("#{automated_posts_folder}/#{micropost.date}-mp#{post_counter}.html.md", post_content)
-  
+
+  if micropost.image
+    post_content += "<%= embed_media(gc_markdown(#{micropost.text.dump}), #{micropost.image.dump}) %>"
+    File.write("#{automated_posts_folder}/#{micropost.date}-mp#{post_counter}.html.markdown.erb", post_content)
+  else
+    post_content += "#{micropost.text}"
+    File.write("#{automated_posts_folder}/#{micropost.date}-mp#{post_counter}.html.md", post_content)
+  end
   post_counter += 1
 end
 

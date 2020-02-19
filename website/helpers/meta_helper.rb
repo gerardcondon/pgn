@@ -1,3 +1,6 @@
+require "redcarpet"
+require "redcarpet/compat"
+
 def page_title
   title = current_page.data.title || site_title
   if current_article && current_article.title
@@ -48,6 +51,19 @@ def insert_fen_diagram fen, caption
   str += "<figcaption>#{caption}</figcaption>"
   str += "</figure>"
   return str
+end
+
+def embed_media(text, image_name)
+  pre = '<div class="media"><div class="media-left"><a href="#"><img class="thumbnail media-object" style="height: 120px;" src="images/'
+  middle = '"></a></div><div class="media-body">'
+  post = '</div></div>'
+  return pre + image_name + middle + "\n\n" + text  + "\n\n" + post
+end
+
+
+def gc_markdown(text)
+  markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML)
+  return markdown.render(text).html_safe
 end
 
 module Middleman
