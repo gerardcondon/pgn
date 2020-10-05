@@ -13,6 +13,48 @@ description: "My current ICU, FIDE and URS chess ratings - and snazzy trend grap
 <strong>Universal Rating System:</strong> <a href="http://universalrating.com/player.php?PlayerID=442657"><%= data.ratings.ucr.last.rating %></a> <br>
 <strong>Chessity Tactics Rating:</strong> <a href="tactics.html"><%= data.tactics.chessity.last.rating %></a> <br>
 
+<h2>Lichess Stats</h2>
+<table class="table table-hover table-striped table-bordered">
+
+    <tbody>
+        <tr>
+            <td>Username</td>
+            <td id='username'></td>
+        </tr>
+        <tr>
+            <td>Time played</td>
+            <td id='time-played'></td>
+        </tr>
+    </tbody>
+</table>
+
+<table class="table table-hover table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>Type</th>
+            <th>Rating</th>
+            <th>Number of Games Played</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Blitz</td>
+            <td id='blitz-rating'></td>
+            <td id='blitz-games-played'></td>
+        </tr>
+        <tr>
+            <td>Rapid</td>
+            <td id='rapid-rating'></td>
+            <td id='rapid-games-played'></td>
+        </tr>
+        <tr>
+            <td>Classical</td>
+            <td id='classical-rating'></td>
+            <td id='classical-games-played'></td>
+        </tr>
+    </tbody>
+</table>
+
 <h2>Rating History</h2>
 
 <div>
@@ -100,3 +142,28 @@ description: "My current ICU, FIDE and URS chess ratings - and snazzy trend grap
     <% end %>
     </tbody>
 </table>
+
+<script>
+jQuery(document).ready(function($) {
+    $.getJSON( "https://lichess.org/api/user/gercondon", function( data ) {
+  	$('#username').text(data.username)
+    $('#blitz-rating').text(data.perfs.blitz.rating)
+    $('#blitz-games-played').text(data.perfs.blitz.games)
+    $('#rapid-rating').text(data.perfs.rapid.rating)
+    $('#rapid-games-played').text(data.perfs.rapid.games)
+    $('#classical-rating').text(data.perfs.classical.rating)
+    $('#classical-games-played').text(data.perfs.classical.games)
+
+    var time = data.playTime.total
+    var hours = Math.floor(time / 3600);
+    time -= hours * 3600;
+    var minutes = Math.floor(time / 60);
+    time -= minutes * 60;
+    var seconds = parseInt(time % 60, 10);
+    $('#time-played').text(hours + " hours " + minutes + " minutes " + seconds + " seconds");
+});
+
+});
+
+
+</script>

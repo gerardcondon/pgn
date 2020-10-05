@@ -4,6 +4,7 @@ twitter_card: true
 description: "My Lichess Stats"
 ---
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.13.0/moment.min.js"></script>
 <table class="table table-hover table-striped table-bordered">
 
     <tbody>
@@ -12,18 +13,83 @@ description: "My Lichess Stats"
             <td id='username'></td>
         </tr>
         <tr>
-            <td>JSON</td>
-            <td id='json'></td>
+            <td>Time played</td>
+            <td id='time-played'></td>
         </tr>
+    </tbody>
+</table>
+
+<table class="table table-hover table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>Type</th>
+            <th>Rating</th>
+            <th>Number of Games Played</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Blitz</td>
+            <td id='blitz-rating'></td>
+            <td id='blitz-games-played'></td>
+        </tr>
+        <tr>
+            <td>Rapid</td>
+            <td id='rapid-rating'></td>
+            <td id='rapid-games-played'></td>
+        </tr>
+        <tr>
+            <td>Classical</td>
+            <td id='classical-rating'></td>
+            <td id='classical-games-played'></td>
+        </tr>
+    </tbody>
+</table>
+
+
+<table class="table table-hover table-striped table-bordered" id='rating-table'>
+    <thead>
+        <tr>
+            <th>Date</th>
+            <th>Rating</th>
+        </tr>
+    </thead>
+    <tbody id='rating-body'>
     </tbody>
 </table>
 
 <script>
 jQuery(document).ready(function($) {
     $.getJSON( "https://lichess.org/api/user/gercondon", function( data ) {
-  	$('#username').text(data.username)
-  	$('#json').text(JSON.stringify(data))
-});
+      	$('#username').text(data.username)
+        $('#blitz-rating').text(data.perfs.blitz.rating)
+        $('#blitz-games-played').text(data.perfs.blitz.games)
+        $('#rapid-rating').text(data.perfs.rapid.rating)
+        $('#rapid-games-played').text(data.perfs.rapid.games)
+        $('#classical-rating').text(data.perfs.classical.rating)
+        $('#classical-games-played').text(data.perfs.classical.games)
+
+        var time = data.playTime.total
+        var hours = Math.floor(time / 3600);
+        time -= hours * 3600;
+        var minutes = Math.floor(time / 60);
+        time -= minutes * 60;
+        var seconds = parseInt(time % 60, 10);
+        $('#time-played').text(hours + " hours " + minutes + " minutes " + seconds + " seconds");
+    });
+
+    $.getJSON( "https://lichess.org/api/user/gercondon/rating-history", function( data ) {
+        var blitzData = data.filter(obj => {
+          return obj.name === "Blitz"
+        })
+        blitzData[0].points.forEach(item => {
+            d = moment({ year:item[0], month:item[1], day:item[2]}) 
+            $('#rating-body').prepend("<tr><td>" + d.format("YYYY-MM-DD") + "</td><td>" + item[3] + "</td></tr>")
+            })
+        //moment({ year :2010, month :3, day :5,
+    });
 
 });
+
+
 </script>
