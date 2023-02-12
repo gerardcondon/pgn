@@ -9,7 +9,8 @@ git config --global user.email "$USER_EMAIL"
 git submodule init
 git submodule update
 
-bundle
+gem install bundler:1.17.3
+bundle _1.17.3_
 rake website:parse_tournaments
 rake website:parse_collections
 
