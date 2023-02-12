@@ -1,0 +1,143 @@
+/*
+  any variables and settings should be defined here,
+  like colors for instance
+*/
+@import url("../fonts/pgn4web-font-LiberationSans.css");
+@import url("../fonts/pgn4web-font-ChessSansUsual.css");
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/circleci\/repo\/website\/source\/stylesheets\/all\.scss}line{font-family:\000035}}
+.tag-item {
+  padding-left: 10px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/circleci\/repo\/website\/source\/stylesheets\/all\.scss}line{font-family:\0000312}}
+figcaption {
+  text-align: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/circleci\/repo\/website\/source\/stylesheets\/all\.scss}line{font-family:\0000316}}
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }
+
+/* -----------------  PGN CSS ------------------ */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/circleci\/repo\/website\/source\/stylesheets\/all\.scss}line{font-family:\0000325}}
+.boardTable {
+  border-style: double;
+  border-color: black;
+  border-width: 3px;
+  box-shadow: 0px 0px 15px #AAAAAA; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/circleci\/repo\/website\/source\/stylesheets\/all\.scss}line{font-family:\0000332}}
+.pieceImage {
+  width: 48px;
+  height: 48px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/circleci\/repo\/website\/source\/stylesheets\/all\.scss}line{font-family:\0000337}}
+.whiteSquare,
+.blackSquare,
+.highlightWhiteSquare,
+.highlightBlackSquare {
+  width: 48px;
+  height: 48px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/circleci\/repo\/website\/source\/stylesheets\/all\.scss}line{font-family:\0000345}}
+.whiteSquare,
+.highlightWhiteSquare {
+  background: #EFF4EC; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/circleci\/repo\/website\/source\/stylesheets\/all\.scss}line{font-family:\0000350}}
+.blackSquare,
+.highlightBlackSquare {
+  background: #C6CEC3; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/circleci\/repo\/website\/source\/stylesheets\/all\.scss}line{font-family:\0000355}}
+.highlightWhiteSquare,
+.highlightBlackSquare {
+  background: #DAF4D7; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/circleci\/repo\/website\/source\/stylesheets\/all\.scss}line{font-family:\0000360}}
+.selectControl {
+  /* a "width" attribute here must use the !important flag to override default settings */ }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/circleci\/repo\/website\/source\/stylesheets\/all\.scss}line{font-family:\0000367}}
+.buttonControlPlay,
+.buttonControlStop,
+.buttonControl {
+  /* a "width" attribute here must use the !important flag to override default settings */ }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/circleci\/repo\/website\/source\/stylesheets\/all\.scss}line{font-family:\0000373}}
+.buttonControlSpace {
+  /* a "width" attribute here must use the !important flag to override default settings */ }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/circleci\/repo\/website\/source\/stylesheets\/all\.scss}line{font-family:\0000377}}
+.searchPgnButton {
+  /* a "width" attribute here must use the !important flag to override default settings */ }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/circleci\/repo\/website\/source\/stylesheets\/all\.scss}line{font-family:\0000381}}
+.searchPgnExpression {
+  /* a "width" attribute here must use the !important flag to override default settings */ }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/circleci\/repo\/website\/source\/stylesheets\/all\.scss}line{font-family:\0000385}}
+.move,
+.variation {
+  font-weight: normal;
+  text-decoration: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/circleci\/repo\/website\/source\/stylesheets\/all\.scss}line{font-family:\0000391}}
+.move,
+.variation,
+.commentMove {
+  font-family: 'pgn4web ChessSansUsual', 'pgn4web Liberation Sans', sans-serif; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/circleci\/repo\/website\/source\/stylesheets\/all\.scss}line{font-family:\0000397}}
+a.move,
+a.variation,
+.commentMove {
+  white-space: nowrap; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/circleci\/repo\/website\/source\/stylesheets\/all\.scss}line{font-family:\00003103}}
+.move {
+  color: black; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/circleci\/repo\/website\/source\/stylesheets\/all\.scss}line{font-family:\00003107}}
+.comment,
+.variation {
+  color: gray; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/circleci\/repo\/website\/source\/stylesheets\/all\.scss}line{font-family:\00003112}}
+.moveOn,
+.variationOn {
+  background: #DAF4D7; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/circleci\/repo\/website\/source\/stylesheets\/all\.scss}line{font-family:\00003117}}
+.label-tag {
+  vertical-align: 20%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/circleci\/repo\/website\/source\/stylesheets\/all\.scss}line{font-family:\00003121}}
+.fen-wrapper {
+  width: 198px;
+  height: 198px;
+  padding: 0;
+  overflow: hidden;
+  margin: auto; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/circleci\/repo\/website\/source\/stylesheets\/all\.scss}line{font-family:\00003122}}
+.scaled-fen-frame {
+  display: block;
+  width: 395px;
+  height: 395px;
+  border: 0px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/circleci\/repo\/website\/source\/stylesheets\/all\.scss}line{font-family:\00003123}}
+.scaled-fen-frame {
+  zoom: 0.50;
+  -moz-transform: scale(0.5);
+  -moz-transform-origin: 0 0;
+  -o-transform: scale(0.5);
+  -o-transform-origin: 0 0;
+  -webkit-transform: scale(0.5);
+  -webkit-transform-origin: 0 0; }
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/home\/circleci\/repo\/website\/source\/stylesheets\/all\.scss}line{font-family:\00003134}}
+  .scaled-fen-frame {
+    zoom: 1; } }
